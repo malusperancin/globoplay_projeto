@@ -1,0 +1,1664 @@
+[
+    {
+      "title": "Categorias",
+      "contentType": "CATEGORY",
+      "uiDefinitions": {
+        "height": 292,
+        "hasMediaCover": true
+      },
+      "offerId": "2de900b3-a047-4571-b278-805136a0c249",
+      "isVideo": false,
+      "playlistEnabled": false,
+      "cards": [
+        {
+          "UI_number": 0,
+          "UI_customHeight": 262,
+          "backgroundUrl": "http://s2.glbimg.com/01WJv79Ce9Ou2WivZTJOYP1lq_M=/0x720/BeDWmdLyz9RG0k4cphyuNZbE9_8=/1280x720/center/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/L/3/InMgIMSXCSwTTWk7QEEg/cara-e-coragem-imagem-de-categoria.jpg",
+          "id": "bd71913d-9202-4e74-9916-308df7977613",
+          "headline": "Novelas",
+          "displayName": "Novelas",
+          "navigation": {
+            "__typename": "MenuPageNavigation",
+            "UI_typename": "MenuPageNavigation",
+            "identifier": "novelas"
+          },
+          "posterUrl": "http://s2.glbimg.com/K1HpyK0yrH3Bmwe2cddORebov_8=/0x196/KMqpXYv9dtRLQ6ZJD2QX_FpQju8=/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/L/3/InMgIMSXCSwTTWk7QEEg/cara-e-coragem-imagem-de-categoria.jpg"
+        },
+        {
+          "UI_number": 1,
+          "UI_customHeight": 262,
+          "backgroundUrl": "http://s2.glbimg.com/mGz8d8A6BKf5eQvrQQbjIQuiec4=/0x720/EvVETDy7YO-BHAQ1nWgt5dyB7Ss=/1280x720/center/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/S/N/NCJPoqTJAiKBSizVCoLQ/walker-t2.jpg",
+          "id": "4f02072b-8bf3-4e10-af2e-b247ecf9ba29",
+          "headline": "Séries",
+          "displayName": "Séries",
+          "navigation": {
+            "__typename": "MenuPageNavigation",
+            "UI_typename": "MenuPageNavigation",
+            "identifier": "series"
+          },
+          "posterUrl": "http://s2.glbimg.com/qd6i9btEGFY8MavMPcaydsRu3PM=/0x196/m6TSqSogTP6SRLwzsjCy1RB65po=/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/S/N/NCJPoqTJAiKBSizVCoLQ/walker-t2.jpg"
+        },
+        {
+          "UI_number": 2,
+          "UI_customHeight": 262,
+          "backgroundUrl": "http://s2.glbimg.com/EWAttq3-KKBESOESzJpC7P6NVR0=/0x720/TRHF9tAxbFH55qDXeitYIA5ZgXQ=/1280x720/center/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/C/e/0L3E8PTCAcjOgStB4a8g/la-la-land.jpg",
+          "id": "e4d7f717-c829-4225-ae62-fad133534c9a",
+          "headline": "Filmes",
+          "displayName": "Filmes",
+          "navigation": {
+            "__typename": "MenuPageNavigation",
+            "UI_typename": "MenuPageNavigation",
+            "identifier": "filmes"
+          },
+          "posterUrl": "http://s2.glbimg.com/VBtMPnmFFEke_3HpXd4NpHqLTNo=/0x196/f26G9ArujK2aEAt-7_l5ENKuyD4=/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/C/e/0L3E8PTCAcjOgStB4a8g/la-la-land.jpg"
+        },
+        {
+          "UI_number": 3,
+          "UI_customHeight": 262,
+          "backgroundUrl": "http://s2.glbimg.com/Qkvrzl0_dv-QpRdk9OpmDzuDbsQ=/0x720/yfpwDMMMjhfYD-LxqWzwjC1Z1Fg=/1280x720/center/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/J/x/yePpCxSeSfPt7hG1OJeA/desalma-haia.jpg",
+          "id": "0eefd8b5-d4c4-44a2-adbd-37d751e6f1c1",
+          "headline": "Originais",
+          "displayName": "Originais",
+          "navigation": {
+            "__typename": "MenuPageNavigation",
+            "UI_typename": "MenuPageNavigation",
+            "identifier": "originais-globoplay"
+          },
+          "posterUrl": "http://s2.glbimg.com/7xybv6VZ38y25-Vq4tPb9F9k79c=/0x196/iYjc4DWMlwAr-ExAoZaXsLtzrBk=/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/J/x/yePpCxSeSfPt7hG1OJeA/desalma-haia.jpg"
+        },
+        {
+          "UI_number": 4,
+          "UI_customHeight": 262,
+          "backgroundUrl": "http://s2.glbimg.com/iA6OwFwMQ3bR23qQ7Ka_G4qHa-w=/0x720/PtelcBx08UKL5Bkt2bw1YTpL1V4=/1280x720/center/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/t/r/jNls3HTyAyHfkneI4H6A/masha-e-o-urso.jpg",
+          "id": "0cd53be5-a27d-47d0-bd07-3c463072974b",
+          "headline": "Infantil",
+          "displayName": "Infantil",
+          "navigation": {
+            "__typename": "MenuPageNavigation",
+            "UI_typename": "MenuPageNavigation",
+            "identifier": "infantil"
+          },
+          "posterUrl": "http://s2.glbimg.com/roI_nGJqoYULVDuAeUQQWNgr-mk=/0x196/iXhx5BJxaJ48ESl4OmjKqa_Oa5g=/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/t/r/jNls3HTyAyHfkneI4H6A/masha-e-o-urso.jpg"
+        },
+        {
+          "UI_number": 5,
+          "UI_customHeight": 262,
+          "backgroundUrl": "http://s2.glbimg.com/R8LnBIw2VEpGgSytVt2M_GYmUCY=/0x720/PjcNrtimkvuxIOhKXi-BB-3kdAU=/1280x720/center/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/I/x/NUB1UKQJ6kne53vBW6BQ/no-limite.jpg",
+          "id": "70ad11f8-b5bb-47f7-8dc2-55298b9bb57a",
+          "headline": "Realities",
+          "displayName": "Realities",
+          "navigation": {
+            "__typename": "MenuPageNavigation",
+            "UI_typename": "MenuPageNavigation",
+            "identifier": "reality-shows"
+          },
+          "posterUrl": "http://s2.glbimg.com/AFFFIWJvHZh91sP38sUI1Minn4U=/0x196/mIF6362K6yz7ZnCyXOzaIvHuFwc=/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/I/x/NUB1UKQJ6kne53vBW6BQ/no-limite.jpg"
+        },
+        {
+          "UI_number": 6,
+          "UI_customHeight": 262,
+          "backgroundUrl": "http://s2.glbimg.com/LjKy0nVJh15xQQotxhR60jRUvK4=/0x720/YP8lqBsRFSh30o4fYpAG6lW9_uc=/1280x720/center/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/i/b/WiDTT4Qfmcrat7uqW6lw/11.09-a-vida-sob-ataque.jpg",
+          "id": "18c0803c-3704-4dd6-9d49-558c63559d08",
+          "headline": "Documentários",
+          "displayName": "Documentários",
+          "navigation": {
+            "__typename": "MenuPageNavigation",
+            "UI_typename": "MenuPageNavigation",
+            "identifier": "documentarios"
+          },
+          "posterUrl": "http://s2.glbimg.com/mFBk0rytABU35AVjgwNWVCpiYH4=/0x196/epAAbNDQedp4Lc9tIpy4LUvcIhQ=/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/i/b/WiDTT4Qfmcrat7uqW6lw/11.09-a-vida-sob-ataque.jpg"
+        },
+        {
+          "UI_number": 7,
+          "UI_customHeight": 262,
+          "backgroundUrl": "http://s2.glbimg.com/pQFsrE_tdbndmdcXrjP6xCJblcc=/0x720/-GR-c2Ht8i80K2qVaKeUEefUTbs=/1280x720/center/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/c/M/r70NVKQ0uuc8vNxEniow/bem-amigos.jpg",
+          "id": "bc854080-7fcb-4a30-becc-f2352719668f",
+          "headline": "Esportes",
+          "displayName": "Esportes",
+          "navigation": {
+            "__typename": "MenuPageNavigation",
+            "UI_typename": "MenuPageNavigation",
+            "identifier": "esportes"
+          },
+          "posterUrl": "http://s2.glbimg.com/2g9hyQu8xV75FJjUracx7nch29U=/0x196/4-3IA8ulo_l-C7lZmtXO8g0V-DQ=/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/c/M/r70NVKQ0uuc8vNxEniow/bem-amigos.jpg"
+        },
+        {
+          "UI_number": 8,
+          "UI_customHeight": 262,
+          "backgroundUrl": "http://s2.glbimg.com/HAAZDncErkaB1hetOBeo8HBpACs=/0x720/ELHRTd-c5HfYRuOcLAkfSl1MS4E=/1280x720/center/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2021/g/r/9fLA2KSEGsq7fZMjM9IQ/categoria-variedades.jpg",
+          "id": "a6951f16-22b1-46c5-a741-c15acb13f7f4",
+          "headline": "Variedades",
+          "displayName": "Variedades",
+          "navigation": {
+            "__typename": "MenuPageNavigation",
+            "UI_typename": "MenuPageNavigation",
+            "identifier": "variedades"
+          },
+          "posterUrl": "http://s2.glbimg.com/L1SMgWoVeHpf0pc9lpE7UiC7eYY=/0x196/t6n1hDw3HlqqiPUNMp_MMnLDH6Q=/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2021/g/r/9fLA2KSEGsq7fZMjM9IQ/categoria-variedades.jpg"
+        },
+        {
+          "UI_number": 9,
+          "UI_customHeight": 262,
+          "backgroundUrl": "http://s2.glbimg.com/GXAwl7j08RZ0r5cQSdzg4N9nw4A=/0x720/sHC1EpG4Q2Vlq_E1BhjRPPeKwcI=/1280x720/center/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/Q/S/bEGGl9TTS3wJJ9IjY3NQ/escolinha-do-professor-raimundo.jpg",
+          "id": "c25ef35d-b5fa-48ab-9092-642f741fa246",
+          "headline": "Humor",
+          "displayName": "Humor",
+          "navigation": {
+            "__typename": "MenuPageNavigation",
+            "UI_typename": "MenuPageNavigation",
+            "identifier": "humor"
+          },
+          "posterUrl": "http://s2.glbimg.com/CdsK6WlbfGNwejUCHNPhb5JxCZ4=/0x196/bSFN8xx8aqGJgGZCtwyC0q1cSJ0=/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/Q/S/bEGGl9TTS3wJJ9IjY3NQ/escolinha-do-professor-raimundo.jpg"
+        },
+        {
+          "UI_number": 10,
+          "UI_customHeight": 262,
+          "backgroundUrl": "http://s2.glbimg.com/Cs4BZgfOvSr8tsr40cXWp3sglYI=/0x720/4VnyUIduSCHxTSn1LVXLpGyIWMs=/1280x720/center/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2021/Z/0/nMzFWfSYezfK4R6jpxIg/musica-adele.jpg",
+          "id": "02a9df77-c36c-42f6-94e2-0e4b05f23453",
+          "headline": "Música",
+          "displayName": "Música",
+          "navigation": {
+            "__typename": "MenuPageNavigation",
+            "UI_typename": "MenuPageNavigation",
+            "identifier": "especiais"
+          },
+          "posterUrl": "http://s2.glbimg.com/cPjsXg6L30sOjGCzZZqbQGEZzT4=/0x196/Bi1ZqzRRINk8m9NTsNLT9tcb9lo=/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2021/Z/0/nMzFWfSYezfK4R6jpxIg/musica-adele.jpg"
+        },
+        {
+          "UI_number": 11,
+          "UI_customHeight": 262,
+          "backgroundUrl": "http://s2.glbimg.com/78KRpp7EbZZ3JCrtg8qzrzxGvU0=/0x720/TDvFJkJycBb3C87T1AlVj_fjsZk=/1280x720/center/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/L/p/XIoC8ISTWCjGoegBUAPg/jornal-nacional-2022.jpg",
+          "id": "1fe9b094-9b77-404c-a989-9d6301fd3296",
+          "headline": "Jornalismo",
+          "displayName": "Jornalismo",
+          "navigation": {
+            "__typename": "MenuPageNavigation",
+            "UI_typename": "MenuPageNavigation",
+            "identifier": "jornalismo"
+          },
+          "posterUrl": "http://s2.glbimg.com/MyidgY1CQSCHfluoZhqmmksei7c=/0x196/hVE0daoifv5ZRKVO4G-HJVLP1yg=/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/L/p/XIoC8ISTWCjGoegBUAPg/jornal-nacional-2022.jpg"
+        },
+        {
+          "UI_number": 12,
+          "UI_customHeight": 262,
+          "backgroundUrl": "http://s2.glbimg.com/d399KQbzZuJckUUZEKV1otFCFSY=/0x720/pvbSFIek7m8V0XFH05jwKvFOlvg=/1280x720/center/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2020/k/n/VELhUFTL2QxSm63zMQcA/programas-locais-vale-esta.jpg",
+          "id": "2daf0eb4-f74b-49dc-ba01-642e7df5517a",
+          "headline": "Programas Locais",
+          "displayName": "Programas Locais",
+          "navigation": {
+            "__typename": "MenuSlugNavigation",
+            "UI_typename": "MenuSlugNavigation",
+            "slug": "/programas-locais/"
+          },
+          "posterUrl": "http://s2.glbimg.com/V3MLmQ7GvBmo9vL3eExQIIKvYt8=/0x196/ZJQoPSZSlNXt38aS49QfKsHitAs=/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2020/k/n/VELhUFTL2QxSm63zMQcA/programas-locais-vale-esta.jpg"
+        }
+      ],
+      "index": 0,
+      "navigation": {
+        "__typename": "URLNavigation",
+        "UI_typename": "URLNavigation",
+        "url": "/categorias/"
+      }
+    },
+    {
+      "title": "Destaque",
+      "contentType": "OFFERHIGHLIGHT",
+      "uiDefinitions": {
+        "height": 660,
+        "isVerticalCentered": true,
+        "hasMediaCover": false
+      },
+      "offerId": "2de900b3-a047-4571-b278-805136a0c249",
+      "isVideo": false,
+      "playlistEnabled": false,
+      "cards": [
+        {
+          "UI_number": 0,
+          "UI_customHeight": 262,
+          "backgroundUrl": "http://s2.glbimg.com/01WJv79Ce9Ou2WivZTJOYP1lq_M=/0x720/BeDWmdLyz9RG0k4cphyuNZbE9_8=/1280x720/center/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/L/3/InMgIMSXCSwTTWk7QEEg/cara-e-coragem-imagem-de-categoria.jpg",
+          "id": "bd71913d-9202-4e74-9916-308df7977613",
+          "headline": "Novelas",
+          "displayName": "Novelas",
+          "navigation": {
+            "__typename": "MenuPageNavigation",
+            "UI_typename": "MenuPageNavigation",
+            "identifier": "novelas"
+          },
+          "posterUrl": "http://s2.glbimg.com/K1HpyK0yrH3Bmwe2cddORebov_8=/0x196/KMqpXYv9dtRLQ6ZJD2QX_FpQju8=/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/L/3/InMgIMSXCSwTTWk7QEEg/cara-e-coragem-imagem-de-categoria.jpg"
+        },
+        {
+          "UI_number": 1,
+          "UI_customHeight": 262,
+          "backgroundUrl": "http://s2.glbimg.com/mGz8d8A6BKf5eQvrQQbjIQuiec4=/0x720/EvVETDy7YO-BHAQ1nWgt5dyB7Ss=/1280x720/center/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/S/N/NCJPoqTJAiKBSizVCoLQ/walker-t2.jpg",
+          "id": "4f02072b-8bf3-4e10-af2e-b247ecf9ba29",
+          "headline": "Séries",
+          "displayName": "Séries",
+          "navigation": {
+            "__typename": "MenuPageNavigation",
+            "UI_typename": "MenuPageNavigation",
+            "identifier": "series"
+          },
+          "posterUrl": "http://s2.glbimg.com/qd6i9btEGFY8MavMPcaydsRu3PM=/0x196/m6TSqSogTP6SRLwzsjCy1RB65po=/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/S/N/NCJPoqTJAiKBSizVCoLQ/walker-t2.jpg"
+        },
+        {
+          "UI_number": 2,
+          "UI_customHeight": 262,
+          "backgroundUrl": "http://s2.glbimg.com/EWAttq3-KKBESOESzJpC7P6NVR0=/0x720/TRHF9tAxbFH55qDXeitYIA5ZgXQ=/1280x720/center/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/C/e/0L3E8PTCAcjOgStB4a8g/la-la-land.jpg",
+          "id": "e4d7f717-c829-4225-ae62-fad133534c9a",
+          "headline": "Filmes",
+          "displayName": "Filmes",
+          "navigation": {
+            "__typename": "MenuPageNavigation",
+            "UI_typename": "MenuPageNavigation",
+            "identifier": "filmes"
+          },
+          "posterUrl": "http://s2.glbimg.com/VBtMPnmFFEke_3HpXd4NpHqLTNo=/0x196/f26G9ArujK2aEAt-7_l5ENKuyD4=/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/C/e/0L3E8PTCAcjOgStB4a8g/la-la-land.jpg"
+        },
+        {
+          "UI_number": 3,
+          "UI_customHeight": 262,
+          "backgroundUrl": "http://s2.glbimg.com/Qkvrzl0_dv-QpRdk9OpmDzuDbsQ=/0x720/yfpwDMMMjhfYD-LxqWzwjC1Z1Fg=/1280x720/center/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/J/x/yePpCxSeSfPt7hG1OJeA/desalma-haia.jpg",
+          "id": "0eefd8b5-d4c4-44a2-adbd-37d751e6f1c1",
+          "headline": "Originais",
+          "displayName": "Originais",
+          "navigation": {
+            "__typename": "MenuPageNavigation",
+            "UI_typename": "MenuPageNavigation",
+            "identifier": "originais-globoplay"
+          },
+          "posterUrl": "http://s2.glbimg.com/7xybv6VZ38y25-Vq4tPb9F9k79c=/0x196/iYjc4DWMlwAr-ExAoZaXsLtzrBk=/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/J/x/yePpCxSeSfPt7hG1OJeA/desalma-haia.jpg"
+        },
+        {
+          "UI_number": 4,
+          "UI_customHeight": 262,
+          "backgroundUrl": "http://s2.glbimg.com/iA6OwFwMQ3bR23qQ7Ka_G4qHa-w=/0x720/PtelcBx08UKL5Bkt2bw1YTpL1V4=/1280x720/center/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/t/r/jNls3HTyAyHfkneI4H6A/masha-e-o-urso.jpg",
+          "id": "0cd53be5-a27d-47d0-bd07-3c463072974b",
+          "headline": "Infantil",
+          "displayName": "Infantil",
+          "navigation": {
+            "__typename": "MenuPageNavigation",
+            "UI_typename": "MenuPageNavigation",
+            "identifier": "infantil"
+          },
+          "posterUrl": "http://s2.glbimg.com/roI_nGJqoYULVDuAeUQQWNgr-mk=/0x196/iXhx5BJxaJ48ESl4OmjKqa_Oa5g=/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/t/r/jNls3HTyAyHfkneI4H6A/masha-e-o-urso.jpg"
+        },
+        {
+          "UI_number": 5,
+          "UI_customHeight": 262,
+          "backgroundUrl": "http://s2.glbimg.com/R8LnBIw2VEpGgSytVt2M_GYmUCY=/0x720/PjcNrtimkvuxIOhKXi-BB-3kdAU=/1280x720/center/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/I/x/NUB1UKQJ6kne53vBW6BQ/no-limite.jpg",
+          "id": "70ad11f8-b5bb-47f7-8dc2-55298b9bb57a",
+          "headline": "Realities",
+          "displayName": "Realities",
+          "navigation": {
+            "__typename": "MenuPageNavigation",
+            "UI_typename": "MenuPageNavigation",
+            "identifier": "reality-shows"
+          },
+          "posterUrl": "http://s2.glbimg.com/AFFFIWJvHZh91sP38sUI1Minn4U=/0x196/mIF6362K6yz7ZnCyXOzaIvHuFwc=/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/I/x/NUB1UKQJ6kne53vBW6BQ/no-limite.jpg"
+        },
+        {
+          "UI_number": 6,
+          "UI_customHeight": 262,
+          "backgroundUrl": "http://s2.glbimg.com/LjKy0nVJh15xQQotxhR60jRUvK4=/0x720/YP8lqBsRFSh30o4fYpAG6lW9_uc=/1280x720/center/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/i/b/WiDTT4Qfmcrat7uqW6lw/11.09-a-vida-sob-ataque.jpg",
+          "id": "18c0803c-3704-4dd6-9d49-558c63559d08",
+          "headline": "Documentários",
+          "displayName": "Documentários",
+          "navigation": {
+            "__typename": "MenuPageNavigation",
+            "UI_typename": "MenuPageNavigation",
+            "identifier": "documentarios"
+          },
+          "posterUrl": "http://s2.glbimg.com/mFBk0rytABU35AVjgwNWVCpiYH4=/0x196/epAAbNDQedp4Lc9tIpy4LUvcIhQ=/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/i/b/WiDTT4Qfmcrat7uqW6lw/11.09-a-vida-sob-ataque.jpg"
+        },
+        {
+          "UI_number": 7,
+          "UI_customHeight": 262,
+          "backgroundUrl": "http://s2.glbimg.com/pQFsrE_tdbndmdcXrjP6xCJblcc=/0x720/-GR-c2Ht8i80K2qVaKeUEefUTbs=/1280x720/center/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/c/M/r70NVKQ0uuc8vNxEniow/bem-amigos.jpg",
+          "id": "bc854080-7fcb-4a30-becc-f2352719668f",
+          "headline": "Esportes",
+          "displayName": "Esportes",
+          "navigation": {
+            "__typename": "MenuPageNavigation",
+            "UI_typename": "MenuPageNavigation",
+            "identifier": "esportes"
+          },
+          "posterUrl": "http://s2.glbimg.com/2g9hyQu8xV75FJjUracx7nch29U=/0x196/4-3IA8ulo_l-C7lZmtXO8g0V-DQ=/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/c/M/r70NVKQ0uuc8vNxEniow/bem-amigos.jpg"
+        },
+        {
+          "UI_number": 8,
+          "UI_customHeight": 262,
+          "backgroundUrl": "http://s2.glbimg.com/HAAZDncErkaB1hetOBeo8HBpACs=/0x720/ELHRTd-c5HfYRuOcLAkfSl1MS4E=/1280x720/center/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2021/g/r/9fLA2KSEGsq7fZMjM9IQ/categoria-variedades.jpg",
+          "id": "a6951f16-22b1-46c5-a741-c15acb13f7f4",
+          "headline": "Variedades",
+          "displayName": "Variedades",
+          "navigation": {
+            "__typename": "MenuPageNavigation",
+            "UI_typename": "MenuPageNavigation",
+            "identifier": "variedades"
+          },
+          "posterUrl": "http://s2.glbimg.com/L1SMgWoVeHpf0pc9lpE7UiC7eYY=/0x196/t6n1hDw3HlqqiPUNMp_MMnLDH6Q=/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2021/g/r/9fLA2KSEGsq7fZMjM9IQ/categoria-variedades.jpg"
+        },
+        {
+          "UI_number": 9,
+          "UI_customHeight": 262,
+          "backgroundUrl": "http://s2.glbimg.com/GXAwl7j08RZ0r5cQSdzg4N9nw4A=/0x720/sHC1EpG4Q2Vlq_E1BhjRPPeKwcI=/1280x720/center/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/Q/S/bEGGl9TTS3wJJ9IjY3NQ/escolinha-do-professor-raimundo.jpg",
+          "id": "c25ef35d-b5fa-48ab-9092-642f741fa246",
+          "headline": "Humor",
+          "displayName": "Humor",
+          "navigation": {
+            "__typename": "MenuPageNavigation",
+            "UI_typename": "MenuPageNavigation",
+            "identifier": "humor"
+          },
+          "posterUrl": "http://s2.glbimg.com/CdsK6WlbfGNwejUCHNPhb5JxCZ4=/0x196/bSFN8xx8aqGJgGZCtwyC0q1cSJ0=/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/Q/S/bEGGl9TTS3wJJ9IjY3NQ/escolinha-do-professor-raimundo.jpg"
+        },
+        {
+          "UI_number": 10,
+          "UI_customHeight": 262,
+          "backgroundUrl": "http://s2.glbimg.com/Cs4BZgfOvSr8tsr40cXWp3sglYI=/0x720/4VnyUIduSCHxTSn1LVXLpGyIWMs=/1280x720/center/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2021/Z/0/nMzFWfSYezfK4R6jpxIg/musica-adele.jpg",
+          "id": "02a9df77-c36c-42f6-94e2-0e4b05f23453",
+          "headline": "Música",
+          "displayName": "Música",
+          "navigation": {
+            "__typename": "MenuPageNavigation",
+            "UI_typename": "MenuPageNavigation",
+            "identifier": "especiais"
+          },
+          "posterUrl": "http://s2.glbimg.com/cPjsXg6L30sOjGCzZZqbQGEZzT4=/0x196/Bi1ZqzRRINk8m9NTsNLT9tcb9lo=/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2021/Z/0/nMzFWfSYezfK4R6jpxIg/musica-adele.jpg"
+        },
+        {
+          "UI_number": 11,
+          "UI_customHeight": 262,
+          "backgroundUrl": "http://s2.glbimg.com/78KRpp7EbZZ3JCrtg8qzrzxGvU0=/0x720/TDvFJkJycBb3C87T1AlVj_fjsZk=/1280x720/center/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/L/p/XIoC8ISTWCjGoegBUAPg/jornal-nacional-2022.jpg",
+          "id": "1fe9b094-9b77-404c-a989-9d6301fd3296",
+          "headline": "Jornalismo",
+          "displayName": "Jornalismo",
+          "navigation": {
+            "__typename": "MenuPageNavigation",
+            "UI_typename": "MenuPageNavigation",
+            "identifier": "jornalismo"
+          },
+          "posterUrl": "http://s2.glbimg.com/MyidgY1CQSCHfluoZhqmmksei7c=/0x196/hVE0daoifv5ZRKVO4G-HJVLP1yg=/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/L/p/XIoC8ISTWCjGoegBUAPg/jornal-nacional-2022.jpg"
+        },
+        {
+          "UI_number": 12,
+          "UI_customHeight": 262,
+          "backgroundUrl": "http://s2.glbimg.com/d399KQbzZuJckUUZEKV1otFCFSY=/0x720/pvbSFIek7m8V0XFH05jwKvFOlvg=/1280x720/center/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2020/k/n/VELhUFTL2QxSm63zMQcA/programas-locais-vale-esta.jpg",
+          "id": "2daf0eb4-f74b-49dc-ba01-642e7df5517a",
+          "headline": "Programas Locais",
+          "displayName": "Programas Locais",
+          "navigation": {
+            "__typename": "MenuSlugNavigation",
+            "UI_typename": "MenuSlugNavigation",
+            "slug": "/programas-locais/"
+          },
+          "posterUrl": "http://s2.glbimg.com/V3MLmQ7GvBmo9vL3eExQIIKvYt8=/0x196/ZJQoPSZSlNXt38aS49QfKsHitAs=/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2020/k/n/VELhUFTL2QxSm63zMQcA/programas-locais-vale-esta.jpg"
+        }
+      ],
+      "index": 1,
+      "navigation": {
+        "__typename": "URLNavigation",
+        "UI_typename": "URLNavigation",
+        "url": "/categorias/"
+      }
+    },
+    {
+      "title": "Canais",
+      "contentType": "BROADCAST_CHANNEL",
+      "uiDefinitions": {
+        "height": 254,
+        "isVerticalCentered": false,
+        "hasMediaCover": true
+      },
+      "offerId": "069ec593-f83d-4b3b-8bcf-53758b948502",
+      "isVideo": false,
+      "playlistEnabled": false,
+      "cards": [
+        {
+          "UI_number": 0,
+          "id": "196",
+          "backgroundUrl": "http://s2.glbimg.com/_r_OaPltvYk6sIpsLssAYzrjMLI=/0x720/WpCMAQZyIj-lmwKMQFhALpkrYmY=/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/3/B/DrwAHjT3KMrxTuZPZrfQ/2022-2636-marca-tv-globo-2021-alternativa-on-air.jpg",
+          "description": "Aproveite todos os nossos programas na Home da TV Globo",
+          "logo": "http://s2.glbimg.com/Obah_d8jaWuApH_II-vw40iU5TU=/fit-in/168x84/filters:colorize(100,100,100,EEEEEE)/ReEsjAe_yBXk1362-k0oBOHBI_g=/trim/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/M/v/RbZgTOReyQ3eDmBwubSA/2022-2636-marca-tv-globo-2021-logo-canais.png",
+          "logoSelected": "http://s2.glbimg.com/LdCHkKTgO64qCohN-i7y64QVQGU=/fit-in/168x84/filters:colorize(100,100,100,454545)/ReEsjAe_yBXk1362-k0oBOHBI_g=/trim/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/M/v/RbZgTOReyQ3eDmBwubSA/2022-2636-marca-tv-globo-2021-logo-canais.png",
+          "headline": "TV Globo",
+          "pageIdentifier": "globo",
+          "contentType": "BROADCAST_CHANNEL"
+        },
+        {
+          "UI_number": 1,
+          "id": "2067",
+          "backgroundUrl": "http://s2.glbimg.com/h9Q3DWV3a3VmzgzfwmkQGI_wzUM=/0x720/sCkUjCoASW-WM8elHkm2ElMAJrc=/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2021/L/8/OlA1CDQnWQByMpFeylsA/onair.jpg",
+          "description": "Aproveite os nossos programas na home do Multishow",
+          "logo": "http://s2.glbimg.com/SMFiIYTZNkhdLhI8zk4QUmISkDU=/fit-in/168x84/filters:colorize(100,100,100,EEEEEE)/g34yujHEeJF1i2_8byG7sAg2G_s=/trim/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2020/8/s/ahzcQqSMyCbetR0rp66A/multishow.png",
+          "logoSelected": "http://s2.glbimg.com/1BK-jAnSfP3GPCnBQ7K9stGti6w=/fit-in/168x84/filters:colorize(100,100,100,454545)/g34yujHEeJF1i2_8byG7sAg2G_s=/trim/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2020/8/s/ahzcQqSMyCbetR0rp66A/multishow.png",
+          "headline": "Multishow",
+          "pageIdentifier": "multishow",
+          "contentType": "BROADCAST_CHANNEL"
+        },
+        {
+          "UI_number": 2,
+          "id": "2096",
+          "backgroundUrl": "http://s2.glbimg.com/N4AdHLpn8TGxV92fxs1z45_eUQc=/0x720/dOwsYt_MDgX7ZMgpEGMEhtbBF9k=/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2020/a/S/CbKyAPQPAtrToGKKgCmw/tapume-globoplay-deslogado-1920x1080.jpg",
+          "description": "Aproveite os nossos programas na home da GloboNews",
+          "logo": "http://s2.glbimg.com/RQkvWeL7qw6WxZdM1bcUy2hzquw=/fit-in/168x84/filters:colorize(100,100,100,EEEEEE)/KOq18UNHYYB3G_729P5Fko2vAmc=/trim/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2020/O/n/nslsdxRamJvQ2LydUB7A/globonews.png",
+          "logoSelected": "http://s2.glbimg.com/_OQrwmIXdmvgkqDm_sNowC9pc5k=/fit-in/168x84/filters:colorize(100,100,100,454545)/KOq18UNHYYB3G_729P5Fko2vAmc=/trim/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2020/O/n/nslsdxRamJvQ2LydUB7A/globonews.png",
+          "headline": "GloboNews",
+          "pageIdentifier": "globonews",
+          "contentType": "BROADCAST_CHANNEL"
+        },
+        {
+          "UI_number": 3,
+          "id": "2108",
+          "backgroundUrl": "http://s2.glbimg.com/67lUotdx2LbirHkfsVmsCAScMiI=/0x720/KUefiInq5_VpFtGC_P6dxIyWQ2o=/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2021/a/q/zBBrtBRSOKd80SAzVWug/tapume-sportv1-nova-marca-a7.jpg",
+          "description": "Acompanhe todas as emoções do Esporte no SporTV",
+          "logo": "http://s2.glbimg.com/8e4tAIZvAXdBQSYTI8tq0Ajl9e0=/fit-in/168x84/filters:colorize(100,100,100,EEEEEE)/NHu5G4z2VmS0Ro9VBrOKmCpjOW0=/trim/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2021/F/y/EIs9ftSXKmqYMbhXTrkw/logo-de-transmissao-sportv-a1.png",
+          "logoSelected": "http://s2.glbimg.com/m1f0jLxbRSPv2XtBVgCZAtr4L9g=/fit-in/168x84/filters:colorize(100,100,100,454545)/NHu5G4z2VmS0Ro9VBrOKmCpjOW0=/trim/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2021/F/y/EIs9ftSXKmqYMbhXTrkw/logo-de-transmissao-sportv-a1.png",
+          "headline": "SporTV",
+          "pageIdentifier": "sportv",
+          "contentType": "BROADCAST_CHANNEL"
+        },
+        {
+          "UI_number": 4,
+          "id": "2081",
+          "backgroundUrl": "http://s2.glbimg.com/Y04wAxI4CEhzEuj2MtD1VP5_iB4=/0x720/lP3BqgjYyusEDi9bufoKXp9MahQ=/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2020/P/5/8U6ySvTM27108EzMpHmA/gnt.png",
+          "description": "Aproveite os nossos programas na home do GNT",
+          "logo": "http://s2.glbimg.com/5Sck8qRNoXlc8FwnOWhLIYzHmN4=/fit-in/168x84/filters:colorize(100,100,100,EEEEEE)/IKfzFKYdfrZK1qO7iUFvFhvLA7o=/trim/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2020/x/3/r5YJuBSW2pA3qyPgMpdg/gnt.png",
+          "logoSelected": "http://s2.glbimg.com/ORSFDo42pn8w47QZVP1NmYqO_v0=/fit-in/168x84/filters:colorize(100,100,100,454545)/IKfzFKYdfrZK1qO7iUFvFhvLA7o=/trim/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2020/x/3/r5YJuBSW2pA3qyPgMpdg/gnt.png",
+          "headline": "GNT",
+          "pageIdentifier": "gnt",
+          "contentType": "BROADCAST_CHANNEL"
+        },
+        {
+          "UI_number": 5,
+          "id": "2107",
+          "backgroundUrl": "http://s2.glbimg.com/r0J9mHHjTEzuEQ3jHUG0gqUdQyw=/0x720/tTaSrSZMVz4jp1YAd8ZnE7mVEk0=/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2020/b/n/4vof4AQlKyANCPBexeRw/usar-esse-tapumeviva10.jpg",
+          "description": "Aproveite os nossos programas na home do Viva",
+          "logo": "http://s2.glbimg.com/Y3lMEBLzpgKD06qaqMmPyDkPj7E=/fit-in/168x84/filters:colorize(100,100,100,EEEEEE)/QMVmuENaLpUtzUx7eIcRyoR952s=/trim/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2020/T/R/Z2rgeLRvS0ptiXCTc30A/viva.png",
+          "logoSelected": "http://s2.glbimg.com/vgzgZiCSt1QxPLXvC468rCCRGOI=/fit-in/168x84/filters:colorize(100,100,100,454545)/QMVmuENaLpUtzUx7eIcRyoR952s=/trim/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2020/T/R/Z2rgeLRvS0ptiXCTc30A/viva.png",
+          "headline": "VIVA",
+          "pageIdentifier": "viva",
+          "contentType": "BROADCAST_CHANNEL"
+        },
+        {
+          "UI_number": 6,
+          "id": "2062",
+          "backgroundUrl": "http://s2.glbimg.com/Vus8oWIfqYerBqT_D1ht9-CO1PA=/0x720/ALnj9i8c2AVDc3I_CS9u_9hIs24=/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2021/4/9/EIw3VYTmGBC63DmvtENQ/banner-gloob-globoplay2.jpg",
+          "description": "Aproveite os nossos programas na home do Gloob",
+          "logo": "http://s2.glbimg.com/Le2gbSbkMVV5GW4DmyG3NGQtSz8=/fit-in/168x84/filters:colorize(100,100,100,EEEEEE)/sCCJBX_JiZwBCkPD-yHbEsbuD_k=/trim/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2020/K/G/oSToHqS02AR7LvfQUobQ/gloob.png",
+          "logoSelected": "http://s2.glbimg.com/tUONUCHS4q0e509LHlxejz_f_Ek=/fit-in/168x84/filters:colorize(100,100,100,454545)/sCCJBX_JiZwBCkPD-yHbEsbuD_k=/trim/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2020/K/G/oSToHqS02AR7LvfQUobQ/gloob.png",
+          "headline": "Gloob",
+          "pageIdentifier": "gloob",
+          "contentType": "BROADCAST_CHANNEL"
+        },
+        {
+          "UI_number": 7,
+          "id": "2109",
+          "backgroundUrl": "http://s2.glbimg.com/PxS49faVLM4xOdtYJtJaoi_1t7Q=/0x720/P2U6FBTJKhL9DFTuBs7m6vEbdhc=/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2020/X/c/FpdrZ6TdqQJifShM3seQ/tapume-gloobinho2.jpg",
+          "description": "Aproveite os nossos programas na home do Gloobinho",
+          "logo": "http://s2.glbimg.com/BCBvCN6dbZlxwbR7ASQrlbZnI1M=/fit-in/168x84/filters:colorize(100,100,100,EEEEEE)/uYAQ7NMha-qXhSdSgxx2klicOyg=/trim/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2020/J/0/d75t6WRVayG0gMFW4VZw/gloobinho.png",
+          "logoSelected": "http://s2.glbimg.com/YwbKujqyNw2tRWGkcaTbicowbkM=/fit-in/168x84/filters:colorize(100,100,100,454545)/uYAQ7NMha-qXhSdSgxx2klicOyg=/trim/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2020/J/0/d75t6WRVayG0gMFW4VZw/gloobinho.png",
+          "headline": "Gloobinho",
+          "pageIdentifier": "gloobinho"
+        },
+        {
+          "UI_number": 8,
+          "id": "2114",
+          "backgroundUrl": "http://s2.glbimg.com/cO-Nrad4QXwNWcwmwxMP3aSzwM8=/0x720/NfEEgfpEuJ7kSwkzMrEPfwl6E6o=/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2020/4/3/OI1hEFRbAeH4xCBqvwqQ/megapix2.jpg",
+          "description": "Aproveite os filmes na home do Megapix",
+          "logo": "http://s2.glbimg.com/kokqzrvaRgTvINIpjcr1JgwJgHA=/fit-in/168x84/filters:colorize(100,100,100,EEEEEE)/Py8ncG4PKmX0tp6OOt4oyTDKDC0=/trim/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2020/A/J/Rb8aiiRxu8t7tD1WAJBw/megapix.png",
+          "logoSelected": "http://s2.glbimg.com/avUK9oo351XGxmaAH0pJPTY24ns=/fit-in/168x84/filters:colorize(100,100,100,454545)/Py8ncG4PKmX0tp6OOt4oyTDKDC0=/trim/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2020/A/J/Rb8aiiRxu8t7tD1WAJBw/megapix.png",
+          "headline": "Megapix",
+          "pageIdentifier": "megapix"
+        },
+        {
+          "UI_number": 9,
+          "id": "2112",
+          "backgroundUrl": "http://s2.glbimg.com/jscBYN0d0yjAc1ecIqxWiS54kRs=/0x720/QHr0Slah6qkksHm2Jn8ImEbFSA4=/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2020/8/x/5kr5sRTE2vBG9KTAzoMw/bg-u-mais-2020-08-02-1-.png",
+          "description": "Aproveite os nossos programas na home do Universal +",
+          "logo": "http://s2.glbimg.com/CtRyxrcma2SBz1qDUp5n2mdIfS0=/fit-in/168x84/filters:colorize(100,100,100,EEEEEE)/mQV6bTBgyuEcM_cO7kyzHr8n2kY=/trim/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2020/4/R/12QLQ3RbmHl3MOhXEfMA/logounivgplay.png",
+          "logoSelected": "http://s2.glbimg.com/6gsLGViFQwKsgvkC7TXixUqqyyQ=/fit-in/168x84/filters:colorize(100,100,100,454545)/mQV6bTBgyuEcM_cO7kyzHr8n2kY=/trim/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2020/4/R/12QLQ3RbmHl3MOhXEfMA/logounivgplay.png",
+          "headline": "Universal+",
+          "pageIdentifier": "universal"
+        },
+        {
+          "UI_number": 10,
+          "id": "2111",
+          "backgroundUrl": "http://s2.glbimg.com/WQXLIuwEwf6e7EAqfypf2j5lEo8=/0x720/WYOsdTK7v_6iLVwXRvplPIym46Q=/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2020/H/i/5sL8SnRVuSYuwgIF5NpA/tapume-03-1-.jpg",
+          "description": "Aproveite os nossos programas na home do Canal Brasil",
+          "logo": "http://s2.glbimg.com/9whCbmd5KC9Zxfnt15HyFC9yejU=/fit-in/168x84/filters:colorize(100,100,100,EEEEEE)/HZXHS-aovuAPOQnKCJoDfv6eGcw=/trim/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2020/A/7/7Fp2YdQlqq3UAUAJpU3g/logo-canal-brasil-03.png",
+          "logoSelected": "http://s2.glbimg.com/7fCG6jAp3BSHDnPUeow3wCr8NAs=/fit-in/168x84/filters:colorize(100,100,100,454545)/HZXHS-aovuAPOQnKCJoDfv6eGcw=/trim/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2020/A/7/7Fp2YdQlqq3UAUAJpU3g/logo-canal-brasil-03.png",
+          "headline": "Canal Brasil",
+          "pageIdentifier": "canal-brasil"
+        },
+        {
+          "UI_number": 11,
+          "id": "2100",
+          "backgroundUrl": "http://s2.glbimg.com/pdct5TdZjO8xIOW02OwBvXnPCw8=/0x720/4W5bF_E0uNbGm4G3CJbK2nof7uI=/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2020/4/r/GK6qUtTxOCXEr0Xw51PA/slackline.png",
+          "description": "Aproveite os nossos programas na home do Canal Off",
+          "logo": "http://s2.glbimg.com/mTo79gph5HiU40cv4WrL7XsE2YQ=/fit-in/168x84/filters:colorize(100,100,100,EEEEEE)/dn9HO0lvymB8HisbzCNko5vfMIk=/trim/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2020/L/T/1War4BROSAV6OI1NU6hQ/off.png",
+          "logoSelected": "http://s2.glbimg.com/qBl_1KNkTx3Xa2RuBveF_Z2cKhs=/fit-in/168x84/filters:colorize(100,100,100,454545)/dn9HO0lvymB8HisbzCNko5vfMIk=/trim/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2020/L/T/1War4BROSAV6OI1NU6hQ/off.png",
+          "headline": "Canal Off",
+          "pageIdentifier": "canal-off"
+        },
+        {
+          "UI_number": 12,
+          "id": "2110",
+          "backgroundUrl": "http://s2.glbimg.com/7oB3aeiyqQ_ddqN3Q2m_BuwS8yY=/0x720/1Q4qYga1jiPeCOGvVTbUTHAJYoI=/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2020/Z/p/PAuAGTQCq2pLBB4mr2wQ/tapume-bis-v2.png",
+          "description": "Aproveite os nossos programas na home do Bis",
+          "logo": "http://s2.glbimg.com/wzyVdDkYAcJf-o2Z47gUPIDDS4Q=/fit-in/168x84/filters:colorize(100,100,100,EEEEEE)/f2FK5vbo7Q23N-ce440lsehJsyA=/trim/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2020/y/t/0t6pgkR66StvweRNJwTw/bis.png",
+          "logoSelected": "http://s2.glbimg.com/fTUsgWP7sZDsWYiqKAruwy_w9t0=/fit-in/168x84/filters:colorize(100,100,100,454545)/f2FK5vbo7Q23N-ce440lsehJsyA=/trim/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2020/y/t/0t6pgkR66StvweRNJwTw/bis.png",
+          "headline": "Bis",
+          "pageIdentifier": "bis"
+        },
+        {
+          "UI_number": 13,
+          "id": "2103",
+          "backgroundUrl": "http://s2.glbimg.com/gzeIZCIloeRVPDeAwN3AMV6Cs5Q=/0x720/i4O9DLl-elbOIda9g9GMqRnlCK0=/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/2/A/6HvkBxR6qeKkz3pJLdlg/thumb-modoviagem-globoplay.jpg",
+          "description": "Aproveite os nossos programas na home do Modo Viagem",
+          "logo": "http://s2.glbimg.com/4kkrCYUkhV7KVxQoEN07GvbeeoY=/fit-in/168x84/filters:colorize(100,100,100,EEEEEE)/DmjfWf0gsrQx2Qx02H8nOz7b7iI=/trim/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/B/l/qwR5RjR9GDh2WfdAERhw/logo-transparente-modo-viagem-700x700.png",
+          "logoSelected": "http://s2.glbimg.com/qJUNA7Tr0fqjgaOzCusEIpflE7U=/fit-in/168x84/filters:colorize(100,100,100,454545)/DmjfWf0gsrQx2Qx02H8nOz7b7iI=/trim/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/B/l/qwR5RjR9GDh2WfdAERhw/logo-transparente-modo-viagem-700x700.png",
+          "headline": "Modo Viagem",
+          "pageIdentifier": "modo-viagem"
+        },
+        {
+          "UI_number": 14,
+          "id": "2118",
+          "backgroundUrl": "http://s2.glbimg.com/3og6ZHQmzGlGmPk93AWyDQgi488=/0x720/2sFF1Gk231NXT0JYQC6tH-SElTQ=/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2020/5/X/t34GcZQsORbQoJgCcK7Q/bg-globosat-play.jpeg",
+          "description": "Aproveite os nossos programas na home do Futura",
+          "logo": "http://s2.glbimg.com/XgFICLKTUacbmny1KCtfifIp-jI=/fit-in/168x84/filters:colorize(100,100,100,EEEEEE)/A9iD_YPNKLhgwk_f7uU7_c2Z2Io=/trim/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2020/t/h/Jd3WjMRK6RoLwzNZLz3Q/futura.png",
+          "logoSelected": "http://s2.glbimg.com/9WDtW7oXVYo3Hc2P1DMlby2bLHM=/fit-in/168x84/filters:colorize(100,100,100,454545)/A9iD_YPNKLhgwk_f7uU7_c2Z2Io=/trim/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2020/t/h/Jd3WjMRK6RoLwzNZLz3Q/futura.png",
+          "headline": "Futura",
+          "pageIdentifier": "futura"
+        },
+        {
+          "UI_number": 15,
+          "id": "2143",
+          "backgroundUrl": "http://s2.glbimg.com/92210mC62BEHh-8X0fuArJngrTw=/0x720/4HNHq3kTBMb70qH-rp6xZVztffE=/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/x/h/EhKueIT7Go44nKIjZbJw/imageonair-telecine-institucional.png",
+          "description": "O clube de cinema com filmes para todos os momentos.",
+          "logo": "http://s2.glbimg.com/VT0fIZC4Wb4SVWXGKM028vM94J0=/fit-in/168x84/filters:colorize(100,100,100,EEEEEE)/OdmLcKDaisdv4pB-jlVlKtp1afI=/trim/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/h/n/yq9iPfTMmjrhm6kyeeJw/telecine-700x700.png",
+          "logoSelected": "http://s2.glbimg.com/jq6ZCxa-JNvwNGPZ5blIvRsnCrI=/fit-in/168x84/filters:colorize(100,100,100,454545)/OdmLcKDaisdv4pB-jlVlKtp1afI=/trim/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/h/n/yq9iPfTMmjrhm6kyeeJw/telecine-700x700.png",
+          "headline": "Telecine",
+          "pageIdentifier": "telecine"
+        },
+        {
+          "UI_number": 16,
+          "id": "1995",
+          "backgroundUrl": "http://s2.glbimg.com/vJOSZzXAlWd5L5OjqYDcEKkT9Cw=/0x720/ioGkeP_YDJqQmKD0Q2jt9ZYsQKs=/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2020/G/3/hcuDhPQNiBk7UiRFUzeA/premi.png",
+          "description": "Aproveite os jogos na home do Premiere",
+          "logo": "http://s2.glbimg.com/5H96_l0LG1E7Ltf6IN38-V9NwQc=/fit-in/168x84/filters:colorize(100,100,100,EEEEEE)/_p3wqp8ZlDV3wkLnue-5a3wBJ5k=/trim/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2020/m/g/T2qATAT4CokCPHtIgWnA/premiere.png",
+          "logoSelected": "http://s2.glbimg.com/GwEV0_GisLaz9nN66ypgkzuwWUs=/fit-in/168x84/filters:colorize(100,100,100,454545)/_p3wqp8ZlDV3wkLnue-5a3wBJ5k=/trim/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2020/m/g/T2qATAT4CokCPHtIgWnA/premiere.png",
+          "headline": "Premiere",
+          "pageIdentifier": "premiere"
+        },
+        {
+          "UI_number": 17,
+          "id": "2117",
+          "backgroundUrl": "http://s2.glbimg.com/zIZrCjiGnk9suXlbQtNwuUT5U2w=/0x720/nVREKh03xEO-XMKXMA9WSOXfUWc=/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2020/I/9/2yqyzSS5AZ9fBl7qyQZg/comb.png",
+          "description": "Aproveite os nossos programas na home do Combate",
+          "logo": "http://s2.glbimg.com/krL__ABr318ydn8a2XLdTqSukno=/fit-in/168x84/filters:colorize(100,100,100,EEEEEE)/ax1eJOtJHmUMGghYC1UjiRmSPWo=/trim/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2020/6/y/DzgbWKRTaMwJFuGyxg5A/combate.png",
+          "logoSelected": "http://s2.glbimg.com/r3XJiTgUanWkIWEm5z9ZG3zHl3I=/fit-in/168x84/filters:colorize(100,100,100,454545)/ax1eJOtJHmUMGghYC1UjiRmSPWo=/trim/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2020/6/y/DzgbWKRTaMwJFuGyxg5A/combate.png",
+          "headline": "Combate",
+          "pageIdentifier": "combate"
+        },
+        {
+          "UI_number": 18,
+          "id": "2147",
+          "backgroundUrl": "http://s2.glbimg.com/Q8wKN8mpDFp8zpABOjN7CS4tB0k=/0x720/AGMqlHBNB5DdIaqrNZJbsp4polI=/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/f/q/MtgjuqTXa8eXjMjlCDrg/starzplay-background-v3.png",
+          "description": "Aproveite Séries e Filmes na Home do StarzPlay",
+          "logo": "http://s2.glbimg.com/oOUQHp5d0DJn0mBR5h74pZ5YjHE=/fit-in/168x84/filters:colorize(100,100,100,EEEEEE)/bAdjFzyGF4i7dcucR8HpT5EK3SQ=/trim/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/v/T/4DsUqITPOVfHO8t9copw/logo-starzplay.png",
+          "logoSelected": "http://s2.glbimg.com/4eePlxWiaSI1-lC502wWTjbdZ6k=/fit-in/168x84/filters:colorize(100,100,100,454545)/bAdjFzyGF4i7dcucR8HpT5EK3SQ=/trim/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/v/T/4DsUqITPOVfHO8t9copw/logo-starzplay.png",
+          "headline": "STARZPLAY",
+          "pageIdentifier": "starzplay"
+        }
+      ],
+      "index": 2,
+      "navigation": {
+        "__typename": "URLNavigation",
+        "UI_typename": "URLNavigation",
+        "url": "/canais/"
+      }
+    },
+    {
+      "title": "Categorias",
+      "contentType": "CATEGORY",
+      "uiDefinitions": {
+        "height": 292,
+        "hasMediaCover": true
+      },
+      "offerId": "2de900b3-a047-4571-b278-805136a0c249",
+      "isVideo": false,
+      "playlistEnabled": false,
+      "cards": [
+        {
+          "UI_number": 0,
+          "UI_customHeight": 262,
+          "backgroundUrl": "http://s2.glbimg.com/01WJv79Ce9Ou2WivZTJOYP1lq_M=/0x720/BeDWmdLyz9RG0k4cphyuNZbE9_8=/1280x720/center/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/L/3/InMgIMSXCSwTTWk7QEEg/cara-e-coragem-imagem-de-categoria.jpg",
+          "id": "bd71913d-9202-4e74-9916-308df7977613",
+          "headline": "Novelas",
+          "displayName": "Novelas",
+          "navigation": {
+            "__typename": "MenuPageNavigation",
+            "UI_typename": "MenuPageNavigation",
+            "identifier": "novelas"
+          },
+          "posterUrl": "http://s2.glbimg.com/K1HpyK0yrH3Bmwe2cddORebov_8=/0x196/KMqpXYv9dtRLQ6ZJD2QX_FpQju8=/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/L/3/InMgIMSXCSwTTWk7QEEg/cara-e-coragem-imagem-de-categoria.jpg"
+        },
+        {
+          "UI_number": 1,
+          "UI_customHeight": 262,
+          "backgroundUrl": "http://s2.glbimg.com/mGz8d8A6BKf5eQvrQQbjIQuiec4=/0x720/EvVETDy7YO-BHAQ1nWgt5dyB7Ss=/1280x720/center/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/S/N/NCJPoqTJAiKBSizVCoLQ/walker-t2.jpg",
+          "id": "4f02072b-8bf3-4e10-af2e-b247ecf9ba29",
+          "headline": "Séries",
+          "displayName": "Séries",
+          "navigation": {
+            "__typename": "MenuPageNavigation",
+            "UI_typename": "MenuPageNavigation",
+            "identifier": "series"
+          },
+          "posterUrl": "http://s2.glbimg.com/qd6i9btEGFY8MavMPcaydsRu3PM=/0x196/m6TSqSogTP6SRLwzsjCy1RB65po=/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/S/N/NCJPoqTJAiKBSizVCoLQ/walker-t2.jpg"
+        },
+        {
+          "UI_number": 2,
+          "UI_customHeight": 262,
+          "backgroundUrl": "http://s2.glbimg.com/EWAttq3-KKBESOESzJpC7P6NVR0=/0x720/TRHF9tAxbFH55qDXeitYIA5ZgXQ=/1280x720/center/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/C/e/0L3E8PTCAcjOgStB4a8g/la-la-land.jpg",
+          "id": "e4d7f717-c829-4225-ae62-fad133534c9a",
+          "headline": "Filmes",
+          "displayName": "Filmes",
+          "navigation": {
+            "__typename": "MenuPageNavigation",
+            "UI_typename": "MenuPageNavigation",
+            "identifier": "filmes"
+          },
+          "posterUrl": "http://s2.glbimg.com/VBtMPnmFFEke_3HpXd4NpHqLTNo=/0x196/f26G9ArujK2aEAt-7_l5ENKuyD4=/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/C/e/0L3E8PTCAcjOgStB4a8g/la-la-land.jpg"
+        },
+        {
+          "UI_number": 3,
+          "UI_customHeight": 262,
+          "backgroundUrl": "http://s2.glbimg.com/Qkvrzl0_dv-QpRdk9OpmDzuDbsQ=/0x720/yfpwDMMMjhfYD-LxqWzwjC1Z1Fg=/1280x720/center/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/J/x/yePpCxSeSfPt7hG1OJeA/desalma-haia.jpg",
+          "id": "0eefd8b5-d4c4-44a2-adbd-37d751e6f1c1",
+          "headline": "Originais",
+          "displayName": "Originais",
+          "navigation": {
+            "__typename": "MenuPageNavigation",
+            "UI_typename": "MenuPageNavigation",
+            "identifier": "originais-globoplay"
+          },
+          "posterUrl": "http://s2.glbimg.com/7xybv6VZ38y25-Vq4tPb9F9k79c=/0x196/iYjc4DWMlwAr-ExAoZaXsLtzrBk=/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/J/x/yePpCxSeSfPt7hG1OJeA/desalma-haia.jpg"
+        },
+        {
+          "UI_number": 4,
+          "UI_customHeight": 262,
+          "backgroundUrl": "http://s2.glbimg.com/iA6OwFwMQ3bR23qQ7Ka_G4qHa-w=/0x720/PtelcBx08UKL5Bkt2bw1YTpL1V4=/1280x720/center/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/t/r/jNls3HTyAyHfkneI4H6A/masha-e-o-urso.jpg",
+          "id": "0cd53be5-a27d-47d0-bd07-3c463072974b",
+          "headline": "Infantil",
+          "displayName": "Infantil",
+          "navigation": {
+            "__typename": "MenuPageNavigation",
+            "UI_typename": "MenuPageNavigation",
+            "identifier": "infantil"
+          },
+          "posterUrl": "http://s2.glbimg.com/roI_nGJqoYULVDuAeUQQWNgr-mk=/0x196/iXhx5BJxaJ48ESl4OmjKqa_Oa5g=/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/t/r/jNls3HTyAyHfkneI4H6A/masha-e-o-urso.jpg"
+        },
+        {
+          "UI_number": 5,
+          "UI_customHeight": 262,
+          "backgroundUrl": "http://s2.glbimg.com/R8LnBIw2VEpGgSytVt2M_GYmUCY=/0x720/PjcNrtimkvuxIOhKXi-BB-3kdAU=/1280x720/center/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/I/x/NUB1UKQJ6kne53vBW6BQ/no-limite.jpg",
+          "id": "70ad11f8-b5bb-47f7-8dc2-55298b9bb57a",
+          "headline": "Realities",
+          "displayName": "Realities",
+          "navigation": {
+            "__typename": "MenuPageNavigation",
+            "UI_typename": "MenuPageNavigation",
+            "identifier": "reality-shows"
+          },
+          "posterUrl": "http://s2.glbimg.com/AFFFIWJvHZh91sP38sUI1Minn4U=/0x196/mIF6362K6yz7ZnCyXOzaIvHuFwc=/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/I/x/NUB1UKQJ6kne53vBW6BQ/no-limite.jpg"
+        },
+        {
+          "UI_number": 6,
+          "UI_customHeight": 262,
+          "backgroundUrl": "http://s2.glbimg.com/LjKy0nVJh15xQQotxhR60jRUvK4=/0x720/YP8lqBsRFSh30o4fYpAG6lW9_uc=/1280x720/center/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/i/b/WiDTT4Qfmcrat7uqW6lw/11.09-a-vida-sob-ataque.jpg",
+          "id": "18c0803c-3704-4dd6-9d49-558c63559d08",
+          "headline": "Documentários",
+          "displayName": "Documentários",
+          "navigation": {
+            "__typename": "MenuPageNavigation",
+            "UI_typename": "MenuPageNavigation",
+            "identifier": "documentarios"
+          },
+          "posterUrl": "http://s2.glbimg.com/mFBk0rytABU35AVjgwNWVCpiYH4=/0x196/epAAbNDQedp4Lc9tIpy4LUvcIhQ=/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/i/b/WiDTT4Qfmcrat7uqW6lw/11.09-a-vida-sob-ataque.jpg"
+        },
+        {
+          "UI_number": 7,
+          "UI_customHeight": 262,
+          "backgroundUrl": "http://s2.glbimg.com/pQFsrE_tdbndmdcXrjP6xCJblcc=/0x720/-GR-c2Ht8i80K2qVaKeUEefUTbs=/1280x720/center/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/c/M/r70NVKQ0uuc8vNxEniow/bem-amigos.jpg",
+          "id": "bc854080-7fcb-4a30-becc-f2352719668f",
+          "headline": "Esportes",
+          "displayName": "Esportes",
+          "navigation": {
+            "__typename": "MenuPageNavigation",
+            "UI_typename": "MenuPageNavigation",
+            "identifier": "esportes"
+          },
+          "posterUrl": "http://s2.glbimg.com/2g9hyQu8xV75FJjUracx7nch29U=/0x196/4-3IA8ulo_l-C7lZmtXO8g0V-DQ=/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/c/M/r70NVKQ0uuc8vNxEniow/bem-amigos.jpg"
+        },
+        {
+          "UI_number": 8,
+          "UI_customHeight": 262,
+          "backgroundUrl": "http://s2.glbimg.com/HAAZDncErkaB1hetOBeo8HBpACs=/0x720/ELHRTd-c5HfYRuOcLAkfSl1MS4E=/1280x720/center/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2021/g/r/9fLA2KSEGsq7fZMjM9IQ/categoria-variedades.jpg",
+          "id": "a6951f16-22b1-46c5-a741-c15acb13f7f4",
+          "headline": "Variedades",
+          "displayName": "Variedades",
+          "navigation": {
+            "__typename": "MenuPageNavigation",
+            "UI_typename": "MenuPageNavigation",
+            "identifier": "variedades"
+          },
+          "posterUrl": "http://s2.glbimg.com/L1SMgWoVeHpf0pc9lpE7UiC7eYY=/0x196/t6n1hDw3HlqqiPUNMp_MMnLDH6Q=/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2021/g/r/9fLA2KSEGsq7fZMjM9IQ/categoria-variedades.jpg"
+        },
+        {
+          "UI_number": 9,
+          "UI_customHeight": 262,
+          "backgroundUrl": "http://s2.glbimg.com/GXAwl7j08RZ0r5cQSdzg4N9nw4A=/0x720/sHC1EpG4Q2Vlq_E1BhjRPPeKwcI=/1280x720/center/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/Q/S/bEGGl9TTS3wJJ9IjY3NQ/escolinha-do-professor-raimundo.jpg",
+          "id": "c25ef35d-b5fa-48ab-9092-642f741fa246",
+          "headline": "Humor",
+          "displayName": "Humor",
+          "navigation": {
+            "__typename": "MenuPageNavigation",
+            "UI_typename": "MenuPageNavigation",
+            "identifier": "humor"
+          },
+          "posterUrl": "http://s2.glbimg.com/CdsK6WlbfGNwejUCHNPhb5JxCZ4=/0x196/bSFN8xx8aqGJgGZCtwyC0q1cSJ0=/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/Q/S/bEGGl9TTS3wJJ9IjY3NQ/escolinha-do-professor-raimundo.jpg"
+        },
+        {
+          "UI_number": 10,
+          "UI_customHeight": 262,
+          "backgroundUrl": "http://s2.glbimg.com/Cs4BZgfOvSr8tsr40cXWp3sglYI=/0x720/4VnyUIduSCHxTSn1LVXLpGyIWMs=/1280x720/center/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2021/Z/0/nMzFWfSYezfK4R6jpxIg/musica-adele.jpg",
+          "id": "02a9df77-c36c-42f6-94e2-0e4b05f23453",
+          "headline": "Música",
+          "displayName": "Música",
+          "navigation": {
+            "__typename": "MenuPageNavigation",
+            "UI_typename": "MenuPageNavigation",
+            "identifier": "especiais"
+          },
+          "posterUrl": "http://s2.glbimg.com/cPjsXg6L30sOjGCzZZqbQGEZzT4=/0x196/Bi1ZqzRRINk8m9NTsNLT9tcb9lo=/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2021/Z/0/nMzFWfSYezfK4R6jpxIg/musica-adele.jpg"
+        },
+        {
+          "UI_number": 11,
+          "UI_customHeight": 262,
+          "backgroundUrl": "http://s2.glbimg.com/78KRpp7EbZZ3JCrtg8qzrzxGvU0=/0x720/TDvFJkJycBb3C87T1AlVj_fjsZk=/1280x720/center/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/L/p/XIoC8ISTWCjGoegBUAPg/jornal-nacional-2022.jpg",
+          "id": "1fe9b094-9b77-404c-a989-9d6301fd3296",
+          "headline": "Jornalismo",
+          "displayName": "Jornalismo",
+          "navigation": {
+            "__typename": "MenuPageNavigation",
+            "UI_typename": "MenuPageNavigation",
+            "identifier": "jornalismo"
+          },
+          "posterUrl": "http://s2.glbimg.com/MyidgY1CQSCHfluoZhqmmksei7c=/0x196/hVE0daoifv5ZRKVO4G-HJVLP1yg=/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/L/p/XIoC8ISTWCjGoegBUAPg/jornal-nacional-2022.jpg"
+        },
+        {
+          "UI_number": 12,
+          "UI_customHeight": 262,
+          "backgroundUrl": "http://s2.glbimg.com/d399KQbzZuJckUUZEKV1otFCFSY=/0x720/pvbSFIek7m8V0XFH05jwKvFOlvg=/1280x720/center/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2020/k/n/VELhUFTL2QxSm63zMQcA/programas-locais-vale-esta.jpg",
+          "id": "2daf0eb4-f74b-49dc-ba01-642e7df5517a",
+          "headline": "Programas Locais",
+          "displayName": "Programas Locais",
+          "navigation": {
+            "__typename": "MenuSlugNavigation",
+            "UI_typename": "MenuSlugNavigation",
+            "slug": "/programas-locais/"
+          },
+          "posterUrl": "http://s2.glbimg.com/V3MLmQ7GvBmo9vL3eExQIIKvYt8=/0x196/ZJQoPSZSlNXt38aS49QfKsHitAs=/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2020/k/n/VELhUFTL2QxSm63zMQcA/programas-locais-vale-esta.jpg"
+        }
+      ],
+      "index": 3,
+      "navigation": {
+        "__typename": "URLNavigation",
+        "UI_typename": "URLNavigation",
+        "url": "/categorias/"
+      }
+    },
+    {
+      "title": "Canais",
+      "contentType": "BROADCAST_CHANNEL",
+      "uiDefinitions": {
+        "height": 254,
+        "hasMediaCover": true
+      },
+      "offerId": "069ec593-f83d-4b3b-8bcf-53758b948502",
+      "isVideo": false,
+      "playlistEnabled": false,
+      "cards": [
+        {
+          "UI_number": 0,
+          "id": "196",
+          "backgroundUrl": "http://s2.glbimg.com/_r_OaPltvYk6sIpsLssAYzrjMLI=/0x720/WpCMAQZyIj-lmwKMQFhALpkrYmY=/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/3/B/DrwAHjT3KMrxTuZPZrfQ/2022-2636-marca-tv-globo-2021-alternativa-on-air.jpg",
+          "description": "Aproveite todos os nossos programas na Home da TV Globo",
+          "logo": "http://s2.glbimg.com/Obah_d8jaWuApH_II-vw40iU5TU=/fit-in/168x84/filters:colorize(100,100,100,EEEEEE)/ReEsjAe_yBXk1362-k0oBOHBI_g=/trim/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/M/v/RbZgTOReyQ3eDmBwubSA/2022-2636-marca-tv-globo-2021-logo-canais.png",
+          "logoSelected": "http://s2.glbimg.com/LdCHkKTgO64qCohN-i7y64QVQGU=/fit-in/168x84/filters:colorize(100,100,100,454545)/ReEsjAe_yBXk1362-k0oBOHBI_g=/trim/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/M/v/RbZgTOReyQ3eDmBwubSA/2022-2636-marca-tv-globo-2021-logo-canais.png",
+          "headline": "TV Globo",
+          "pageIdentifier": "globo",
+          "contentType": "BROADCAST_CHANNEL"
+        },
+        {
+          "UI_number": 1,
+          "id": "2067",
+          "backgroundUrl": "http://s2.glbimg.com/h9Q3DWV3a3VmzgzfwmkQGI_wzUM=/0x720/sCkUjCoASW-WM8elHkm2ElMAJrc=/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2021/L/8/OlA1CDQnWQByMpFeylsA/onair.jpg",
+          "description": "Aproveite os nossos programas na home do Multishow",
+          "logo": "http://s2.glbimg.com/SMFiIYTZNkhdLhI8zk4QUmISkDU=/fit-in/168x84/filters:colorize(100,100,100,EEEEEE)/g34yujHEeJF1i2_8byG7sAg2G_s=/trim/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2020/8/s/ahzcQqSMyCbetR0rp66A/multishow.png",
+          "logoSelected": "http://s2.glbimg.com/1BK-jAnSfP3GPCnBQ7K9stGti6w=/fit-in/168x84/filters:colorize(100,100,100,454545)/g34yujHEeJF1i2_8byG7sAg2G_s=/trim/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2020/8/s/ahzcQqSMyCbetR0rp66A/multishow.png",
+          "headline": "Multishow",
+          "pageIdentifier": "multishow",
+          "contentType": "BROADCAST_CHANNEL"
+        },
+        {
+          "UI_number": 2,
+          "id": "2096",
+          "backgroundUrl": "http://s2.glbimg.com/N4AdHLpn8TGxV92fxs1z45_eUQc=/0x720/dOwsYt_MDgX7ZMgpEGMEhtbBF9k=/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2020/a/S/CbKyAPQPAtrToGKKgCmw/tapume-globoplay-deslogado-1920x1080.jpg",
+          "description": "Aproveite os nossos programas na home da GloboNews",
+          "logo": "http://s2.glbimg.com/RQkvWeL7qw6WxZdM1bcUy2hzquw=/fit-in/168x84/filters:colorize(100,100,100,EEEEEE)/KOq18UNHYYB3G_729P5Fko2vAmc=/trim/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2020/O/n/nslsdxRamJvQ2LydUB7A/globonews.png",
+          "logoSelected": "http://s2.glbimg.com/_OQrwmIXdmvgkqDm_sNowC9pc5k=/fit-in/168x84/filters:colorize(100,100,100,454545)/KOq18UNHYYB3G_729P5Fko2vAmc=/trim/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2020/O/n/nslsdxRamJvQ2LydUB7A/globonews.png",
+          "headline": "GloboNews",
+          "pageIdentifier": "globonews",
+          "contentType": "BROADCAST_CHANNEL"
+        },
+        {
+          "UI_number": 3,
+          "id": "2108",
+          "backgroundUrl": "http://s2.glbimg.com/67lUotdx2LbirHkfsVmsCAScMiI=/0x720/KUefiInq5_VpFtGC_P6dxIyWQ2o=/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2021/a/q/zBBrtBRSOKd80SAzVWug/tapume-sportv1-nova-marca-a7.jpg",
+          "description": "Acompanhe todas as emoções do Esporte no SporTV",
+          "logo": "http://s2.glbimg.com/8e4tAIZvAXdBQSYTI8tq0Ajl9e0=/fit-in/168x84/filters:colorize(100,100,100,EEEEEE)/NHu5G4z2VmS0Ro9VBrOKmCpjOW0=/trim/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2021/F/y/EIs9ftSXKmqYMbhXTrkw/logo-de-transmissao-sportv-a1.png",
+          "logoSelected": "http://s2.glbimg.com/m1f0jLxbRSPv2XtBVgCZAtr4L9g=/fit-in/168x84/filters:colorize(100,100,100,454545)/NHu5G4z2VmS0Ro9VBrOKmCpjOW0=/trim/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2021/F/y/EIs9ftSXKmqYMbhXTrkw/logo-de-transmissao-sportv-a1.png",
+          "headline": "SporTV",
+          "pageIdentifier": "sportv",
+          "contentType": "BROADCAST_CHANNEL"
+        },
+        {
+          "UI_number": 4,
+          "id": "2081",
+          "backgroundUrl": "http://s2.glbimg.com/Y04wAxI4CEhzEuj2MtD1VP5_iB4=/0x720/lP3BqgjYyusEDi9bufoKXp9MahQ=/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2020/P/5/8U6ySvTM27108EzMpHmA/gnt.png",
+          "description": "Aproveite os nossos programas na home do GNT",
+          "logo": "http://s2.glbimg.com/5Sck8qRNoXlc8FwnOWhLIYzHmN4=/fit-in/168x84/filters:colorize(100,100,100,EEEEEE)/IKfzFKYdfrZK1qO7iUFvFhvLA7o=/trim/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2020/x/3/r5YJuBSW2pA3qyPgMpdg/gnt.png",
+          "logoSelected": "http://s2.glbimg.com/ORSFDo42pn8w47QZVP1NmYqO_v0=/fit-in/168x84/filters:colorize(100,100,100,454545)/IKfzFKYdfrZK1qO7iUFvFhvLA7o=/trim/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2020/x/3/r5YJuBSW2pA3qyPgMpdg/gnt.png",
+          "headline": "GNT",
+          "pageIdentifier": "gnt",
+          "contentType": "BROADCAST_CHANNEL"
+        },
+        {
+          "UI_number": 5,
+          "id": "2107",
+          "backgroundUrl": "http://s2.glbimg.com/r0J9mHHjTEzuEQ3jHUG0gqUdQyw=/0x720/tTaSrSZMVz4jp1YAd8ZnE7mVEk0=/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2020/b/n/4vof4AQlKyANCPBexeRw/usar-esse-tapumeviva10.jpg",
+          "description": "Aproveite os nossos programas na home do Viva",
+          "logo": "http://s2.glbimg.com/Y3lMEBLzpgKD06qaqMmPyDkPj7E=/fit-in/168x84/filters:colorize(100,100,100,EEEEEE)/QMVmuENaLpUtzUx7eIcRyoR952s=/trim/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2020/T/R/Z2rgeLRvS0ptiXCTc30A/viva.png",
+          "logoSelected": "http://s2.glbimg.com/vgzgZiCSt1QxPLXvC468rCCRGOI=/fit-in/168x84/filters:colorize(100,100,100,454545)/QMVmuENaLpUtzUx7eIcRyoR952s=/trim/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2020/T/R/Z2rgeLRvS0ptiXCTc30A/viva.png",
+          "headline": "VIVA",
+          "pageIdentifier": "viva",
+          "contentType": "BROADCAST_CHANNEL"
+        },
+        {
+          "UI_number": 6,
+          "id": "2062",
+          "backgroundUrl": "http://s2.glbimg.com/Vus8oWIfqYerBqT_D1ht9-CO1PA=/0x720/ALnj9i8c2AVDc3I_CS9u_9hIs24=/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2021/4/9/EIw3VYTmGBC63DmvtENQ/banner-gloob-globoplay2.jpg",
+          "description": "Aproveite os nossos programas na home do Gloob",
+          "logo": "http://s2.glbimg.com/Le2gbSbkMVV5GW4DmyG3NGQtSz8=/fit-in/168x84/filters:colorize(100,100,100,EEEEEE)/sCCJBX_JiZwBCkPD-yHbEsbuD_k=/trim/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2020/K/G/oSToHqS02AR7LvfQUobQ/gloob.png",
+          "logoSelected": "http://s2.glbimg.com/tUONUCHS4q0e509LHlxejz_f_Ek=/fit-in/168x84/filters:colorize(100,100,100,454545)/sCCJBX_JiZwBCkPD-yHbEsbuD_k=/trim/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2020/K/G/oSToHqS02AR7LvfQUobQ/gloob.png",
+          "headline": "Gloob",
+          "pageIdentifier": "gloob",
+          "contentType": "BROADCAST_CHANNEL"
+        },
+        {
+          "UI_number": 7,
+          "id": "2109",
+          "backgroundUrl": "http://s2.glbimg.com/PxS49faVLM4xOdtYJtJaoi_1t7Q=/0x720/P2U6FBTJKhL9DFTuBs7m6vEbdhc=/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2020/X/c/FpdrZ6TdqQJifShM3seQ/tapume-gloobinho2.jpg",
+          "description": "Aproveite os nossos programas na home do Gloobinho",
+          "logo": "http://s2.glbimg.com/BCBvCN6dbZlxwbR7ASQrlbZnI1M=/fit-in/168x84/filters:colorize(100,100,100,EEEEEE)/uYAQ7NMha-qXhSdSgxx2klicOyg=/trim/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2020/J/0/d75t6WRVayG0gMFW4VZw/gloobinho.png",
+          "logoSelected": "http://s2.glbimg.com/YwbKujqyNw2tRWGkcaTbicowbkM=/fit-in/168x84/filters:colorize(100,100,100,454545)/uYAQ7NMha-qXhSdSgxx2klicOyg=/trim/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2020/J/0/d75t6WRVayG0gMFW4VZw/gloobinho.png",
+          "headline": "Gloobinho",
+          "pageIdentifier": "gloobinho"
+        },
+        {
+          "UI_number": 8,
+          "id": "2114",
+          "backgroundUrl": "http://s2.glbimg.com/cO-Nrad4QXwNWcwmwxMP3aSzwM8=/0x720/NfEEgfpEuJ7kSwkzMrEPfwl6E6o=/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2020/4/3/OI1hEFRbAeH4xCBqvwqQ/megapix2.jpg",
+          "description": "Aproveite os filmes na home do Megapix",
+          "logo": "http://s2.glbimg.com/kokqzrvaRgTvINIpjcr1JgwJgHA=/fit-in/168x84/filters:colorize(100,100,100,EEEEEE)/Py8ncG4PKmX0tp6OOt4oyTDKDC0=/trim/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2020/A/J/Rb8aiiRxu8t7tD1WAJBw/megapix.png",
+          "logoSelected": "http://s2.glbimg.com/avUK9oo351XGxmaAH0pJPTY24ns=/fit-in/168x84/filters:colorize(100,100,100,454545)/Py8ncG4PKmX0tp6OOt4oyTDKDC0=/trim/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2020/A/J/Rb8aiiRxu8t7tD1WAJBw/megapix.png",
+          "headline": "Megapix",
+          "pageIdentifier": "megapix"
+        },
+        {
+          "UI_number": 9,
+          "id": "2112",
+          "backgroundUrl": "http://s2.glbimg.com/jscBYN0d0yjAc1ecIqxWiS54kRs=/0x720/QHr0Slah6qkksHm2Jn8ImEbFSA4=/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2020/8/x/5kr5sRTE2vBG9KTAzoMw/bg-u-mais-2020-08-02-1-.png",
+          "description": "Aproveite os nossos programas na home do Universal +",
+          "logo": "http://s2.glbimg.com/CtRyxrcma2SBz1qDUp5n2mdIfS0=/fit-in/168x84/filters:colorize(100,100,100,EEEEEE)/mQV6bTBgyuEcM_cO7kyzHr8n2kY=/trim/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2020/4/R/12QLQ3RbmHl3MOhXEfMA/logounivgplay.png",
+          "logoSelected": "http://s2.glbimg.com/6gsLGViFQwKsgvkC7TXixUqqyyQ=/fit-in/168x84/filters:colorize(100,100,100,454545)/mQV6bTBgyuEcM_cO7kyzHr8n2kY=/trim/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2020/4/R/12QLQ3RbmHl3MOhXEfMA/logounivgplay.png",
+          "headline": "Universal+",
+          "pageIdentifier": "universal"
+        },
+        {
+          "UI_number": 10,
+          "id": "2111",
+          "backgroundUrl": "http://s2.glbimg.com/WQXLIuwEwf6e7EAqfypf2j5lEo8=/0x720/WYOsdTK7v_6iLVwXRvplPIym46Q=/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2020/H/i/5sL8SnRVuSYuwgIF5NpA/tapume-03-1-.jpg",
+          "description": "Aproveite os nossos programas na home do Canal Brasil",
+          "logo": "http://s2.glbimg.com/9whCbmd5KC9Zxfnt15HyFC9yejU=/fit-in/168x84/filters:colorize(100,100,100,EEEEEE)/HZXHS-aovuAPOQnKCJoDfv6eGcw=/trim/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2020/A/7/7Fp2YdQlqq3UAUAJpU3g/logo-canal-brasil-03.png",
+          "logoSelected": "http://s2.glbimg.com/7fCG6jAp3BSHDnPUeow3wCr8NAs=/fit-in/168x84/filters:colorize(100,100,100,454545)/HZXHS-aovuAPOQnKCJoDfv6eGcw=/trim/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2020/A/7/7Fp2YdQlqq3UAUAJpU3g/logo-canal-brasil-03.png",
+          "headline": "Canal Brasil",
+          "pageIdentifier": "canal-brasil"
+        },
+        {
+          "UI_number": 11,
+          "id": "2100",
+          "backgroundUrl": "http://s2.glbimg.com/pdct5TdZjO8xIOW02OwBvXnPCw8=/0x720/4W5bF_E0uNbGm4G3CJbK2nof7uI=/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2020/4/r/GK6qUtTxOCXEr0Xw51PA/slackline.png",
+          "description": "Aproveite os nossos programas na home do Canal Off",
+          "logo": "http://s2.glbimg.com/mTo79gph5HiU40cv4WrL7XsE2YQ=/fit-in/168x84/filters:colorize(100,100,100,EEEEEE)/dn9HO0lvymB8HisbzCNko5vfMIk=/trim/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2020/L/T/1War4BROSAV6OI1NU6hQ/off.png",
+          "logoSelected": "http://s2.glbimg.com/qBl_1KNkTx3Xa2RuBveF_Z2cKhs=/fit-in/168x84/filters:colorize(100,100,100,454545)/dn9HO0lvymB8HisbzCNko5vfMIk=/trim/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2020/L/T/1War4BROSAV6OI1NU6hQ/off.png",
+          "headline": "Canal Off",
+          "pageIdentifier": "canal-off"
+        },
+        {
+          "UI_number": 12,
+          "id": "2110",
+          "backgroundUrl": "http://s2.glbimg.com/7oB3aeiyqQ_ddqN3Q2m_BuwS8yY=/0x720/1Q4qYga1jiPeCOGvVTbUTHAJYoI=/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2020/Z/p/PAuAGTQCq2pLBB4mr2wQ/tapume-bis-v2.png",
+          "description": "Aproveite os nossos programas na home do Bis",
+          "logo": "http://s2.glbimg.com/wzyVdDkYAcJf-o2Z47gUPIDDS4Q=/fit-in/168x84/filters:colorize(100,100,100,EEEEEE)/f2FK5vbo7Q23N-ce440lsehJsyA=/trim/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2020/y/t/0t6pgkR66StvweRNJwTw/bis.png",
+          "logoSelected": "http://s2.glbimg.com/fTUsgWP7sZDsWYiqKAruwy_w9t0=/fit-in/168x84/filters:colorize(100,100,100,454545)/f2FK5vbo7Q23N-ce440lsehJsyA=/trim/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2020/y/t/0t6pgkR66StvweRNJwTw/bis.png",
+          "headline": "Bis",
+          "pageIdentifier": "bis"
+        },
+        {
+          "UI_number": 13,
+          "id": "2103",
+          "backgroundUrl": "http://s2.glbimg.com/gzeIZCIloeRVPDeAwN3AMV6Cs5Q=/0x720/i4O9DLl-elbOIda9g9GMqRnlCK0=/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/2/A/6HvkBxR6qeKkz3pJLdlg/thumb-modoviagem-globoplay.jpg",
+          "description": "Aproveite os nossos programas na home do Modo Viagem",
+          "logo": "http://s2.glbimg.com/4kkrCYUkhV7KVxQoEN07GvbeeoY=/fit-in/168x84/filters:colorize(100,100,100,EEEEEE)/DmjfWf0gsrQx2Qx02H8nOz7b7iI=/trim/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/B/l/qwR5RjR9GDh2WfdAERhw/logo-transparente-modo-viagem-700x700.png",
+          "logoSelected": "http://s2.glbimg.com/qJUNA7Tr0fqjgaOzCusEIpflE7U=/fit-in/168x84/filters:colorize(100,100,100,454545)/DmjfWf0gsrQx2Qx02H8nOz7b7iI=/trim/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/B/l/qwR5RjR9GDh2WfdAERhw/logo-transparente-modo-viagem-700x700.png",
+          "headline": "Modo Viagem",
+          "pageIdentifier": "modo-viagem"
+        },
+        {
+          "UI_number": 14,
+          "id": "2118",
+          "backgroundUrl": "http://s2.glbimg.com/3og6ZHQmzGlGmPk93AWyDQgi488=/0x720/2sFF1Gk231NXT0JYQC6tH-SElTQ=/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2020/5/X/t34GcZQsORbQoJgCcK7Q/bg-globosat-play.jpeg",
+          "description": "Aproveite os nossos programas na home do Futura",
+          "logo": "http://s2.glbimg.com/XgFICLKTUacbmny1KCtfifIp-jI=/fit-in/168x84/filters:colorize(100,100,100,EEEEEE)/A9iD_YPNKLhgwk_f7uU7_c2Z2Io=/trim/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2020/t/h/Jd3WjMRK6RoLwzNZLz3Q/futura.png",
+          "logoSelected": "http://s2.glbimg.com/9WDtW7oXVYo3Hc2P1DMlby2bLHM=/fit-in/168x84/filters:colorize(100,100,100,454545)/A9iD_YPNKLhgwk_f7uU7_c2Z2Io=/trim/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2020/t/h/Jd3WjMRK6RoLwzNZLz3Q/futura.png",
+          "headline": "Futura",
+          "pageIdentifier": "futura"
+        },
+        {
+          "UI_number": 15,
+          "id": "2143",
+          "backgroundUrl": "http://s2.glbimg.com/92210mC62BEHh-8X0fuArJngrTw=/0x720/4HNHq3kTBMb70qH-rp6xZVztffE=/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/x/h/EhKueIT7Go44nKIjZbJw/imageonair-telecine-institucional.png",
+          "description": "O clube de cinema com filmes para todos os momentos.",
+          "logo": "http://s2.glbimg.com/VT0fIZC4Wb4SVWXGKM028vM94J0=/fit-in/168x84/filters:colorize(100,100,100,EEEEEE)/OdmLcKDaisdv4pB-jlVlKtp1afI=/trim/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/h/n/yq9iPfTMmjrhm6kyeeJw/telecine-700x700.png",
+          "logoSelected": "http://s2.glbimg.com/jq6ZCxa-JNvwNGPZ5blIvRsnCrI=/fit-in/168x84/filters:colorize(100,100,100,454545)/OdmLcKDaisdv4pB-jlVlKtp1afI=/trim/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/h/n/yq9iPfTMmjrhm6kyeeJw/telecine-700x700.png",
+          "headline": "Telecine",
+          "pageIdentifier": "telecine"
+        },
+        {
+          "UI_number": 16,
+          "id": "1995",
+          "backgroundUrl": "http://s2.glbimg.com/vJOSZzXAlWd5L5OjqYDcEKkT9Cw=/0x720/ioGkeP_YDJqQmKD0Q2jt9ZYsQKs=/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2020/G/3/hcuDhPQNiBk7UiRFUzeA/premi.png",
+          "description": "Aproveite os jogos na home do Premiere",
+          "logo": "http://s2.glbimg.com/5H96_l0LG1E7Ltf6IN38-V9NwQc=/fit-in/168x84/filters:colorize(100,100,100,EEEEEE)/_p3wqp8ZlDV3wkLnue-5a3wBJ5k=/trim/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2020/m/g/T2qATAT4CokCPHtIgWnA/premiere.png",
+          "logoSelected": "http://s2.glbimg.com/GwEV0_GisLaz9nN66ypgkzuwWUs=/fit-in/168x84/filters:colorize(100,100,100,454545)/_p3wqp8ZlDV3wkLnue-5a3wBJ5k=/trim/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2020/m/g/T2qATAT4CokCPHtIgWnA/premiere.png",
+          "headline": "Premiere",
+          "pageIdentifier": "premiere"
+        },
+        {
+          "UI_number": 17,
+          "id": "2117",
+          "backgroundUrl": "http://s2.glbimg.com/zIZrCjiGnk9suXlbQtNwuUT5U2w=/0x720/nVREKh03xEO-XMKXMA9WSOXfUWc=/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2020/I/9/2yqyzSS5AZ9fBl7qyQZg/comb.png",
+          "description": "Aproveite os nossos programas na home do Combate",
+          "logo": "http://s2.glbimg.com/krL__ABr318ydn8a2XLdTqSukno=/fit-in/168x84/filters:colorize(100,100,100,EEEEEE)/ax1eJOtJHmUMGghYC1UjiRmSPWo=/trim/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2020/6/y/DzgbWKRTaMwJFuGyxg5A/combate.png",
+          "logoSelected": "http://s2.glbimg.com/r3XJiTgUanWkIWEm5z9ZG3zHl3I=/fit-in/168x84/filters:colorize(100,100,100,454545)/ax1eJOtJHmUMGghYC1UjiRmSPWo=/trim/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2020/6/y/DzgbWKRTaMwJFuGyxg5A/combate.png",
+          "headline": "Combate",
+          "pageIdentifier": "combate"
+        },
+        {
+          "UI_number": 18,
+          "id": "2147",
+          "backgroundUrl": "http://s2.glbimg.com/Q8wKN8mpDFp8zpABOjN7CS4tB0k=/0x720/AGMqlHBNB5DdIaqrNZJbsp4polI=/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/f/q/MtgjuqTXa8eXjMjlCDrg/starzplay-background-v3.png",
+          "description": "Aproveite Séries e Filmes na Home do StarzPlay",
+          "logo": "http://s2.glbimg.com/oOUQHp5d0DJn0mBR5h74pZ5YjHE=/fit-in/168x84/filters:colorize(100,100,100,EEEEEE)/bAdjFzyGF4i7dcucR8HpT5EK3SQ=/trim/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/v/T/4DsUqITPOVfHO8t9copw/logo-starzplay.png",
+          "logoSelected": "http://s2.glbimg.com/4eePlxWiaSI1-lC502wWTjbdZ6k=/fit-in/168x84/filters:colorize(100,100,100,454545)/bAdjFzyGF4i7dcucR8HpT5EK3SQ=/trim/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/v/T/4DsUqITPOVfHO8t9copw/logo-starzplay.png",
+          "headline": "STARZPLAY",
+          "pageIdentifier": "starzplay"
+        }
+      ],
+      "index": 4,
+      "navigation": {
+        "__typename": "URLNavigation",
+        "UI_typename": "URLNavigation",
+        "url": "/canais/"
+      }
+    },
+    {
+      "id": "81ade444-26b1-4096-9a84-4052178e29c3",
+      "contentType": "TITLE",
+      "uiDefinitions": {
+        "height": 204,
+        "hasMediaCover": true
+      },
+      "resources": [
+        {
+          "__typename": "Title",
+          "headline": "Power",
+          "description": "Dono de uma luxuosa boate em Nova York, o empresário James St. Patrick também atua como um dos chefões do tráfico de drogas, mas vive em conflito em relação à vida dupla.",
+          "selfRatedContent": true,
+          "contentRating": "16",
+          "contentRatingCriteria": [],
+          "format": "SERIES",
+          "releaseYear": 2014,
+          "contentBrand": null,
+          "originalContent": false,
+          "type": "SERIE",
+          "genresNames": ["Drama", "Policial"],
+          "subset": { "slug": "series", "__typename": "Subset" },
+          "titleId": "QB6wRTX7Jg",
+          "technicalSpecs": { "resolutions": ["SD", "HD"], "__typename": "TechnicalSpecs" },
+          "cover": {
+            "landscape": "6VVAbApgWhpJTS70XlK__slOrKM=/0x720/filters:quality(40)/b8gcBYPiupceEtZfiBeDHvMelEw=/i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2021/g/Y/yf9zDtS1AGNlTHnnAdcQ/2021-1581-power-background.jpg",
+            "__typename": "Cover"
+          },
+          "poster": {
+            "tv": "SfRg_s6DTMayn0p-yk3LP5E3uzM=/146x216/filters:quality(40)/1OagZ7jgKeu6wRokD0dNA0chtvM=/i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2021/p/5/1cHDtOSFK9OxoM3JD9EA/2021-1581-power-poster.jpg",
+            "__typename": "Poster"
+          }
+        },
+        {
+          "__typename": "Title",
+          "headline": "Doctor Who",
+          "description": "Um excêntrico extraterrestre, conhecido como Doutor, viaja pelo tempo e espaço em sua nave espacial, a TARDIS, para proteger a Terra e o cosmos de todos os tipos de perigo.",
+          "selfRatedContent": true,
+          "contentRating": "12",
+          "contentRatingCriteria": [],
+          "format": "SERIES",
+          "releaseYear": 2005,
+          "contentBrand": null,
+          "originalContent": false,
+          "type": "SERIE",
+          "genresNames": ["Aventura", "Fantasia", "Ficção-Científica"],
+          "subset": { "slug": "series", "__typename": "Subset" },
+          "titleId": "VTBdTB5hP1",
+          "technicalSpecs": { "resolutions": ["SD", "HD"], "__typename": "TechnicalSpecs" },
+          "cover": {
+            "landscape": "fyFmGgZLx8DX5iPFhe1SLz0gK1o=/0x720/filters:quality(40)/22pzQgWQTyvG6QV0AlqI4eU8wtk=/i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2021/t/I/4z1UjjQZ251n9zwI5Nkw/2021-2481-doctor-who-s13-background-globoplay.jpg",
+            "__typename": "Cover"
+          },
+          "poster": {
+            "tv": "pAASHkuEsLVvUM9lZb-hqNNd_AY=/146x216/filters:quality(40)/tcfK-AVqj73w561lJTVMHuRupt8=/i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2021/O/U/FwJ8RbT0qkxJiWv4iCJA/2021-2481-doctor-who-s13-poster-globoplay.jpg",
+            "__typename": "Poster"
+          }
+        },
+        {
+          "__typename": "Title",
+          "headline": "Justiça",
+          "description": "Justiça é um convite para uma reflexão sobre questões humanas que envolvem valores morais, a partir de um olhar para quatro histórias – independentes, mas interligadas.",
+          "selfRatedContent": false,
+          "contentRating": "16",
+          "contentRatingCriteria": ["conteúdo sexual", "drogas", "violência"],
+          "format": "SERIES",
+          "releaseYear": null,
+          "contentBrand": null,
+          "originalContent": false,
+          "type": "SERIE",
+          "genresNames": ["Drama"],
+          "subset": { "slug": "series", "__typename": "Subset" },
+          "titleId": "bzdYvYGfcs",
+          "technicalSpecs": {
+            "resolutions": ["SD", "HD", "4K"],
+            "__typename": "TechnicalSpecs"
+          },
+          "cover": {
+            "landscape": "L-Lv9ZiEFQMb7aPpePwHi8IaCd8=/0x720/filters:quality(40)/FUKgGWeWRhruk3oHeKmbMsri0sM=/i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2018/G/l/RAH6oiTxSN925jqpxBOg/9491-justica-background.jpg",
+            "__typename": "Cover"
+          },
+          "poster": {
+            "tv": "AOhyyVIJCU52IGNqYMvOz_ubKBQ=/146x216/filters:quality(40)/2sxePiVHIArfq9nga6RoHk2OSEs=/i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2021/x/b/GM7VAyToeVaBqeURGC1g/2021-2294-justica-poster.jpg",
+            "__typename": "Poster"
+          }
+        },
+        {
+          "__typename": "Title",
+          "headline": "Wynonna Earp",
+          "description": "Após um longo tempo fora, Wynonna, descendente do lendário Wyatt Earp, retorna à cidade de Purgatório e precisa proteger sua família, lutando contra demônios.",
+          "selfRatedContent": true,
+          "contentRating": "14",
+          "contentRatingCriteria": [],
+          "format": "SERIES",
+          "releaseYear": 2016,
+          "contentBrand": null,
+          "originalContent": false,
+          "type": "SERIE",
+          "genresNames": ["Suspense", "Sobrenatural"],
+          "subset": { "slug": "series", "__typename": "Subset" },
+          "titleId": "mGYVqQ5hFb",
+          "technicalSpecs": { "resolutions": ["SD", "HD"], "__typename": "TechnicalSpecs" },
+          "cover": {
+            "landscape": "_m3II5HprvBO6B0SgQz05VBG17U=/0x720/filters:quality(40)/vY2LYBCw3fvJYlrqfLmTWF60qsw=/i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2021/m/8/cg69AqTtWPEE224oKtgw/2021-1770-wynonna-earp-t4-background.jpg",
+            "__typename": "Cover"
+          },
+          "poster": {
+            "tv": "kWAvCbmrjxWvqoHHM3HYR6DowHI=/146x216/filters:quality(40)/ZYlXSGWLtY9ZM5pR0q7_D5PViW8=/i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2021/X/F/61xU8ETHujA89vWOmylg/2021-1770-wynonna-earp-t4-poster-tarja.jpg",
+            "__typename": "Poster"
+          }
+        },
+        {
+          "__typename": "Title",
+          "headline": "Small Axe",
+          "description": "Cinco histórias retratam as tensões raciais no Reino Unido entre os anos de 1960 e 1980 e abordam situações que vão desde a luta por direitos até a violência policial contra negros.",
+          "selfRatedContent": true,
+          "contentRating": "16",
+          "contentRatingCriteria": [],
+          "format": "SERIES",
+          "releaseYear": 2020,
+          "contentBrand": null,
+          "originalContent": false,
+          "type": "SERIE",
+          "genresNames": ["Drama"],
+          "subset": { "slug": "series", "__typename": "Subset" },
+          "titleId": "gL1FRPzGPv",
+          "technicalSpecs": { "resolutions": ["SD", "HD"], "__typename": "TechnicalSpecs" },
+          "cover": {
+            "landscape": "oERpPs1oTjAXNTzA0UwZ6RuwJ08=/0x720/filters:quality(40)/mrSw7inCXjaZjQqfaQ5thqGbyLU=/i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2021/2/W/AdiZJOQXOrG5sdDtCoXA/2021-1557-small-axe-background.jpg",
+            "__typename": "Cover"
+          },
+          "poster": {
+            "tv": "EH8hdBgtCeyHvz6c_9TRDzI8UL4=/146x216/filters:quality(40)/u9DilZSAwj5qP4efJFDwCW8Hzdk=/i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2021/X/a/0uFAZwQYW19UXu6lQHWw/2021-1557-small-axe-poster.jpg",
+            "__typename": "Poster"
+          }
+        },
+        {
+          "__typename": "Title",
+          "headline": "As Novas Aventuras de Christine",
+          "description": "Christine é uma mãe divorciada que precisa lidar com a rotina agitada que se divide entre a maternidade, o trabalho e a vida de solteira.",
+          "selfRatedContent": true,
+          "contentRating": "12",
+          "contentRatingCriteria": [],
+          "format": "SERIES",
+          "releaseYear": 2006,
+          "contentBrand": null,
+          "originalContent": false,
+          "type": "SERIE",
+          "genresNames": ["Comédia"],
+          "subset": { "slug": "series", "__typename": "Subset" },
+          "titleId": "5sfsXZBbk7",
+          "technicalSpecs": { "resolutions": ["SD", "HD"], "__typename": "TechnicalSpecs" },
+          "cover": {
+            "landscape": "sew3Nkt5hZuac1aWrl-rf5prQaI=/0x720/filters:quality(40)/WnOn3Yiv7-xKzY5U6__kRPLjm4s=/i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2020/w/O/bkxFtkRnqfw9nvamjQSA/2020-1014-christine-background.jpg",
+            "__typename": "Cover"
+          },
+          "poster": {
+            "tv": "Lpbboa-pWuLSRlkRekTB8m9KQ6Q=/146x216/filters:quality(40)/mNKBbKzbVclZ6vZiDxGlqAJLQTk=/i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/Y/Z/duZeupR3AwLEHIKsYg7g/2022-2859-as-novas-aventuras-de-christine-poster.jpg",
+            "__typename": "Poster"
+          }
+        },
+        {
+          "__typename": "Title",
+          "headline": "Killing Eve - Dupla Obsessão",
+          "description": "Eve é uma agente secreta que fica obcecada em conseguir capturar uma misteriosa assassina e por isso embarca em uma perigosa caçada.",
+          "selfRatedContent": true,
+          "contentRating": "18",
+          "contentRatingCriteria": [],
+          "format": "SERIES",
+          "releaseYear": 2018,
+          "contentBrand": null,
+          "originalContent": false,
+          "type": "SERIE",
+          "genresNames": ["Suspense", "Policial"],
+          "subset": { "slug": "series", "__typename": "Subset" },
+          "titleId": "zGKFfZc69N",
+          "technicalSpecs": { "resolutions": ["SD", "HD"], "__typename": "TechnicalSpecs" },
+          "cover": {
+            "landscape": "zDyypnzDO1yjtI-zf36Qi58AqNQ=/0x720/filters:quality(40)/RfhoWycejdhd8IL1FBYqEvEF0yk=/i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/X/a/la2UUeQIOuWvbhjADUJQ/2022-2732-killing-eve-background.jpg",
+            "__typename": "Cover"
+          },
+          "poster": {
+            "tv": "lTKoC0XTtbZziKYRUpcP_4IYe9k=/146x216/filters:quality(40)/4CupeyjATQwkRUJ6HzN_eGNqHgs=/i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/A/r/ik24APRPKh1b9LydSHYg/2022-2732-killing-eve-poster-t4.jpg",
+            "__typename": "Poster"
+          }
+        },
+        {
+          "__typename": "Title",
+          "headline": "The Handmaid's Tale - O Conto da Aia",
+          "description": "Gilead tem um regime que trata mulheres como propriedade. Offred é uma das poucas mulheres férteis e serva do Comandante, buscando sobreviver e encontrar a filha que foi tirada dela. ",
+          "selfRatedContent": true,
+          "contentRating": "18",
+          "contentRatingCriteria": [],
+          "format": "SERIES",
+          "releaseYear": 2017,
+          "contentBrand": null,
+          "originalContent": false,
+          "type": "SERIE",
+          "genresNames": ["Drama", "Ficção-Científica"],
+          "subset": { "slug": "series", "__typename": "Subset" },
+          "titleId": "QDFNw11dPX",
+          "technicalSpecs": { "resolutions": ["SD", "HD"], "__typename": "TechnicalSpecs" },
+          "cover": {
+            "landscape": "IC-OkplsUKJkoVmtHAwzS9gNz5k=/0x720/filters:quality(40)/eQY5HNoVMLRkPvzuMNQMc-v8bLg=/i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/b/A/fSCu3TTfyy0D7gE7RVpA/2022-2760-the-handmais-tale-background.jpg",
+            "__typename": "Cover"
+          },
+          "poster": {
+            "tv": "6gwBarJ9x7qkGht53kQzzv3jjCU=/146x216/filters:quality(40)/Z4XY2KfEf6Y7TNwDKo9qc_DEweM=/i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/p/P/kTZzDETJGjB4HLoz65cg/2022-2760-the-handmais-tale-poster-t4.jpg",
+            "__typename": "Poster"
+          }
+        },
+        {
+          "__typename": "Title",
+          "headline": "Dexter",
+          "description": "Renomado funcionário da Polícia de Miami, Dexter esconde de todos uma segunda identidade: ele é um assassino em série que mata os criminosos que a polícia não consegue prender.",
+          "selfRatedContent": false,
+          "contentRating": "18",
+          "contentRatingCriteria": ["violência extrema", "conteúdo sexual", "drogas"],
+          "format": "SERIES",
+          "releaseYear": 2006,
+          "contentBrand": null,
+          "originalContent": false,
+          "type": "SERIE",
+          "genresNames": ["Suspense", "Policial"],
+          "subset": { "slug": "series", "__typename": "Subset" },
+          "titleId": "vc1d7fCtPC",
+          "technicalSpecs": { "resolutions": ["SD", "HD"], "__typename": "TechnicalSpecs" },
+          "cover": {
+            "landscape": "Q0VgUi3JhQFTjic-655T6xrNMuE=/0x720/filters:quality(40)/cx2F8T_OAiftQYVOgT8WytIDeWs=/i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2019/I/q/O4x7YiTHqCAgxqFiB5tg/2019-296-series-dexter-background.jpg",
+            "__typename": "Cover"
+          },
+          "poster": {
+            "tv": "5MFdSOHe20H0xUlBYmhOz-hwWZ0=/146x216/filters:quality(40)/p3pC3FBT8LOPZIpQade0SRCt4Kg=/i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2019/E/U/a6J1gGRsWBEtuwQjt1uA/2019-296-series-dexter-poster.jpg",
+            "__typename": "Poster"
+          }
+        },
+        {
+          "__typename": "Title",
+          "headline": "American Horror Story",
+          "description": "Uma antologia de terror, drama e muito sangue: a cada temporada há novas histórias, cenários e personagens perturbadores. ",
+          "selfRatedContent": true,
+          "contentRating": "18",
+          "contentRatingCriteria": [],
+          "format": "SERIES",
+          "releaseYear": 2011,
+          "contentBrand": null,
+          "originalContent": false,
+          "type": "SERIE",
+          "genresNames": ["Terror", "Sobrenatural"],
+          "subset": { "slug": "series", "__typename": "Subset" },
+          "titleId": "1mMXdhBKwP",
+          "technicalSpecs": { "resolutions": ["SD", "HD"], "__typename": "TechnicalSpecs" },
+          "cover": {
+            "landscape": "vC3ipMYcc0d82a30QUfqZuvmu68=/0x720/filters:quality(40)/YMIvodARP7NsK9_LmA48qc6hcGY=/i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2020/S/m/1gGBbPQjiUGu6Qf4HuIA/2020-1102-ahs-t9-background.jpg",
+            "__typename": "Cover"
+          },
+          "poster": {
+            "tv": "hl5enJIU2Un3pmtWted1mFRywB0=/146x216/filters:quality(40)/vghzwtysX-3DBT1Hk839g5jdWQk=/i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2020/W/a/uInuQnShCSX476xWA2Aw/2020-1102-ahs-t9-poster.jpg",
+            "__typename": "Poster"
+          }
+        },
+        {
+          "__typename": "Title",
+          "headline": "Assédio",
+          "description": "Em uma obra ficcional, uma rede de mulheres se forma para denunciar os abusos sexuais cometidos por um médico respeitado. A saga começa quando uma delas rompe o silêncio.",
+          "selfRatedContent": false,
+          "contentRating": "16",
+          "contentRatingCriteria": ["conteúdo sexual", "violência"],
+          "format": "SERIES",
+          "releaseYear": 2018,
+          "contentBrand": null,
+          "originalContent": true,
+          "type": "SERIE",
+          "genresNames": ["Drama"],
+          "subset": { "slug": "series", "__typename": "Subset" },
+          "titleId": "kSYQtwcDsf",
+          "technicalSpecs": { "resolutions": ["SD", "HD"], "__typename": "TechnicalSpecs" },
+          "cover": {
+            "landscape": "wtIEwLoBUJ8NBwteDqa1raXJH_E=/0x720/filters:quality(40)/PCRuLGAStBkidyRs9HU-qOanrco=/i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2018/4/b/VuUVgSRAuOT1tTjbeNfA/10853-assedio-background.jpg",
+            "__typename": "Cover"
+          },
+          "poster": {
+            "tv": "xD1TK6Z4f5xPYTgtZnRcYFje8ZY=/146x216/filters:quality(40)/X_C16UQaslw7PQwk0bOhkhYa-IM=/i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2020/d/P/de7eXZT36Q0ActiEfRFw/2020-1123-assedio-poster.jpg",
+            "__typename": "Poster"
+          }
+        },
+        {
+          "__typename": "Title",
+          "headline": "Medium",
+          "description": "Allison DuBois usa o dom paranormal para entrar em contato com os mortos e solucionar crimes que sem a ajuda deles seriam impossíveis.",
+          "selfRatedContent": true,
+          "contentRating": "16",
+          "contentRatingCriteria": [],
+          "format": "SERIES",
+          "releaseYear": 2007,
+          "contentBrand": null,
+          "originalContent": false,
+          "type": "SERIE",
+          "genresNames": ["Drama", "Sobrenatural"],
+          "subset": { "slug": "series", "__typename": "Subset" },
+          "titleId": "Pvh2VNV5R7",
+          "technicalSpecs": { "resolutions": ["HD", "SD"], "__typename": "TechnicalSpecs" },
+          "cover": {
+            "landscape": "wF5OZNP89fxA_ZEeMplA8YsMcgc=/0x720/filters:quality(40)/0OPJEc_froqcZ6nOhBb85W0YlU0=/i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2019/0/U/mbKLkpRsqz4iUPK8D2hg/2019-461-midia-kit-series-cbs-junho-medium-background.jpg",
+            "__typename": "Cover"
+          },
+          "poster": {
+            "tv": "lbK5gFnr72hMYOdfShA_UxwozZo=/146x216/filters:quality(40)/a9yqy_bipVo_pw36PNBxpObHyDY=/i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2019/B/O/VYSln8S3utNakQVFIbYg/2019-461-midia-kit-series-cbs-junho-medium-poster.jpg",
+            "__typename": "Poster"
+          }
+        },
+        {
+          "__typename": "Title",
+          "headline": "Poldark - Herói de Guerra",
+          "description": "Após três anos de guerra, Ross Poldark retorna a sua cidade para cuidar dos negócios da família, mas se depara com uma nova realidade. Baseado nos romances de Winston Graham.",
+          "selfRatedContent": true,
+          "contentRating": "14",
+          "contentRatingCriteria": [],
+          "format": "SERIES",
+          "releaseYear": 2015,
+          "contentBrand": null,
+          "originalContent": false,
+          "type": "SERIE",
+          "genresNames": ["Drama", "Época"],
+          "subset": { "slug": "series", "__typename": "Subset" },
+          "titleId": "62fYcdRpCG",
+          "technicalSpecs": { "resolutions": ["SD", "HD"], "__typename": "TechnicalSpecs" },
+          "cover": {
+            "landscape": "KkA8_q1LluIjoosI8J1msAM1Lyk=/0x720/filters:quality(40)/wy6ZIIuOqWSGhWCU6W6g2wkAn6k=/i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2021/D/R/dLKXEYQ7y1wVk23jSt5w/2021-1676-poldark-background.jpg",
+            "__typename": "Cover"
+          },
+          "poster": {
+            "tv": "SlFoDZYb9KRLAjhNdqobSntfcwc=/146x216/filters:quality(40)/2tk-kEOUbEN4GkzC4nFlg0XIIWM=/i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2021/E/m/DyN38kQ56Ilt4Ucm4SFg/2021-1676-poldark-t5-poster.jpg",
+            "__typename": "Poster"
+          }
+        },
+        {
+          "__typename": "Title",
+          "headline": "Mad Men",
+          "description": "Na Nova York dos anos 60, Don Draper é diretor criativo de uma agência de publicidade. Entre crises pessoais e a pressão no trabalho, vemos um retrato da sociedade da época.",
+          "selfRatedContent": false,
+          "contentRating": "16",
+          "contentRatingCriteria": ["drogas", "conteúdo sexual"],
+          "format": "SERIES",
+          "releaseYear": 2007,
+          "contentBrand": null,
+          "originalContent": false,
+          "type": "SERIE",
+          "genresNames": ["Drama"],
+          "subset": { "slug": "series", "__typename": "Subset" },
+          "titleId": "Dc9WSyzLN7",
+          "technicalSpecs": { "resolutions": ["SD", "HD"], "__typename": "TechnicalSpecs" },
+          "cover": {
+            "landscape": "z1FjIcxub_IpdgrkAtrW0VDZjJo=/0x720/filters:quality(40)/8GzgVgyGfzCePpRHv98BJOQ2KdY=/i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2021/j/j/MjFXsETemJgr5pFUSpBw/2020-1441-mad-men-background.jpg",
+            "__typename": "Cover"
+          },
+          "poster": {
+            "tv": "WXtQe3OTqBDxRCwBjozxmEwjQd8=/146x216/filters:quality(40)/D3ng9_dizXYzC45WLiTfFe2aFe8=/i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2021/h/Z/aSbkZgQDuO2fGAMcYi5Q/2020-1441-mad-men-poster.jpg",
+            "__typename": "Poster"
+          }
+        },
+        {
+          "__typename": "Title",
+          "headline": "House",
+          "description": "Série sobre o drama médico em que o vilão é uma doença e o herói é um médico irreverente e controverso que não confia em ninguém, e menos ainda em seus pacientes.",
+          "selfRatedContent": true,
+          "contentRating": "14",
+          "contentRatingCriteria": [],
+          "format": "SERIES",
+          "releaseYear": 2005,
+          "contentBrand": null,
+          "originalContent": false,
+          "type": "SERIE",
+          "genresNames": ["Drama", "Médico"],
+          "subset": { "slug": "series", "__typename": "Subset" },
+          "titleId": "G8gLCwkkLr",
+          "technicalSpecs": { "resolutions": ["SD", "HD"], "__typename": "TechnicalSpecs" },
+          "cover": {
+            "landscape": "n-iimEUAljVmel1Bn3jGc40ZAvU=/0x720/filters:quality(40)/JqDb1-17eAiFAAJF5xTKpHcgg34=/i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2019/j/V/3AsaAARfehWAXAXoyLAA/2018-098-media-kit-house-background.jpg",
+            "__typename": "Cover"
+          },
+          "poster": {
+            "tv": "KYXFOhcF1BmecxfJE1suZjSRPsQ=/146x216/filters:quality(40)/0fUiUIVwuQJT-cSJk4tJoSXfhe0=/i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2019/u/F/HBPShNQcmFOS2GTVY53g/2018-098-media-kit-house-poster-b.jpg",
+            "__typename": "Poster"
+          }
+        },
+        {
+          "__typename": "Title",
+          "headline": "Ray Donovan",
+          "description": "Ray Donovan mantém uma agência de detetives em Los Angeles para resolver problemas de ricos e famosos. Enquanto lida com celebridades, ele precisa cuidar da família problemática.",
+          "selfRatedContent": true,
+          "contentRating": "16",
+          "contentRatingCriteria": [],
+          "format": "SERIES",
+          "releaseYear": 2013,
+          "contentBrand": null,
+          "originalContent": false,
+          "type": "SERIE",
+          "genresNames": ["Drama", "Policial"],
+          "subset": { "slug": "series", "__typename": "Subset" },
+          "titleId": "JLkYT12b6R",
+          "technicalSpecs": { "resolutions": ["SD", "HD"], "__typename": "TechnicalSpecs" },
+          "cover": {
+            "landscape": "RWWt_BGBRoqV39NkAxBd7PmwL_s=/0x720/filters:quality(40)/5jriTfr-CmWWHZpprx0NUzs_LV8=/i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2021/a/v/BuCGMgSfWAQhJuqaCrUA/2021-1748-ray-donovan-background.jpg",
+            "__typename": "Cover"
+          },
+          "poster": {
+            "tv": "X6E4FZOr0MfqNS2d26h6T6Dy-JA=/146x216/filters:quality(40)/vUBa-yWeC85AQSBIYEvrWctTFtU=/i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2021/r/S/nphvfWQB2bJfGB5ld5tg/2021-1748-ray-donovan-poster-t7.jpg",
+            "__typename": "Poster"
+          }
+        },
+        {
+          "__typename": "Title",
+          "headline": "Carcereiros",
+          "description": "Inspirada na obra de Dráuzio Varella, a série premiada em Cannes traz a visão do agente penitenciário Adriano, que vive entre muros, grades, armas e ameaças.",
+          "selfRatedContent": false,
+          "contentRating": "16",
+          "contentRatingCriteria": [
+            "atos criminosos",
+            "conteúdo sexual",
+            "drogas",
+            "linguagem imprópria",
+            "violência extrema"
+          ],
+          "format": "SERIES",
+          "releaseYear": null,
+          "contentBrand": null,
+          "originalContent": false,
+          "type": "SERIE",
+          "genresNames": ["Drama", "Policial"],
+          "subset": { "slug": "series", "__typename": "Subset" },
+          "titleId": "xv2wy6DPSV",
+          "technicalSpecs": { "resolutions": ["SD", "HD"], "__typename": "TechnicalSpecs" },
+          "cover": {
+            "landscape": "aujnlqzAfsOWBTHBJZuTQQNfum8=/0x720/filters:quality(40)/--szio-3uPzhR8kfKsSQL_jXRPk=/i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2021/v/V/DSRhy5TMKjwhcYh1xyhg/2019-5-1.jpg",
+            "__typename": "Cover"
+          },
+          "poster": {
+            "tv": "RbGqWwPb_FfTk1doHu431QNIPYc=/146x216/filters:quality(40)/ctMBVYGdLj-ej0TXWBC_zuB4JLs=/i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2021/p/T/IvJ4lkTC61bqWngIcsAQ/2019-5-3.jpg",
+            "__typename": "Poster"
+          }
+        },
+        {
+          "__typename": "Title",
+          "headline": "Grey's Anatomy",
+          "description": "Acompanhe a vida de Meredith Grey e seus colegas médicos através de uma jornada de desafios profissionais e amorosos em um hospital de Seattle.",
+          "selfRatedContent": true,
+          "contentRating": "14",
+          "contentRatingCriteria": [],
+          "format": "SERIES",
+          "releaseYear": 2005,
+          "contentBrand": null,
+          "originalContent": false,
+          "type": "SERIE",
+          "genresNames": ["Drama", "Médico", "Romance"],
+          "subset": { "slug": "series", "__typename": "Subset" },
+          "titleId": "zkdVksFMLP",
+          "technicalSpecs": { "resolutions": ["SD", "HD"], "__typename": "TechnicalSpecs" },
+          "cover": {
+            "landscape": "1yGk8gSyXr1XyF6Ilp_JsKJvF2k=/0x720/filters:quality(40)/kAZhGMbaInomBjbVFQyAFmrZmIw=/i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2021/F/B/1lpXSDS9etz4nxdDyBeA/2021-2378-greys-anatomy-com-tarja-background-globoplay.jpg",
+            "__typename": "Cover"
+          },
+          "poster": {
+            "tv": "rCgvI28VA_h_odO5hGGC4uAAeoM=/146x216/filters:quality(40)/I2-zKzt1xDlhHG8pfbNy6j-_hGs=/i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2021/r/p/1NGbY9QPSjcBs6zB4SqQ/2021-2378-greys-anatomy-com-tarja-poster-com-tarja-globoplay.jpg",
+            "__typename": "Poster"
+          }
+        },
+        {
+          "__typename": "Title",
+          "headline": "Sob Pressão",
+          "description": "A 5ª temporada destaca a saúde mental e física da equipe, que está cansada. Os profissionais começam a manifestar os resultados de tanta dedicação. Novos episódios toda quinta.",
+          "selfRatedContent": false,
+          "contentRating": "16",
+          "contentRatingCriteria": [],
+          "format": "SERIES",
+          "releaseYear": 2017,
+          "contentBrand": null,
+          "originalContent": true,
+          "type": "SERIE",
+          "genresNames": ["Drama", "Médico", "Premiados"],
+          "subset": { "slug": "series", "__typename": "Subset" },
+          "titleId": "PhQ7Wtzn6C",
+          "technicalSpecs": {
+            "resolutions": ["SD", "HD", "4K"],
+            "__typename": "TechnicalSpecs"
+          },
+          "cover": {
+            "landscape": "5VvAk9ZMaYP6h9x2g0oKYoVTITM=/0x720/filters:quality(40)/JvSRaNABK_JCdFXvlQU8b5Tcbbg=/i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/v/m/FTbFX4R5Cz2M15ISJkkA/2022-2881-sob-pressao-t5-background.jpg",
+            "__typename": "Cover"
+          },
+          "poster": {
+            "tv": "27wKgwE3xY7H6UTRzrlDCUJoKJQ=/146x216/filters:quality(40)/CdDXlZbXfWneUXKqyiVh3Q361NA=/i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/E/T/l5b04bSR6XazSmFIVeCQ/2022-2881-sob-pressao-t5-poster.jpg",
+            "__typename": "Poster"
+          }
+        },
+        {
+          "__typename": "Title",
+          "headline": "How I Met Your Mother",
+          "description": "Em 2030, Ted Mosby conta como conheceu a mãe dos seus filhos. A cada episódio, ele volta ao passado, relembrando aventuras amorosas e a busca pela mulher dos seus sonhos.",
+          "selfRatedContent": true,
+          "contentRating": "12",
+          "contentRatingCriteria": [],
+          "format": "SERIES",
+          "releaseYear": 2005,
+          "contentBrand": null,
+          "originalContent": false,
+          "type": "SERIE",
+          "genresNames": ["Comédia", "Romance"],
+          "subset": { "slug": "series", "__typename": "Subset" },
+          "titleId": "W2BBp6pYgj",
+          "technicalSpecs": { "resolutions": ["SD", "HD"], "__typename": "TechnicalSpecs" },
+          "cover": {
+            "landscape": "NHQkdRfsWJMs9ucW_ggdirQ9PaY=/0x720/filters:quality(40)/0fellfHuzA7Ii26pBuWm5HaG30g=/i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2021/s/t/C6xmObTJ6c8h9VLhohBg/2021-1682-how-i-met-your-mother-background.jpg",
+            "__typename": "Cover"
+          },
+          "poster": {
+            "tv": "ucubmkTAeL_7bCJJlH1D8tYcF28=/146x216/filters:quality(40)/UZk4VXrRGqmlYMxIPAMiOeRFeuI=/i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/6/n/vpQRwXSgWq0UWPBTgwXQ/2022-2859-how-i-met-your-mother-poster.jpg",
+            "__typename": "Poster"
+          }
+        },
+        {
+          "__typename": "Title",
+          "headline": "Save Me - Tudo Pela Minha Filha",
+          "description": "Nelly não vê sua filha Jody há 10 anos e descobre que ela está desaparecida. Acusado pela polícia e disposto a provar sua inocência, o britânico decide buscá-la por conta própria.",
+          "selfRatedContent": true,
+          "contentRating": "14",
+          "contentRatingCriteria": [],
+          "format": "SERIES",
+          "releaseYear": 2018,
+          "contentBrand": null,
+          "originalContent": false,
+          "type": "SERIE",
+          "genresNames": ["Drama", "Mistério"],
+          "subset": { "slug": "series", "__typename": "Subset" },
+          "titleId": "wszpvyLHLg",
+          "technicalSpecs": { "resolutions": ["SD", "HD"], "__typename": "TechnicalSpecs" },
+          "cover": {
+            "landscape": "idUKLrms-m1zrRvKALeU06VMmes=/0x720/filters:quality(40)/bFJf1WDT2_2hEzj7lnPiOM4PJ7g=/i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2020/3/K/hzAYBBTAiLFTEuVlKs4w/2020-1228-save-me-2t-background.jpg",
+            "__typename": "Cover"
+          },
+          "poster": {
+            "tv": "0x63JUBWqQ_dF9QeD6qj9wHJD6s=/146x216/filters:quality(40)/tbZ688_HScROwO3nzuLlCqPjYZg=/i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2020/h/7/7I18nHQXKwwYFvhriOcA/2020-1228-save-me-2t-poster.jpg",
+            "__typename": "Poster"
+          }
+        },
+        {
+          "__typename": "Title",
+          "headline": "Justificado",
+          "description": "Por agir como um xerife e colecionar desafetos, o policial Raylan Givens é transferido para sua cidade natal, onde será implacável quando necessário.",
+          "selfRatedContent": true,
+          "contentRating": "16",
+          "contentRatingCriteria": [],
+          "format": "SERIES",
+          "releaseYear": 2010,
+          "contentBrand": null,
+          "originalContent": false,
+          "type": "SERIE",
+          "genresNames": ["Ação", "Faroeste", "Policial"],
+          "subset": { "slug": "series", "__typename": "Subset" },
+          "titleId": "rVkFBZzjCt",
+          "technicalSpecs": { "resolutions": ["SD", "HD"], "__typename": "TechnicalSpecs" },
+          "cover": {
+            "landscape": "fyQf_CRlkpVU4gpN6qn_PJZekHU=/0x720/filters:quality(40)/-E90dBBlqIk7JVKymocTNlcIL7A=/i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2020/i/n/hEiJQzSRGA0olRvM0qVw/2020-954-justificado-background.jpg",
+            "__typename": "Cover"
+          },
+          "poster": {
+            "tv": "",
+            "__typename": "Poster"
+          }
+        },
+        {
+          "__typename": "Title",
+          "headline": "Halt & Catch Fire",
+          "description": "Em meio à ascensão dos computadores nos anos 80, um executivo do ramo da informática se junta a um engenheiro e uma aluna prodígio para criar um produto revolucionário.",
+          "selfRatedContent": true,
+          "contentRating": "14",
+          "contentRatingCriteria": [],
+          "format": "SERIES",
+          "releaseYear": null,
+          "contentBrand": null,
+          "originalContent": false,
+          "type": "SERIE",
+          "genresNames": ["Drama"],
+          "subset": { "slug": "series", "__typename": "Subset" },
+          "titleId": "WqfvYfdzTR",
+          "technicalSpecs": { "resolutions": ["HD", "SD"], "__typename": "TechnicalSpecs" },
+          "cover": {
+            "landscape": "",
+            "__typename": "Cover"
+          },
+          "poster": {
+            "tv": "",
+            "__typename": "Poster"
+          }
+        },
+        {
+          "__typename": "Title",
+          "headline": "Os Normais",
+          "description": "Rui e Vani são um casal de classe média com manias, preconceitos e falhas de caráter. Eles tornam qualquer fator da vida a dois uma confusão.",
+          "selfRatedContent": false,
+          "contentRating": "14",
+          "contentRatingCriteria": ["conteúdo sexual", "violência"],
+          "format": "SERIES",
+          "releaseYear": null,
+          "contentBrand": null,
+          "originalContent": false,
+          "type": "SERIE",
+          "genresNames": ["Comédia"],
+          "subset": { "slug": "series", "__typename": "Subset" },
+          "titleId": "sFMW9VLGpR",
+          "technicalSpecs": { "resolutions": ["SD", "HD"], "__typename": "TechnicalSpecs" },
+          "cover": {
+            "landscape": "",
+            "__typename": "Cover"
+          },
+          "poster": {
+            "tv": "",
+            "__typename": "Poster"
+          }
+        }
+      ],
+      "index": 5,
+      "__typename": "OfferItemsCollection"
+    }
+  ]
+  
