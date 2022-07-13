@@ -1,5 +1,9 @@
-import React from 'react'
+import React, { ReactNode } from 'react'
+import CategoryRail from '../rails/category-rail/category-rail'
 import { RailData } from './Types'
+import ChannelRail from '../rails/channel-rail/channel-rail'
+import TitleRail from '../rails/title-rail/title-rail'
+import OfHighlightRail from '../rails/highlight-rail/highlight-rail'
 
 
 type Props = {
@@ -16,20 +20,19 @@ const VerticalScroll: React.FC<Props> = ({
   rails,
 }) => {
 
-  const renderRails = () => {
+  const renderRails = (): ReactNode => {
     const allRails = rails as RailData[]
-    allRails.map((i) => {
+    return allRails.map((i) => {
       switch (i.contentType) {
         case 'CATEGORY':
-            return <CategoryRail />
+            return <CategoryRail data={i} isFocused={false}/>
           case 'BROADCAST_CHANNEL':
-            return <ChannelRail />
+            return <ChannelRail data={i} isFocused={false} />
           case 'OFFERHIGHLIGHT':
-            return <OfHighlightRail />
+            return <OfHighlightRail data={i} isFocused={false} />
           case 'TITLE':
-            return <TitleRail />
+            return <TitleRail data={i} isFocused={false} />
       }
-    return null
     })
 }
  

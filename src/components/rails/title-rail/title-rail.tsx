@@ -1,14 +1,16 @@
-import { CategoryRailData } from './category-rail-data'
+import { TitleRailData } from './title-rail-data'
 
 type Props = {
-    data: CategoryRailData
+    data: TitleRailData
     isFocused: boolean
   }
   
   const TitleRail: React.FC<Props> = ({ data, isFocused }) => {
+    console.log(data)
     return (
         <div>
-            <p> {data.title} </p>
+            <p> {data.resources[0].headline} sdsa</p>
+            <p> Title </p>
         </div>
     )
   
