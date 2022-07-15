@@ -1,0 +1,31 @@
+@import '../../../style/autoprefixer.scss';
+
+.button {
+    height: 273px;
+    width: 184px;
+    padding: 0;
+    border: none;
+    border-radius: 5px;
+    margin-right: 5px;
+    background-color: transparent;
+
+};
+
+
+.buttonFocus {
+    border-radius: 5px;
+    background-color: rgba(233, 233, 233, 0.637);
+    padding: 0;
+    height: 273px;
+    width: 184px;
+    @include animation(transform 0.5s ease-in-out);
+    margin-right: 5px;
+  
+}
+
+img {
+    height: 263px;
+    width: 174px;
+    border-radius: 5px;
+
+}

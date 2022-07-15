@@ -1,6 +1,6 @@
 import VerticalScroll from './components/vertical-scroll/VerticalScroll';
 import './Home.css';
-import mock from './components/vertical-scroll/mock.json'
+import mock from './mocks/mock.json'
 
 function Home() {
   return (

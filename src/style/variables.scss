@@ -1,0 +1,97 @@
+$color-ui-00: #fff;
+$color-ui-15: #eee;
+$color-ui-18: #e2e2e2;
+$color-ui-20: #ccc;
+$color-ui-25: #aaa;
+$color-ui-30: #888;
+$color-ui-40: #666;
+$color-ui-50: #454545;
+$color-ui-60: #333;
+$color-ui-70: #262626;
+$color-ui-80: #191919;
+$color-ui-90: #1f1f1f;
+$color-ui-100: #000;
+$color-ui-red: #fb0234;
+
+
+$color-onboarding-text: #f0f0f0;
+
+$color-brand-globoplay: #f31d1d;
+
+
+$color-live: #ee0505;
+$color-live-unfocused: #999;
+
+
+$red: #e70033;
+$torch-red: #f31d1d;
+$flush-orange: #ff7d00;
+$yellow-lightning: #ffbe1d;
+$yellow-sea: #ffae00;
+$green-haze: #009946;
+$celurean: #0039a6;
+$klein-blue: #009ddb;
+$red-violet-medium: #e51d9b;
+$red-violet: #9b2c98;
+$bokara-grey: #1b1715;
+
+
+$spacing-xss: 12px; 
+$spacing-xxs: 16px;
+$spacing-xs: 24px; 
+$spacing-sm: 36px; 
+$spacing-md: 48px; 
+$spacing-lg: 60px; 
+$spacing-xl: 72px; 
+$spacing-xxl: 84px; 
+
+$layout-xxs: 24px; 
+$layout-xs: 36px;
+$layout-sm: 48px; 
+$layout-md: 72px; 
+$layout-lg: 96px;
+$layout-xl: 144px;
+$layout-xxl: 240px; 
+
+
+$font-level-1-heading-fhd: 40px;
+$font-level-1-heading-hd: 32px;
+$font-level-2-heading-fhd: 32px;
+$font-level-2-heading-hd: 24px;
+$font-level-3-heading-fhd: 24px;
+$font-level-3-heading-hd: 16px;
+
+$font-label-text-s: 18px;
+$font-label-text-m: 21px; 
+$font-label-text-l: 24px;
+       
+$font-body-text-s: 30px; 
+$font-body-text-m: 36px; 
+$font-body-text-l: 42px; 
+
+
+$font-semibold: 600;
+
+
+$radius: 3px;
+
+@mixin HD {
+  @media (max-width: 1440px) {
+    @content;
+  }
+}
+
+@mixin FULL_HD {
+  @media (min-width: 1440px) {
+    @content;
+  }
+}
+
+
+@function calcToHD($value) {
+  @return ceil($value / 1.5);
+}
+
+@function calcToFHD($value) {
+  @return ceil($value * 1.5);
+}
