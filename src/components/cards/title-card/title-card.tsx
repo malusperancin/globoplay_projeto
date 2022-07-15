@@ -1,38 +1,28 @@
 import React, { ReactElement } from 'react'
-
 import TitleCardData from './title-card-data'
-import styles from './title-card.module.scss'
+import style from './style.module.scss'
 
 type Props = {
-  posterUrl: string
-  headline: string
-  isFocused: boolean
-  isImageLoaded: boolean
-  // onEnter: (item: TitleCardData, index: number) => void
-  onMouseEnter?: (item: TitleCardData, index: number) => void
-  onMouseLeave?: () => void
-  onImageLoaded?: () => void
-  onErrorLoadImage?: () => void
+  data: TitleCardData
+  isFocus: boolean
+  translate: number
 }
 
 const TitleCard = ({
-  posterUrl,
-  headline,
-  isFocused,
-  isImageLoaded,
-  // onEnter,
-  onImageLoaded,
-  onErrorLoadImage,
+data,
+isFocus,
+translate
 }: Props): ReactElement => {
+  const styles = { 
+    transform: `translate(${translate}px)` 
+};
+
+console.log(data)
   return (
-    <button type="button">
-        <img
-          className={`${styles.posterUrl} ${isFocused ? styles.focused : ''}`}
-          src={posterUrl}
-          alt={headline}
-          onLoad={onImageLoaded}
-          onError={onErrorLoadImage}
-        />
+    
+    
+    <button style={styles} className={ isFocus ? style.buttonFocus : style.button} type="button">
+        <img src={data.poster.tv} alt="oi"></img>
     </button>
   )
 }

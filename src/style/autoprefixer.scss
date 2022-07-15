@@ -1,0 +1,89 @@
+@mixin animation($parameters) {
+  -webkit-animation: $parameters;
+  -moz-animation: $parameters;
+  -o-animation: $parameters;
+  animation: $parameters;
+}
+
+@mixin background-size($parameters) {
+  -webkit-background-size: $parameters;
+  -moz-background-size: $parameters;
+  -o-background-size: $parameters;
+  background-size: $parameters;
+}
+
+@mixin border-radius($parameters) {
+  -webkit-border-radius: $parameters;
+  -moz-border-radius: $parameters;
+  border-radius: $parameters;
+}
+
+@mixin border-bottom-left-radius($parameters) {
+  -webkit-border-bottom-left-radius: $parameters;
+  -moz-border-bottom-left-radius: $parameters;
+  border-bottom-left-radius: $parameters;
+}
+
+@mixin border-bottom-right-radius($parameters) {
+  -webkit-border-bottom-right-radius: $parameters;
+  -moz-border-bottom-right-radius: $parameters;
+  border-bottom-right-radius: $parameters;
+}
+
+@mixin border-top-left-radius($parameters) {
+  -webkit-border-top-left-radius: $parameters;
+  -moz-border-top-left-radius: $parameters;
+  border-top-left-radius: $parameters;
+}
+
+@mixin border-top-right-radius($parameters) {
+  -webkit-border-top-right-radius: $parameters;
+  -moz-border-top-right-radius: $parameters;
+  border-top-right-radius: $parameters;
+}
+
+@mixin box-shadow($parameters...) {
+  -webkit-box-shadow: $parameters;
+  -moz-box-shadow: $parameters;
+  box-shadow: $parameters;
+}
+
+@mixin box-sizing($parameters) {
+  -webkit-box-sizing: $parameters;
+  -moz-box-sizing: $parameters;
+  box-sizing: $parameters;
+}
+
+@mixin filter($parameters) {
+  -webkit-filter: $parameters;
+  filter: $parameters;
+}
+
+@mixin transform($parameters) {
+  -webkit-transform: $parameters;
+  -moz-transform: $parameters;
+  -o-transform: $parameters;
+  transform: $parameters;
+}
+
+@mixin transition($parameters...) {
+  -webkit-transition: $parameters;
+  -moz-transition: $parameters;
+  -o-transition: $parameters;
+  transition: $parameters;
+}
+
+@mixin keyFrame($nameAnimate) {
+  @-webkit-keyframes #{$nameAnimate} {
+    @content;
+  }
+  @-moz-keyframes #{$nameAnimate} {
+    @content;
+  }
+  @-o-keyframes #{$nameAnimate} {
+    @content;
+  }
+  @keyframes #{$nameAnimate} {
+    @content;
+  }
+}
