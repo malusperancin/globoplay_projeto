@@ -40,12 +40,15 @@ const TitleRail: React.FC<Props> = ({ data, isFocused }) => {
   }, [onKeyDown]);
   
 
+
   return (
-    <div className={style.rail}>
-      {data.resources.map((i, index) => {
-        console.log(isFocus)
-        return <TitleCard translate={ isFocus <= 14 ? (isFocus) * -189 : -189 * 14} isFocus={index === isFocus } data={i} />
-      })}
+    <div>
+      <p className={style.title}> Títulos </p> 
+        <div className={style.rail}>
+          {data.resources.map((i, index) => {
+            return <TitleCard translate={ isFocus <= 14 ? (isFocus) * -189 : -189 * 14} isFocus={index === isFocus } data={i} />
+          })}
+        </div>
     </div>
   );
 };
