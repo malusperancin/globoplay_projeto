@@ -1,10 +1,10 @@
 # Projeto Home Globoplay
 
-Esse projeto foi criado com o intuito de treinas tecnicas de programação, entre elas: 
-  Testes
-  React ts
-  Pipeline
-  Navegação
+Esse projeto foi criado com o intuito de treinar técnicas de programação, entre elas: 
+  - Testes
+  - React ts
+  - Pipeline
+  - Navegação com teclado
 
 ## Available Scripts
 
