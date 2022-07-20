@@ -17,10 +17,7 @@ translate
     transform: `translate(${translate}px)` 
 };
 
-console.log(data)
   return (
-    
-    
     <button style={styles} className={ isFocus ? style.buttonFocus : style.button} type="button">
         <img src={data.poster.tv} alt="oi"></img>
     </button>

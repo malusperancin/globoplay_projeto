@@ -1,4 +1,4 @@
-import VerticalScroll from './components/vertical-scroll/VerticalScroll';
+import VerticalScroll from './components/vertical-scroll/vertical-scroll';
 import './Home.css';
 import mock from './mocks/mock.json'
 
