@@ -5,7 +5,6 @@ import ChannelRail from '../rails/channel-rail/channel-rail'
 import TitleRail from '../rails/title-rail/title-rail'
 import OfHighlightRail from '../rails/highlight-rail/highlight-rail'
 
-
 type Props = {
   isFocused: boolean
   mediaInfoHeight: number
@@ -22,6 +21,7 @@ const VerticalScroll: React.FC<Props> = ({
 
   const renderRails = (): ReactNode => {
     const allRails = rails as RailData[]
+    // eslint-disable-next-line array-callback-return
     return allRails.map((i) => {
       switch (i.contentType) {
         case 'CATEGORY':
