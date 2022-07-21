@@ -27,6 +27,7 @@ const VerticalScroll: React.FC<Props> = ({
         case 'CATEGORY':
             return <CategoryRail data={i} isFocused={false}/>
           case 'BROADCAST_CHANNEL':
+            console.log("a")
             return <ChannelRail data={i} isFocused={false} />
           case 'OFFERHIGHLIGHT':
             return <OfHighlightRail data={i} isFocused={false} />
