@@ -3,6 +3,10 @@ import style from "./style.module.scss";
 import TitleCard from "../../cards/title-card/title-card";
 import useHorizontalScroll from "../../horizontal-navigation/horizontal-navigation";
 
+// constantes
+const CARD_SIZE = 189;
+const NUM_CARD_SCREEN = 14;
+
 type Props = {
   data: TitleRailData;
   isFocused: boolean;
@@ -18,7 +22,11 @@ const TitleRail: React.FC<Props> = ({ data }) => {
         {data.resources.map((i, index) => {
           return (
             <TitleCard
-              translate={foco <= 14 ? foco * -189 : -189 * 14}
+              translate={
+                foco <= NUM_CARD_SCREEN
+                  ? foco * -CARD_SIZE
+                  : -CARD_SIZE * NUM_CARD_SCREEN
+              }
               isFocus={index === foco}
               data={i}
             />

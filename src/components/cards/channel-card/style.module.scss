@@ -1,5 +1,5 @@
-@import '../../../style/autoprefixer.scss';
-@import '../../../style/variables.scss';
+@import "../../../style/autoprefixer.scss";
+@import "../../../style/variables.scss";
 
 .button {
     width: 339px;
@@ -8,8 +8,13 @@
     border-radius: 5px;
     margin-right: 15px;
     background-color: #1f1f1f;
-};
 
+    @include HD {
+        width: 227px;
+        height: 104px;
+        margin-right: 10px;
+    }
+}
 
 .buttonFocus {
     width: 339px;
@@ -18,10 +23,15 @@
     background-color: #eee;
     @include animation(transform 0.5s ease-in-out);
     margin-right: 15px;
-  
+
+    @include HD {
+        width: 227px;
+        height: 104px;
+        margin-right: 10px;
+    }
 }
 
-.image{
+.image {
     margin: auto;
     position: absolute;
     top: 0;
@@ -31,10 +41,9 @@
     max-width: 128px;
     display: block;
     max-height: 64px;
-  
 
     @include HD {
-      max-height: 48px;
-      max-width: 96px;
+        max-height: 48px;
+        max-width: 96px;
     }
 }

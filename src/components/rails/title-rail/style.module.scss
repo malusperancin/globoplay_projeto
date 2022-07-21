@@ -1,10 +1,13 @@
-@import '../../../style/variables.scss';
+@import "../../../style/variables.scss";
 
 .rail {
     background-color: rgb(0, 0, 0);
-    height: 273px;
-    width: max-content; 
+    width: max-content;
     margin: 20px;
+
+    @include HD {
+        margin: 13px;
+    }
 }
 
 .title {
@@ -12,4 +15,9 @@
     margin-left: 30px;
     font-weight: 500;
     font-size: 25px;
+
+    @include HD {
+        margin-left: 20px;
+        font-size: 16px;
+    }
 }
