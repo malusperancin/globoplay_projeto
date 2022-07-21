@@ -1,0 +1,49 @@
+@import "../../../style/autoprefixer.scss";
+@import "../../../style/variables.scss";
+
+.button {
+    width: 339px;
+    height: 156px;
+    border: none;
+    border-radius: 5px;
+    margin-right: 15px;
+    background-color: #1f1f1f;
+
+    @include HD {
+        width: 227px;
+        height: 104px;
+        margin-right: 10px;
+    }
+}
+
+.buttonFocus {
+    width: 339px;
+    height: 156px;
+    border-radius: 5px;
+    background-color: #eee;
+    @include animation(transform 0.5s ease-in-out);
+    margin-right: 15px;
+
+    @include HD {
+        width: 227px;
+        height: 104px;
+        margin-right: 10px;
+    }
+}
+
+.image {
+    margin: auto;
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    max-width: 128px;
+    display: block;
+    max-height: 64px;
+
+    @include HD {
+        max-height: 48px;
+        max-width: 96px;
+    }
+}
