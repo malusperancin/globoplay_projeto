@@ -15,6 +15,12 @@ function useNavigation() {
       case 13:
         setKey("ENTER");
         break;
+      case 38:
+        setKey("DOWN");
+        break;
+      case 40:
+        setKey("UP");
+        break;
     }
   }, []);
 
