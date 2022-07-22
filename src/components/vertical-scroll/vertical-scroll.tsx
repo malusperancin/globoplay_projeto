@@ -9,12 +9,12 @@ import useNavigation from "../cards/navigation/use-navigation";
 type Props = {
   isFocused: boolean;
   mediaInfoHeight: number;
-  onCardFocus: Function;
   rails: [];
 };
 
 const VerticalScroll: React.FC<Props> = ({
   rails,
+  isFocused
 }) => {
   const key = useNavigation();
   const [foco, setFocus] = useState(0);
@@ -22,12 +22,12 @@ const VerticalScroll: React.FC<Props> = ({
   useEffect(() => {
     switch (key) {
       case "DOWN":
-        if (foco !== 0){
+        if (isFocused && foco !== 0){
           setFocus(foco - 1);
         }
         break;
       case "UP":
-        if (foco !== rails.length){
+        if (isFocused && foco !== rails.length){
          setFocus(foco + 1);
         }  
         break;
@@ -38,19 +38,20 @@ const VerticalScroll: React.FC<Props> = ({
   const renderRails = (): ReactNode => {
     const allRails = rails as RailData[];
     // eslint-disable-next-line array-callback-return
-    return allRails.map((i) => {
+    return allRails.map((i, index) => {
       switch (i.contentType) {
         case "CATEGORY":
-          return <CategoryRail data={i} isFocused={i.index === foco} />;
+          return <CategoryRail key={index} data={i} isFocused={i.index === foco} />;
         case "BROADCAST_CHANNEL":
-          return <ChannelRail data={i} isFocused={i.index === foco} />;
+          return <ChannelRail key={index} data={i} isFocused={i.index === foco} />;
         case "OFFERHIGHLIGHT":
-          return <OfHighlightRail data={i} isFocused={i.index === foco} />;
+          return <OfHighlightRail key={index} data={i} isFocused={i.index === foco} />;
         case "TITLE":
-          return <TitleRail data={i} isFocused={i.index === foco} />;
+          return <TitleRail key={index} data={i} isFocused={i.index === foco} />;
       }
     });
   };
+
 
   return <div>{renderRails()}</div>;
 };

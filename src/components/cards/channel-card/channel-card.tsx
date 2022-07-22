@@ -1,4 +1,5 @@
-import React, { ReactElement } from 'react'
+import React, { ReactElement, useEffect } from 'react'
+import useNavigation from '../navigation/use-navigation'
 import ChannelCardData from './channel-card-data'
 import style from './style.module.scss'
 
@@ -13,11 +14,19 @@ data,
 isFocus,
 translate
 }: Props): ReactElement => {
+  const key = useNavigation()
   const styles = { 
     transform: `translate(${translate}px)` 
 };
+const image = !isFocus ? data.logo : data.logoSelected
 
-  const image = !isFocus ? data.logo : data.logoSelected
+   useEffect(() =>{
+     if(key === "ENTER" && isFocus){
+       var selectedData : ChannelCardData = data 
+       console.log(selectedData)
+     }
+   // eslint-disable-next-line react-hooks/exhaustive-deps
+   }, [key])
 
   
   return (

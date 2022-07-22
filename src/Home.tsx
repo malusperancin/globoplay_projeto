@@ -8,9 +8,6 @@ function Home() {
       <VerticalScroll 
         isFocused={true}
         mediaInfoHeight={555}
-        onCardFocus={() => {
-          console.log("a")
-        }}
         rails={mock as any}
         />
     </div>

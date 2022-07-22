@@ -39,6 +39,7 @@ const ChannelRail: React.FC<Props> = ({ data, isFocused }) => {
         {data.cards.map((i, index) => {
           return (
             <ChannelCard
+               key={i.id}
               translate={translate}
               isFocus={isFocused ? index === foco : false}
               data={i}

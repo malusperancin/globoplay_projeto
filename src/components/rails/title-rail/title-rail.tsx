@@ -38,6 +38,7 @@ const TitleRail: React.FC<Props> = ({ data, isFocused }) => {
         {data.resources.map((i, index) => {
           return (
             <TitleCard
+              key={i.titleId}
               translate={translate}
               isFocus={isFocused ? index === foco : false}
               data={i}
