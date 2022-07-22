@@ -1,7 +1,7 @@
 import { TitleRailData } from "./title-rail-data";
 import style from "./style.module.scss";
 import TitleCard from "../../cards/title-card/title-card";
-import { useHorizontalScroll } from "../../horizontal-navigation/horizontal-navigation";
+import { useHorizontalScroll } from "../horizontal-navigation/horizontal-navigation";
 
 // constantes
 const CARD_SIZE = 189;

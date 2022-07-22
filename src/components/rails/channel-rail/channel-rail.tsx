@@ -1,7 +1,7 @@
 import ChannelRailData from "./channel-rail-data";
 import style from "./style.module.scss";
 import ChannelCard from "../../cards/channel-card/channel-card";
-import { useHorizontalScroll } from "../../horizontal-navigation/horizontal-navigation";
+import { useHorizontalScroll } from "../horizontal-navigation/horizontal-navigation";
 
 // constantes
 const CARD_SIZE = 354;
@@ -14,7 +14,6 @@ type Props = {
 };
 
 const ChannelRail: React.FC<Props> = ({ data, isFocused }) => {
-    
   const foco = useHorizontalScroll(data.cards.length);
 
   var translate = 0;
@@ -39,7 +38,7 @@ const ChannelRail: React.FC<Props> = ({ data, isFocused }) => {
         {data.cards.map((i, index) => {
           return (
             <ChannelCard
-               key={i.id}
+              key={i.id}
               translate={translate}
               isFocus={isFocused ? index === foco : false}
               data={i}
