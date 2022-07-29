@@ -1,0 +1,35 @@
+@import "../../../../style/autoprefixer.scss";
+@import "../../../../style/variables.scss";
+
+.channels {
+  margin-top: 96px;
+  max-width: 745px;
+  height: 339px;
+
+  @include HD {
+    margin-top: 62px;
+    max-width: 500px;
+    height: 238px;
+  }
+
+  .logo {
+    max-width: 128px;
+    max-height: 64px;
+    margin-bottom: 16px;
+
+    @include HD {
+      max-width: 96px;
+      max-height: 48px;
+      margin-bottom: 8px;
+    }
+  }
+  .text {
+    color: $color-ui-15;
+    margin-top: 16px;
+    font-size: 40px;
+
+    @include HD {
+      font-size: 24px;
+    }
+  }
+}

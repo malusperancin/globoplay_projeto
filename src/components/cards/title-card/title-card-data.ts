@@ -15,6 +15,9 @@ interface TitleCardData {
   };
   UI_number: number;
   genresNames: string[];
+  cover: {
+    landscape: string;
+  };
 }
 
 export default TitleCardData;

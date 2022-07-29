@@ -2,6 +2,8 @@ import { TitleRailData } from "./title-rail-data";
 import style from "./style.module.scss";
 import TitleCard from "../../cards/title-card/title-card";
 import { useHorizontalScroll } from "../horizontal-navigation/horizontal-navigation";
+import MediaInfoData from "../../media-info/media-info-data";
+import { useEffect } from "react";
 
 // constantes
 const CARD_SIZE = 189;
@@ -9,11 +11,12 @@ const CARD_SIZE_HD = 126;
 const NUM_CARD_SCREEN = 14;
 
 type Props = {
-  data: TitleRailData;
-  isFocused: boolean;
+  data: TitleRailData
+  isFocused: boolean
+  onCardFocus: (info: MediaInfoData) => void
 };
 
-const TitleRail: React.FC<Props> = ({ data, isFocused }) => {
+const TitleRail: React.FC<Props> = ({ data, isFocused, onCardFocus }) => {
   const foco = useHorizontalScroll(data.resources.length);
 
   var translate = 0;
@@ -30,6 +33,13 @@ const TitleRail: React.FC<Props> = ({ data, isFocused }) => {
           : -CARD_SIZE_HD * NUM_CARD_SCREEN;
     }
   }
+
+  useEffect(() => {
+    console.log("FFF", data.resources[foco])
+    if (isFocused) {
+      onCardFocus({ contentType: data.contentType, card: data.resources[foco] })
+    }
+  }, [isFocused, foco, data, onCardFocus])
 
   return (
     <div className={style.container}>

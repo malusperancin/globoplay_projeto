@@ -1,0 +1,29 @@
+// @import '../../../../../legacy/variables.scss';
+// @import '../../../../../legacy/autoprefixer.scss';
+
+.background {
+  position: absolute;
+  right: 0;
+  top: 0;
+  width: 65%;
+  height: 65%;
+  opacity: 1;
+
+//   &.with_animation {
+//     @include transition(all 0.5s ease);
+//     @include transition(opacity 0.5s ease-in-out);
+//   }
+
+//   &.hidden {
+//     opacity: 0;
+//   }
+
+//   &.visible {
+//     opacity: 1;
+//   }
+
+//   &.backgroundFull {
+//     width: 100%;
+//     height: 100%;
+//   }
+}
