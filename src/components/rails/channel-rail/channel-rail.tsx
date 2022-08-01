@@ -14,9 +14,13 @@ type Props = {
   data: ChannelRailData;
   isFocused: boolean;
   onCardFocus: (info: MediaInfoData) => void
+  translateY: number
 };
 
-const ChannelRail: React.FC<Props> = ({ data, isFocused, onCardFocus }) => {
+const ChannelRail: React.FC<Props> = ({ data, isFocused, onCardFocus, translateY }) => {
+  const styles = {
+    transform: `translateY(${translateY}px)`,
+  };
   const foco = useHorizontalScroll(data.cards.length);
 
   var translate = 0;
@@ -43,7 +47,7 @@ const ChannelRail: React.FC<Props> = ({ data, isFocused, onCardFocus }) => {
 
 
   return (
-    <div>
+    <div style={styles}>
       <p className={style.title}> Canais </p>
       <div className={style.rail}>
         {data.cards.map((i, index) => {

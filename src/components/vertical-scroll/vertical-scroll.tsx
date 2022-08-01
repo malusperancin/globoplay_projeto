@@ -44,14 +44,14 @@ const VerticalScroll: React.FC<Props> = ({
     // eslint-disable-next-line array-callback-return
     return allRails.map((i, index) => {
       switch (i.contentType) {
-        case "CATEGORY":
-          return <CategoryRail key={index} data={i} isFocused={i.index === foco} onCardFocus={onCardFocus}/>;
+        // case "CATEGORY":
+        //   return <CategoryRail key={index} data={i} translateY={index * 100} isFocused={i.index === foco} onCardFocus={onCardFocus}/>;
         case "BROADCAST_CHANNEL":
-          return <ChannelRail key={index} data={i} isFocused={i.index === foco} onCardFocus={onCardFocus}/>;
+          return <ChannelRail key={index} data={i} translateY={-foco * 100} isFocused={i.index === foco} onCardFocus={onCardFocus}/>;
         // case "OFFERHIGHLIGHT":
         //   return <OfHighlightRail key={index} data={i} isFocused={i.index === foco} onCardFocus={onCardFocus}/>;
         case "TITLE":
-          return <TitleRail key={index} data={i} isFocused={i.index === foco} onCardFocus={onCardFocus}/>;
+          return <TitleRail key={index} data={i} translateY={-foco * 100} isFocused={i.index === foco} onCardFocus={onCardFocus}/>;
       }
     });
   };

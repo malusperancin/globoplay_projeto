@@ -11,15 +11,19 @@ const CARD_SIZE_HD = 126;
 const NUM_CARD_SCREEN = 14;
 
 type Props = {
-  data: TitleRailData
-  isFocused: boolean
-  onCardFocus: (info: MediaInfoData) => void
+  data: TitleRailData;
+  isFocused: boolean;
+  onCardFocus: (info: MediaInfoData) => void;
+  translateY: number;
 };
 
-const TitleRail: React.FC<Props> = ({ data, isFocused, onCardFocus }) => {
+const TitleRail: React.FC<Props> = ({ data, isFocused, onCardFocus, translateY }) => {
+  const styles = {
+    transform: `translateY(${translateY}px)`,
+  };
   const foco = useHorizontalScroll(data.resources.length);
 
-  var translate = 0;
+  var translate = 0
   if (isFocused) {
     if (window.innerWidth >= 1920) {
       translate =
@@ -35,14 +39,13 @@ const TitleRail: React.FC<Props> = ({ data, isFocused, onCardFocus }) => {
   }
 
   useEffect(() => {
-    console.log("FFF", data.resources[foco])
     if (isFocused) {
       onCardFocus({ contentType: data.contentType, card: data.resources[foco] })
     }
   }, [isFocused, foco, data, onCardFocus])
 
   return (
-    <div className={style.container}>
+    <div style={styles} className={style.container}>
       <p className={style.title}> Títulos </p>
       <div className={style.rail}>
         {data.resources.map((i, index) => {
