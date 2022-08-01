@@ -11,13 +11,20 @@ const CARD_SIZE_HD = 237;
 const NUM_CARD_SCREEN = 14;
 
 type Props = {
+  hide: boolean;
   data: ChannelRailData;
   isFocused: boolean;
-  onCardFocus: (info: MediaInfoData) => void
-  translateY: number
+  onCardFocus: (info: MediaInfoData) => void;
+  translateY: number;
 };
 
-const ChannelRail: React.FC<Props> = ({ data, isFocused, onCardFocus, translateY }) => {
+const ChannelRail: React.FC<Props> = ({
+  data,
+  isFocused,
+  onCardFocus,
+  translateY,
+  hide,
+}) => {
   const styles = {
     transform: `translateY(${translateY}px)`,
   };
@@ -38,13 +45,13 @@ const ChannelRail: React.FC<Props> = ({ data, isFocused, onCardFocus, translateY
     }
   }
 
-  
   useEffect(() => {
     if (isFocused) {
-      onCardFocus({ contentType: data.contentType, card: data.cards[foco] })
+      onCardFocus({ contentType: data.contentType, card: data.cards[foco] });
     }
-  }, [isFocused, foco, data, onCardFocus])
+  }, [isFocused, foco, data, onCardFocus]);
 
+  if (hide) return <></>;
 
   return (
     <div style={styles}>
