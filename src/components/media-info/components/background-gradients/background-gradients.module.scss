@@ -1,9 +1,15 @@
+@import "../../../../style/autoprefixer.scss";
+@import "../../../../style/variables.scss";
+
 .horizontalGradient {
   position: absolute;
   height: 250px;
   width: 70vw;
   bottom: 34%;
   right: 0%;
+  @include HD {
+    height: 150px;
+  }
 }
 
 .verticalGradient {
@@ -13,13 +19,7 @@
   height: 100%;
   width: 570px;
 
-  // @include HD {
-  //   width: 470px;
-  // }
-}
-
-.fullGradient {
-  position: absolute;
-  top: 0px;
-  width: 100%;
+  @include HD {
+    width: 400px;
+  }
 }

@@ -1,0 +1,24 @@
+@import "../../../../style/autoprefixer.scss";
+@import "../../../../style/variables.scss";
+
+.resolutionLabel {
+  color: $color-ui-25;
+  font-size: 20px;
+  width: 40px;
+  height: 36px;
+  text-align: center;
+  padding: 4px;
+  border-radius: 6px;
+  border: solid $color-ui-40 2px;
+  margin-right: 24px;
+  font-weight: 700;
+  text-transform: lowercase;
+
+  @include HD {
+    font-size: 14px;
+    width: 27px;
+    height: 24px;
+    padding: 3px;
+    margin-right: 16px;
+  }
+}

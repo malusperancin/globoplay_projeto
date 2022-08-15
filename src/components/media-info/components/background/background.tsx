@@ -1,33 +1,28 @@
-import React, { useEffect, useState } from 'react'
-import styles from './style.module.scss'
-import BackgroundGradients from '../background-gradients/background-gradients'
+import React, { useEffect, useState } from "react";
+import styles from "./style.module.scss";
+import BackgroundGradients from "../background-gradients/background-gradients";
 
 type Props = {
-  url: string
-}
+  url: string;
+};
 
-const Background: React.FC<Props> = ({  url }) => {
-  const [activeImageUrl, setActiveImageUrl] = useState('')
-  const [animating, setAnimating] = useState(false)
+const Background: React.FC<Props> = ({ url }) => {
+  const [activeImageUrl, setActiveImageUrl] = useState("");
 
   useEffect(() => {
-      setActiveImageUrl(url)
-  }, [url])
+    setActiveImageUrl(url);
+  }, [url]);
 
   return (
     <>
       <img
         src={activeImageUrl}
         alt="background"
-        className={`
-        ${styles.background}
-        ${animating ? styles.hidden : styles.visible}
-        `}
-        onLoad={() => setAnimating(false)}
+        className={styles.background}
       />
       <BackgroundGradients />
     </>
-  )
-}
+  );
+};
 
-export default Background
+export default Background;

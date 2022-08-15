@@ -1,0 +1,10 @@
+@import "../../style/autoprefixer.scss";
+@import "../../style/variables.scss";
+
+.icon {
+  width: 40px;
+
+  @include HD {
+    width: calcToHD(40px);
+  }
+}

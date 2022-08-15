@@ -58,7 +58,7 @@ const TitleRail: React.FC<Props> = ({
 
   return (
     <div style={styles} className={style.container}>
-      <p className={style.title}> Títulos </p>
+      <p className={style.title}> {data.title} </p>
       <div className={style.rail}>
         {data.resources.map((i, index) => {
           return (
