@@ -7,6 +7,7 @@ import OfHighlightRail from "../rails/highlight-rail/highlight-rail";
 import useNavigation from "../cards/navigation/use-navigation";
 import style from "./style.module.scss";
 import MediaInfoData from "../media-info/media-info-data";
+import { isFullHD } from "../../utils/get-resolution";
 
 type Props = {
   isFocused: boolean;
@@ -16,6 +17,9 @@ type Props = {
 };
 
 const VerticalScroll: React.FC<Props> = ({ rails, isFocused, onCardFocus }) => {
+  const passoTitle = isFullHD() ? -50 : -90;
+  const passoChannel = isFullHD() ? -100 : -170;
+
   const key = useNavigation();
   const [foco, setFocus] = useState(0);
 
@@ -47,7 +51,7 @@ const VerticalScroll: React.FC<Props> = ({ rails, isFocused, onCardFocus }) => {
             <ChannelRail
               key={index}
               data={i}
-              translateY={-foco * 200}
+              translateY={foco * passoChannel}
               isFocused={i.index === foco}
               onCardFocus={onCardFocus}
               hide={i.index < foco}
@@ -60,7 +64,7 @@ const VerticalScroll: React.FC<Props> = ({ rails, isFocused, onCardFocus }) => {
             <TitleRail
               key={index}
               data={i}
-              translateY={-foco * 90}
+              translateY={foco * passoTitle}
               isFocused={i.index === foco}
               onCardFocus={onCardFocus}
               hide={i.index < foco}

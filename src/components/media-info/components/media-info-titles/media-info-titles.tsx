@@ -10,6 +10,10 @@ type Props = {
 };
 
 const MediaInfoTitles = ({ isVisible, info }: Props) => {
+  const label = getContentBrand(info)
+    ?.split("  ")
+    .filter((item) => item !== "");
+
   return isVisible === false ? null : (
     <div className="about">
       <div className="brand-logo">
@@ -28,10 +32,14 @@ const MediaInfoTitles = ({ isVisible, info }: Props) => {
             selfRatedContent={info.selfRatedContent}
           />
         )}
-        {!info.selfRatedContent && (
-          <span className="capitalized-strings">{getContentBrand(info)}</span>
-        )}
         <ResolutionLabel resolutions={info?.technicalSpecs?.resolutions} />
+
+        {!info.selfRatedContent &&
+          label?.map((item, index) => (
+            <span key={index} className="capitalized-strings">
+              {item}
+            </span>
+          ))}
       </div>
       <p>{info.description}</p>
     </div>

@@ -11,7 +11,11 @@ const ResolutionLabel = ({ resolutions }: Props): React.ReactElement | null => {
     : "";
 
   if (labelResolution === "4K" || labelResolution === "8K")
-    return <span className={style.resolutionLabel}> {labelResolution} </span>;
+    return (
+      <div className={style.containerLabel}>
+        <span className={style.resolutionLabel}> {labelResolution} </span>
+      </div>
+    );
 
   return null;
 };

@@ -3,8 +3,12 @@
 
 .icon {
   width: 40px;
+  margin-right: 24px;
+  transform: translateY(10px);
 
   @include HD {
     width: calcToHD(40px);
+    margin-right: calcToHD(24px);
+    transform: translateY(calcToHD(10px));
   }
 }
