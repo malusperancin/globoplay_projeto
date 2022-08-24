@@ -2,6 +2,8 @@ import ChannelRailData from "./channel-rail-data";
 import style from "./style.module.scss";
 import ChannelCard from "../../cards/channel-card/channel-card";
 import { useHorizontalScroll } from "../horizontal-navigation/horizontal-navigation";
+import MediaInfoData from "../../media-info/media-info-data";
+import { useEffect } from "react";
 
 // constantes
 const CARD_SIZE = 354;
@@ -9,11 +11,23 @@ const CARD_SIZE_HD = 237;
 const NUM_CARD_SCREEN = 14;
 
 type Props = {
+  hide: boolean;
   data: ChannelRailData;
   isFocused: boolean;
+  onCardFocus: (info: MediaInfoData) => void;
+  translateY: number;
 };
 
-const ChannelRail: React.FC<Props> = ({ data, isFocused }) => {
+const ChannelRail: React.FC<Props> = ({
+  data,
+  isFocused,
+  onCardFocus,
+  translateY,
+  hide,
+}) => {
+  const styles = {
+    transform: `translateY(${translateY}px)`,
+  };
   const foco = useHorizontalScroll(data.cards.length);
 
   var translate = 0;
@@ -31,8 +45,16 @@ const ChannelRail: React.FC<Props> = ({ data, isFocused }) => {
     }
   }
 
+  useEffect(() => {
+    if (isFocused) {
+      onCardFocus({ contentType: data.contentType, card: data.cards[foco] });
+    }
+  }, [isFocused, foco, data, onCardFocus]);
+
+  if (hide) return <></>;
+
   return (
-    <div>
+    <div style={styles}>
       <p className={style.title}> Canais </p>
       <div className={style.rail}>
         {data.cards.map((i, index) => {

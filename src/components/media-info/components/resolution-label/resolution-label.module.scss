@@ -1,0 +1,27 @@
+@import "../../../../style/autoprefixer.scss";
+@import "../../../../style/variables.scss";
+
+.containerLabel {
+  display: inline-block;
+  .resolutionLabel {
+    color: $color-ui-25;
+    font-size: 20px;
+    width: 40px;
+    height: 36px;
+    padding: 4px 8px;
+    @include border-radius(6px);
+    border: solid $color-ui-40 2px;
+    margin-right: 24px;
+    font-weight: 700;
+    text-transform: lowercase;
+
+    @include HD {
+      font-size: 14px;
+      width: 27px;
+      height: 24px;
+      padding: calcToHD(4px) calcToHD(8px);
+      margin-right: 16px;
+      @include border-radius(calcToHD(6px));
+    }
+  }
+}

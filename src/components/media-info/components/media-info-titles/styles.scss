@@ -1,0 +1,117 @@
+@import "../../../../style/autoprefixer.scss";
+@import "../../../../style/variables.scss";
+
+.about {
+  transform: translateY(110px);
+  max-width: 745px;
+  height: 339px;
+
+  @include HD {
+    transform: translateY(10px);
+    max-width: calcToHD(745px);
+    height: calcToHD(339px);
+  }
+
+  h1 {
+    font-size: 48px;
+    line-height: 56px;
+    font-weight: 700;
+
+    @include HD {
+      font-size: 32px;
+      line-height: 40px;
+    }
+  }
+
+  @include HD {
+    margin-top: 62px;
+    max-width: 500px;
+    height: 238px;
+  }
+
+  .title {
+    font-size: 24px;
+    font-weight: bold;
+    margin-right: 40px;
+    display: inline-block;
+    line-height: 32px;
+    color: $color-ui-15;
+
+    @include HD {
+      font-size: 16px;
+      line-height: 24px;
+    }
+  }
+
+  .brand-logo {
+    height: 64px;
+    width: 128px;
+    margin-bottom: 32px;
+    position: relative;
+
+    @include HD {
+      height: 40px;
+      width: 80px;
+      margin-bottom: 20px;
+    }
+
+    img {
+      top: 50%;
+      transform: translateY(-50%);
+      position: absolute;
+      max-height: 100%;
+      max-width: 100%;
+    }
+  }
+
+  .info {
+    margin: 16px 0 32px;
+
+    @include HD {
+      margin: 8px 0 24px;
+    }
+
+    .capitalized-strings {
+      font-size: 20px;
+      color: $color-ui-15;
+      display: inline-block;
+      margin-right: 24px;
+      background-color: rgba(238, 238, 238, 0.1);
+      padding: 7.5px 12px;
+      line-height: 125%;
+      font-weight: 500;
+      @include border-radius(6px);
+
+      @include HD {
+        margin-right: calcToHD(24px);
+        padding: calcToHD(7.5px) calcToHD(12px);
+        font-size: 14px;
+        @include border-radius(calcToHD(6px));
+      }
+    }
+  }
+
+  > p {
+    color: $color-ui-20;
+    font-size: 24px;
+    line-height: 32px;
+    margin-top: 8px;
+
+    @include HD {
+      font-size: 16px;
+      line-height: 24px;
+    }
+  }
+
+  > h2 {
+    text-transform: capitalize;
+    color: $color-ui-30;
+    margin-top: 0;
+    margin-bottom: 16px;
+    font-weight: 600;
+
+    @include HD {
+      margin-bottom: 8px;
+    }
+  }
+}
