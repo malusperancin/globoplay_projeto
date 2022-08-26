@@ -7,7 +7,11 @@ import OfHighlightRail from "../rails/highlight-rail/highlight-rail";
 import useNavigation from "../cards/navigation/use-navigation";
 import style from "./style.module.scss";
 import MediaInfoData from "../media-info/media-info-data";
-import { isFullHD } from "../../utils/get-resolution";
+import {
+  CARD_TITLE,
+  CARD_CHANNEL,
+  CARD_CATEGORY,
+} from "../../constants/constants";
 
 type Props = {
   isFocused: boolean;
@@ -17,9 +21,6 @@ type Props = {
 };
 
 const VerticalScroll: React.FC<Props> = ({ rails, isFocused, onCardFocus }) => {
-  const passoTitle = isFullHD() ? -50 : -90;
-  const passoChannel = isFullHD() ? -100 : -170;
-
   const key = useNavigation();
   const [foco, setFocus] = useState(0);
 
@@ -41,17 +42,25 @@ const VerticalScroll: React.FC<Props> = ({ rails, isFocused, onCardFocus }) => {
 
   const renderRails = (): ReactNode => {
     const allRails = rails as RailData[];
-    // eslint-disable-next-line array-callback-return
     return allRails.map((i, index) => {
       switch (i.contentType) {
-        // case "CATEGORY":
-        //   return <CategoryRail key={index} data={i} translateY={index * 100} isFocused={i.index === foco} onCardFocus={onCardFocus}/>;
+        case "CATEGORY":
+          return (
+            <CategoryRail
+              key={index}
+              data={i}
+              translateY={foco * CARD_CATEGORY.DOWN}
+              isFocused={i.index === foco}
+              onCardFocus={onCardFocus}
+              hide={i.index < foco}
+            />
+          );
         case "BROADCAST_CHANNEL":
           return (
             <ChannelRail
               key={index}
               data={i}
-              translateY={foco * passoChannel}
+              translateY={foco * CARD_CHANNEL.DOWN}
               isFocused={i.index === foco}
               onCardFocus={onCardFocus}
               hide={i.index < foco}
@@ -64,13 +73,14 @@ const VerticalScroll: React.FC<Props> = ({ rails, isFocused, onCardFocus }) => {
             <TitleRail
               key={index}
               data={i}
-              translateY={foco * passoTitle}
+              translateY={foco * CARD_TITLE.DOWN}
               isFocused={i.index === foco}
               onCardFocus={onCardFocus}
               hide={i.index < foco}
             />
           );
       }
+      return <></>;
     });
   };
 

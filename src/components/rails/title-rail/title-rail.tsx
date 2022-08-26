@@ -1,14 +1,13 @@
 import { TitleRailData } from "./title-rail-data";
 import style from "./style.module.scss";
 import TitleCard from "../../cards/title-card/title-card";
-import { useHorizontalScroll } from "../horizontal-navigation/horizontal-navigation";
+import {
+  calcTranslateScroll,
+  useHorizontalScroll,
+} from "../horizontal-navigation/horizontal-navigation";
 import MediaInfoData from "../../media-info/media-info-data";
 import { useEffect } from "react";
-
-// constantes
-const CARD_SIZE = 189;
-const CARD_SIZE_HD = 126;
-const NUM_CARD_SCREEN = 14;
+import { CARD_TITLE } from "../../../constants/constants";
 
 type Props = {
   data: TitleRailData;
@@ -28,22 +27,15 @@ const TitleRail: React.FC<Props> = ({
   const styles = {
     transform: `translateY(${translateY}px)`,
   };
+
   const foco = useHorizontalScroll(data.resources.length);
 
-  var translate = 0;
-  if (isFocused) {
-    if (window.innerWidth >= 1920) {
-      translate =
-        foco <= NUM_CARD_SCREEN
-          ? foco * -CARD_SIZE
-          : -CARD_SIZE * NUM_CARD_SCREEN;
-    } else {
-      translate =
-        foco <= NUM_CARD_SCREEN
-          ? foco * -CARD_SIZE_HD
-          : -CARD_SIZE_HD * NUM_CARD_SCREEN;
-    }
-  }
+  const translate = calcTranslateScroll(
+    isFocused,
+    foco,
+    CARD_TITLE.NUM_CARD_SCREEN,
+    CARD_TITLE.CARD_HEIGHT
+  );
 
   useEffect(() => {
     if (isFocused) {
