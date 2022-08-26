@@ -5,12 +5,10 @@ type CategoryCardData = {
   headline: string;
   displayName?: string;
   id: string;
-  navigation: {
-    [key: string]: unknown;
-  };
   cover: {
     landscape: string;
   };
+  UI_customHeight: string;
 };
 
 export default CategoryCardData;
