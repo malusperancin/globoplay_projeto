@@ -8,7 +8,7 @@ export const CARD_TITLE = {
 
 export const CARD_CATEGORY = {
   CARD_HEIGHT: isFullHD() ? 354 : 237,
-  NUM_CARD_SCREEN: 14,
+  NUM_CARD_SCREEN: 8,
   DOWN: isFullHD() ? -100 : -170,
 };
 
