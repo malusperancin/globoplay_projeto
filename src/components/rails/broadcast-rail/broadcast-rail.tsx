@@ -1,21 +1,21 @@
 import { useEffect } from "react";
-import { CARD_CATEGORY } from "../../../constants/constants";
-import CategoryCard from "../../cards/category-card/category-card";
+import { CARD_BROADCAST } from "../../../constants/constants";
+import BroadcastCard from "../../cards/broadcast-card/broadcast-card";
 import MediaInfoData from "../../media-info/media-info-data";
 import {
   calcTranslateScroll,
   useHorizontalScroll,
 } from "../horizontal-navigation/horizontal-navigation";
-import { CategoryRailData } from "./category-rail-data";
-import style from "./category-rail.module.scss";
+import BroadcastRailData from "./broadcast-rail-data";
+import style from "./broadcast-rail.module.scss";
 
 type Props = {
-  data: CategoryRailData;
+  data: BroadcastRailData;
   isFocused: boolean;
   onCardFocus: (info: MediaInfoData) => void;
   hide: boolean;
 };
-const CategoryRail: React.FC<Props> = ({
+const BroadcastRail: React.FC<Props> = ({
   data,
   isFocused,
   onCardFocus,
@@ -26,8 +26,8 @@ const CategoryRail: React.FC<Props> = ({
   const translate = calcTranslateScroll(
     isFocused,
     foco,
-    CARD_CATEGORY.NUM_CARD_SCREEN,
-    CARD_CATEGORY.CARD_WIDTH
+    CARD_BROADCAST.NUM_CARD_SCREEN,
+    CARD_BROADCAST.CARD_WIDTH
   );
 
   useEffect(() => {
@@ -40,11 +40,11 @@ const CategoryRail: React.FC<Props> = ({
 
   return (
     <div>
-      <p className={style.title}> Categorias </p>
+      <p className={style.title}> Assista ao vivo </p>
       <div className={style.rail}>
         {data.cards.map((i, index) => {
           return (
-            <CategoryCard
+            <BroadcastCard
               key={i.id}
               translate={translate}
               isFocus={isFocused ? index === foco : false}
@@ -57,4 +57,4 @@ const CategoryRail: React.FC<Props> = ({
   );
 };
 
-export default CategoryRail;
+export default BroadcastRail;

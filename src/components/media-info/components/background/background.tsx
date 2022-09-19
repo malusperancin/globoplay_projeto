@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from "react";
-import styles from "./style.module.scss";
-import BackgroundGradients from "../background-gradients/background-gradients";
+import styles from "./background.module.scss";
+import gradientVerticalSmallFHD from "./assets/gradient-vertical-small-fhd.png";
+import gradientHorizontalSmallFHD from "./assets/gradient-horizontal-small-fhd.png";
 
 type Props = {
   url: string;
@@ -20,7 +21,16 @@ const Background: React.FC<Props> = ({ url }) => {
         alt="background"
         className={styles.background}
       />
-      <BackgroundGradients />
+      <img
+        src={gradientHorizontalSmallFHD}
+        alt="horizontal gradient"
+        className={styles.horizontalGradient}
+      />
+      <img
+        src={gradientVerticalSmallFHD}
+        alt="vertical gradient"
+        className={styles.verticalGradient}
+      />
     </>
   );
 };

@@ -1,7 +1,6 @@
-import React, { ReactElement, useEffect } from "react";
-import useNavigation from "../navigation/use-navigation";
+import React, { ReactElement } from "react";
 import ChannelCardData from "./channel-card-data";
-import style from "./style.module.scss";
+import style from "./channel-card.module.scss";
 
 type Props = {
   data: ChannelCardData;
@@ -9,20 +8,10 @@ type Props = {
   translate: number;
 };
 
-const TitleCard = ({ data, isFocus, translate }: Props): ReactElement => {
-  const key = useNavigation();
+const ChannelCard = ({ data, isFocus, translate }: Props): ReactElement => {
   const styles = {
     transform: `translate(${translate}px)`,
   };
-  const image = !isFocus ? data.logo : data.logoSelected;
-
-  useEffect(() => {
-    if (key === "ENTER" && isFocus) {
-      var selectedData: ChannelCardData = data;
-      console.log(selectedData);
-    }
-    // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [key]);
 
   return (
     <button
@@ -30,9 +19,13 @@ const TitleCard = ({ data, isFocus, translate }: Props): ReactElement => {
       className={isFocus ? style.buttonFocus : style.button}
       type="button"
     >
-      <img className={style.image} src={image} alt="oi"></img>
+      <img
+        className={style.image}
+        src={!isFocus ? data.logo : data.logoSelected}
+        alt=""
+      ></img>
     </button>
   );
 };
 
-export default TitleCard;
+export default ChannelCard;

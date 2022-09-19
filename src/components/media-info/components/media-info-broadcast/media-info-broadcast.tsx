@@ -1,21 +1,24 @@
-import React, { ReactElement } from 'react'
+import { ReactElement } from "react";
 
-import styles from './media-info-broadcast.module.scss'
+import styles from "./media-info-broadcast.module.scss";
 
 type Props = {
-  isVisible: boolean
+  isVisible: boolean;
   info: {
-    headline: string
+    headline: string;
     broadcast: {
       channel: {
-        name: string
-      }
-    }
-  }
-}
+        name: string;
+      };
+    };
+  };
+};
 
-function MediaInfoBroadcast({ isVisible, info: { headline, broadcast } }: Props): ReactElement {
-  const channelName = broadcast?.channel?.name || ''
+function MediaInfoBroadcast({
+  isVisible,
+  info: { headline, broadcast },
+}: Props): ReactElement {
+  const channelName = broadcast?.channel?.name || "";
 
   return isVisible ? (
     <div className={styles.mediaInfoBroadcast}>
@@ -24,7 +27,7 @@ function MediaInfoBroadcast({ isVisible, info: { headline, broadcast } }: Props)
     </div>
   ) : (
     <></>
-  )
+  );
 }
 
-export default MediaInfoBroadcast
+export default MediaInfoBroadcast;

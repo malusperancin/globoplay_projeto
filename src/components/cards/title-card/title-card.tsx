@@ -1,40 +1,27 @@
-import { ReactElement, useEffect } from 'react'
-import TitleCardData from './title-card-data'
-import style from './style.module.scss'
-import useNavigation from '../navigation/use-navigation'
+import { ReactElement } from "react";
+import TitleCardData from "./title-card-data";
+import style from "./title-card.module.scss";
 
 type Props = {
-  data: TitleCardData
-  isFocus: boolean
-  translate: number
-}
-
-const TitleCard = ({
-data,
-isFocus,
-translate,
-
-}: Props): ReactElement => {
-
-  const key = useNavigation()
-
-  useEffect(() =>{
-    if(key === "ENTER" && isFocus){
-      var selectedData : TitleCardData = data 
-      console.log(selectedData)
-    }
-  // eslint-disable-next-line react-hooks/exhaustive-deps
-  },[key])
-
-  const styles = { 
-    transform: `translate(${translate}px)` 
+  data: TitleCardData;
+  isFocus: boolean;
+  translate: number;
 };
 
-  return (
-    <button style={styles} className={ isFocus ? style.buttonFocus : style.button} type="button">
-        <img className={style.image} src={data.poster.tv} alt="oi"></img>
-    </button>
-  )
-}
+const TitleCard = ({ data, isFocus, translate }: Props): ReactElement => {
+  const styles = {
+    transform: `translate(${translate}px)`,
+  };
 
-export default TitleCard
+  return (
+    <button
+      style={styles}
+      className={isFocus ? style.buttonFocus : style.button}
+      type="button"
+    >
+      <img className={style.image} src={data.poster.tv} alt=""></img>
+    </button>
+  );
+};
+
+export default TitleCard;

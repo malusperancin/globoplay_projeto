@@ -1,8 +1,9 @@
 import TitleCardData from "../../cards/title-card/title-card-data";
-export type TitleRailData = {
-  __typename: string;
+interface TitleRailData {
   title: string;
   contentType: "TITLE";
-  resources: TitleCardData[];
+  cards: TitleCardData[];
   index: number;
-};
+}
+
+export default TitleRailData;

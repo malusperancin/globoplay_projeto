@@ -1,6 +1,15 @@
 @import "../../../../style/autoprefixer.scss";
 @import "../../../../style/variables.scss";
 
+.background {
+  position: absolute;
+  right: 0;
+  top: 0;
+  width: 65%;
+  height: 65%;
+  opacity: 1;
+}
+
 .horizontalGradient {
   position: absolute;
   height: 250px;

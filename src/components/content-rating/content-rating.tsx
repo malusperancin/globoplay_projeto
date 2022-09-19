@@ -1,6 +1,5 @@
-/* eslint-disable @typescript-eslint/no-unused-vars */
 import { ReactElement } from "react";
-import styles from "./style.module.scss";
+import styles from "./content-rating.module.scss";
 
 type Props = {
   contentRating: string;

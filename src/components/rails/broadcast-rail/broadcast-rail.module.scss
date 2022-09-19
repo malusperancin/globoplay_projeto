@@ -4,9 +4,11 @@
   background-color: rgb(0, 0, 0);
   width: max-content;
   margin: 20px;
+  margin-bottom: 50px;
 
   @include HD {
-    margin: 13px;
+    margin: calcToHD(20px);
+    margin-bottom: calcToHD(50px);
   }
 }
 
@@ -17,7 +19,7 @@
   font-size: 25px;
 
   @include HD {
-    margin-left: 20px;
-    font-size: 16px;
+    margin-left: calcToHD(30px);
+    font-size: calcToHD(25px);
   }
 }
