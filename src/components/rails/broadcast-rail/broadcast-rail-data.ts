@@ -1,21 +1,13 @@
-import BroadcastCardData from '../../cards/title-card/title-card-data'
-
-interface Navigation {
-  __typename: string
-  UI_typename: string
-  identifier: string
-}
+import BroadcastCardData from "../../cards/broadcast-card/broadcast-card-data";
 
 interface BroadcastRailData {
-  title: string
-  contentType: 'BROADCAST'
-  UI_customHeight: number
-  offerId: string
-  isVideo: boolean
-  playlistEnabled: boolean
-  cards: BroadcastCardData[]
-  index: number
-  navigation: Navigation
+  title: string;
+  contentType: "BROADCAST";
+  offerId: string;
+  isVideo: boolean;
+  playlistEnabled: boolean;
+  cards: BroadcastCardData[];
+  index: number;
 }
 
-export default BroadcastRailData
+export default BroadcastRailData;

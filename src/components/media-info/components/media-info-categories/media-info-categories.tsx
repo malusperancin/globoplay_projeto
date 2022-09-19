@@ -1,20 +1,19 @@
-/* eslint-disable react/prop-types */
-import React from 'react'
-import styles from './media-info-categories.module.scss'
+import React from "react";
+import styles from "./media-info-categories.module.scss";
 
 type Props = {
-  isVisible: boolean
+  isVisible: boolean;
   info: {
-    headline: string
-  }
-}
+    headline: string;
+  };
+};
 
 const MediaInfoCategories: React.FC<Props> = ({ isVisible, info }) => {
   return isVisible ? (
     <div className={styles.categories}>
       <h1 className={styles.headline}>{info.headline}</h1>
     </div>
-  ) : null
-}
+  ) : null;
+};
 
-export default MediaInfoCategories
+export default MediaInfoCategories;

@@ -12,7 +12,6 @@ interface TitleCardData {
   technicalSpecs: {
     resolutions: string[];
   };
-  UI_number: number;
   genresNames: string[];
   cover: {
     landscape: string;

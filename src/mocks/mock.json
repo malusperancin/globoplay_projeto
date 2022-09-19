@@ -1,4 +1,4 @@
-[
+  [
   {
     "title": "Categorias",
     "contentType": "CATEGORY",
@@ -201,206 +201,170 @@
     }
   },
   {
-    "title": "Destaque",
-    "contentType": "OFFERHIGHLIGHT",
-    "uiDefinitions": {
-      "height": 660,
-      "isVerticalCentered": true,
-      "hasMediaCover": false
-    },
-    "offerId": "2de900b3-a047-4571-b278-805136a0c249",
-    "isVideo": false,
-    "playlistEnabled": false,
+    "title": "Esportes ao Vivo",
+    "contentType": "BROADCAST",
+    "offerId": "8961d3be-5a40-4540-9a78-9ee98ea286aa",
+    "isVideo": true,
+    "UI_customHeight": 312,
     "cards": [
       {
+        "id": "7339108",
+        "subtitle": "142910",
+        "headline": "SporTV News",
+        "title": "SporTV",
+        "posterUrl": "http://live-thumbs.video.globo.com/spo124ha/snapshot/",
+        "backgroundUrl": "http://s2.glbimg.com/K60cTTJhfmwgA7Xew9LZ1oO4WKw=/0x720/https://s2.glbimg.com/03hRRgfyFCHw7TVYqItYCpUuAxA=/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/i/c/DhFxNFQWeeobcGh5kbNw/tapume-sportv1-novo.jpg",
+        "selfRatedContent": true,
+        "contentRating": null,
+        "stringTime": "08:45 – 10:01",
+        "progress": 14,
+        "broadcast": {
+          "isLive": true,
+          "channel": {
+            "__typename": "BroadcastChannel",
+            "name": "SporTV",
+            "logo": "https://s2.glbimg.com/o_ggZmb1EQqckJiqfrV1ynD2LRY=/285x285/filters:colorize(100,100,100,eeeeee)/https://s2.glbimg.com/ywvOXhKovSogEXcoRVee9mWPZTU=/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2021/F/y/EIs9ftSXKmqYMbhXTrkw/logo-de-transmissao-sportv-a1.png",
+            "logoTrimmed": "https://s2.glbimg.com/wjmM-D-2RQ3MHyzaE7QUEpZOmzU=/fit-in/112x56/https://s2.glbimg.com/NHu5G4z2VmS0Ro9VBrOKmCpjOW0=/trim/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2021/F/y/EIs9ftSXKmqYMbhXTrkw/logo-de-transmissao-sportv-a1.png",
+            "logoSelected": "https://s2.glbimg.com/-YaPTh9hDixC1EkWzOVjKVUszvA=/285x285/filters:colorize(100,100,100,454545)/https://s2.glbimg.com/ywvOXhKovSogEXcoRVee9mWPZTU=/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2021/F/y/EIs9ftSXKmqYMbhXTrkw/logo-de-transmissao-sportv-a1.png"
+          },
+          "mediaId": "7339108",
+          "logo": "https://s2.glbimg.com/B5yuiZ_q7Isp81_Ucm6WCGlts00=/285x285/https://s2.glbimg.com/ywvOXhKovSogEXcoRVee9mWPZTU=/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2021/F/y/EIs9ftSXKmqYMbhXTrkw/logo-de-transmissao-sportv-a1.png",
+          "logoSelected": "https://s2.glbimg.com/-YaPTh9hDixC1EkWzOVjKVUszvA=/285x285/filters:colorize(100,100,100,454545)/https://s2.glbimg.com/ywvOXhKovSogEXcoRVee9mWPZTU=/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2021/F/y/EIs9ftSXKmqYMbhXTrkw/logo-de-transmissao-sportv-a1.png",
+          "media": {
+            "availableFor": "SUBSCRIBER",
+            "serviceId": "6807"
+          }
+        },
         "UI_number": 0,
-        "UI_customHeight": 262,
-        "backgroundUrl": "http://s2.glbimg.com/01WJv79Ce9Ou2WivZTJOYP1lq_M=/0x720/https://s2.glbimg.com/BeDWmdLyz9RG0k4cphyuNZbE9_8=/1280x720/center/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/L/3/InMgIMSXCSwTTWk7QEEg/cara-e-coragem-imagem-de-categoria.jpg",
-        "id": "bd71913d-9202-4e74-9916-308df7977613",
-        "headline": "Novelas",
-        "displayName": "Novelas",
-        "navigation": {
-          "__typename": "MenuPageNavigation",
-          "UI_typename": "MenuPageNavigation",
-          "identifier": "novelas"
-        },
-        "posterUrl": "http://s2.glbimg.com/K1HpyK0yrH3Bmwe2cddORebov_8=/0x196/https://s2.glbimg.com/KMqpXYv9dtRLQ6ZJD2QX_FpQju8=/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/L/3/InMgIMSXCSwTTWk7QEEg/cara-e-coragem-imagem-de-categoria.jpg"
+        "categories": ["canais", "esportes"]
       },
       {
+        "id": "7339117",
+        "subtitle": "Barbara/Carol (Bra) X Erika/Poletti (Par) - Roma, Itália",
+        "headline": "Mundial De Vôlei De Praia",
+        "title": "SporTV",
+        "posterUrl": "http://live-thumbs.video.globo.com/spo224ha/snapshot/",
+        "backgroundUrl": "http://s2.glbimg.com/mrdL6jX8NKDOx7aPX0eYUedL7OU=/0x720/https://s2.glbimg.com/cuHemP-bojjBPHa8w2SMzTmPqTs=/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2021/O/n/xoTq8cS7C4b1HvBzkDww/tapume-sportv2-nova-marca-a6.jpg",
+        "selfRatedContent": true,
+        "contentRating": null,
+        "stringTime": "07:45 – 08:59",
+        "progress": 95,
+        "broadcast": {
+          "isLive": true,
+          "channel": {
+            "__typename": "BroadcastChannel",
+            "name": "SporTV",
+            "logo": "https://s2.glbimg.com/o_ggZmb1EQqckJiqfrV1ynD2LRY=/285x285/filters:colorize(100,100,100,eeeeee)/https://s2.glbimg.com/ywvOXhKovSogEXcoRVee9mWPZTU=/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2021/F/y/EIs9ftSXKmqYMbhXTrkw/logo-de-transmissao-sportv-a1.png",
+            "logoTrimmed": "https://s2.glbimg.com/wjmM-D-2RQ3MHyzaE7QUEpZOmzU=/fit-in/112x56/https://s2.glbimg.com/NHu5G4z2VmS0Ro9VBrOKmCpjOW0=/trim/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2021/F/y/EIs9ftSXKmqYMbhXTrkw/logo-de-transmissao-sportv-a1.png",
+            "logoSelected": "https://s2.glbimg.com/-YaPTh9hDixC1EkWzOVjKVUszvA=/285x285/filters:colorize(100,100,100,454545)/https://s2.glbimg.com/ywvOXhKovSogEXcoRVee9mWPZTU=/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2021/F/y/EIs9ftSXKmqYMbhXTrkw/logo-de-transmissao-sportv-a1.png"
+          },
+          "mediaId": "7339117",
+          "logo": "https://s2.glbimg.com/GaiZu0xcQMEk4iT8zTb70pz8tmc=/285x285/https://s2.glbimg.com/Q9zo70dCIm-0OAvY5VgfnRE0RDY=/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2021/1/A/nurEwnSyO7waw4IXLugg/logo-de-transmissao-sportv2-a1.png",
+          "logoSelected": "https://s2.glbimg.com/xTJfeM-_TFrp0aruYH_T7CXt7b8=/285x285/filters:colorize(100,100,100,454545)/https://s2.glbimg.com/Q9zo70dCIm-0OAvY5VgfnRE0RDY=/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2021/1/A/nurEwnSyO7waw4IXLugg/logo-de-transmissao-sportv2-a1.png",
+          "media": {
+            "availableFor": "SUBSCRIBER",
+            "serviceId": "6807"
+          }
+        },
         "UI_number": 1,
-        "UI_customHeight": 262,
-        "backgroundUrl": "http://s2.glbimg.com/mGz8d8A6BKf5eQvrQQbjIQuiec4=/0x720/https://s2.glbimg.com/EvVETDy7YO-BHAQ1nWgt5dyB7Ss=/1280x720/center/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/S/N/NCJPoqTJAiKBSizVCoLQ/walker-t2.jpg",
-        "id": "4f02072b-8bf3-4e10-af2e-b247ecf9ba29",
-        "headline": "Séries",
-        "displayName": "Séries",
-        "navigation": {
-          "__typename": "MenuPageNavigation",
-          "UI_typename": "MenuPageNavigation",
-          "identifier": "series"
-        },
-        "posterUrl": "http://s2.glbimg.com/qd6i9btEGFY8MavMPcaydsRu3PM=/0x196/https://s2.glbimg.com/m6TSqSogTP6SRLwzsjCy1RB65po=/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/S/N/NCJPoqTJAiKBSizVCoLQ/walker-t2.jpg"
+        "categories": ["canais", "esportes"]
       },
       {
+        "id": "7339123",
+        "subtitle": "Lendas Anderson Silva -",
+        "headline": "Baú Do Esporte",
+        "title": "SporTV",
+        "posterUrl": "http://live-thumbs.video.globo.com/spo324ha/snapshot/",
+        "backgroundUrl": "http://s2.glbimg.com/NXZaJckHYiaC4u0tA2Z9_iDGXXo=/0x720/https://s2.glbimg.com/Kjv8z-K_EUKJBcgLm86bjAb-fIs=/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2021/2/h/hjA1tHQ5qmovpMh8ELAA/tapume-sportv3-nova-marca-a6.jpg",
+        "selfRatedContent": true,
+        "contentRating": null,
+        "stringTime": "08:35 – 08:58",
+        "progress": 91,
+        "broadcast": {
+          "isLive": false,
+          "channel": {
+            "__typename": "BroadcastChannel",
+            "name": "SporTV",
+            "logo": "https://s2.glbimg.com/o_ggZmb1EQqckJiqfrV1ynD2LRY=/285x285/filters:colorize(100,100,100,eeeeee)/https://s2.glbimg.com/ywvOXhKovSogEXcoRVee9mWPZTU=/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2021/F/y/EIs9ftSXKmqYMbhXTrkw/logo-de-transmissao-sportv-a1.png",
+            "logoTrimmed": "https://s2.glbimg.com/wjmM-D-2RQ3MHyzaE7QUEpZOmzU=/fit-in/112x56/https://s2.glbimg.com/NHu5G4z2VmS0Ro9VBrOKmCpjOW0=/trim/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2021/F/y/EIs9ftSXKmqYMbhXTrkw/logo-de-transmissao-sportv-a1.png",
+            "logoSelected": "https://s2.glbimg.com/-YaPTh9hDixC1EkWzOVjKVUszvA=/285x285/filters:colorize(100,100,100,454545)/https://s2.glbimg.com/ywvOXhKovSogEXcoRVee9mWPZTU=/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2021/F/y/EIs9ftSXKmqYMbhXTrkw/logo-de-transmissao-sportv-a1.png"
+          },
+          "mediaId": "7339123",
+          "logo": "https://s2.glbimg.com/9nPVfXgBPUm1GFfQEM0SPxk43Ro=/285x285/https://s2.glbimg.com/srvCTnIbpAJzJ0o3HSoCmdE_EPM=/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2021/9/B/JnrwKrR3uUE3xADMB6NA/logo-de-transmissao-sportv3-a1.png",
+          "logoSelected": "https://s2.glbimg.com/JwYJl1r0Rke5POIMbBpColuw_Mk=/285x285/filters:colorize(100,100,100,454545)/https://s2.glbimg.com/srvCTnIbpAJzJ0o3HSoCmdE_EPM=/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2021/9/B/JnrwKrR3uUE3xADMB6NA/logo-de-transmissao-sportv3-a1.png",
+          "media": {
+            "availableFor": "SUBSCRIBER",
+            "serviceId": "6807"
+          }
+        },
         "UI_number": 2,
-        "UI_customHeight": 262,
-        "backgroundUrl": "http://s2.glbimg.com/EWAttq3-KKBESOESzJpC7P6NVR0=/0x720/https://s2.glbimg.com/TRHF9tAxbFH55qDXeitYIA5ZgXQ=/1280x720/center/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/C/e/0L3E8PTCAcjOgStB4a8g/la-la-land.jpg",
-        "id": "e4d7f717-c829-4225-ae62-fad133534c9a",
-        "headline": "Filmes",
-        "displayName": "Filmes",
-        "navigation": {
-          "__typename": "MenuPageNavigation",
-          "UI_typename": "MenuPageNavigation",
-          "identifier": "filmes"
-        },
-        "posterUrl": "http://s2.glbimg.com/VBtMPnmFFEke_3HpXd4NpHqLTNo=/0x196/https://s2.glbimg.com/f26G9ArujK2aEAt-7_l5ENKuyD4=/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/C/e/0L3E8PTCAcjOgStB4a8g/la-la-land.jpg"
+        "categories": ["canais", "esportes"]
       },
       {
+        "id": "8223631",
+        "subtitle": "Bragantino x Flamengo",
+        "headline": "Vt Campeonato Brasileiro",
+        "title": "Premiere",
+        "posterUrl": "http://live-thumbs.video.globo.com/pfc1/snapshot/",
+        "backgroundUrl": "http://s04.video.glbimg.com/x720/8223631.jpg",
+        "selfRatedContent": true,
+        "contentRating": null,
+        "stringTime": "07:58 – 08:57",
+        "progress": 98,
+        "broadcast": {
+          "isLive": false,
+          "channel": {
+            "__typename": "BroadcastChannel",
+            "name": "Premiere",
+            "logo": "https://s2.glbimg.com/nDQ9Sl908a-_8xMPAOxsLIRr1FE=/285x285/filters:colorize(100,100,100,eeeeee)/https://s2.glbimg.com/8U4qv2GMUGTf2ANtBSOVh-KDZpQ=/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2020/m/g/T2qATAT4CokCPHtIgWnA/premiere.png",
+            "logoTrimmed": "https://s2.glbimg.com/rpJGv0Z7ZnCbA9DjU8pJ8rO5Ft4=/fit-in/112x56/https://s2.glbimg.com/_p3wqp8ZlDV3wkLnue-5a3wBJ5k=/trim/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2020/m/g/T2qATAT4CokCPHtIgWnA/premiere.png",
+            "logoSelected": "https://s2.glbimg.com/r7vIKdU7xIE5ErTPEzCpw5xvjN8=/285x285/filters:colorize(100,100,100,454545)/https://s2.glbimg.com/8U4qv2GMUGTf2ANtBSOVh-KDZpQ=/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2020/m/g/T2qATAT4CokCPHtIgWnA/premiere.png"
+          },
+          "mediaId": "8223631",
+          "logo": null,
+          "logoSelected": null,
+          "media": {
+            "availableFor": "SUBSCRIBER",
+            "serviceId": "6661"
+          }
+        },
         "UI_number": 3,
-        "UI_customHeight": 262,
-        "backgroundUrl": "http://s2.glbimg.com/Qkvrzl0_dv-QpRdk9OpmDzuDbsQ=/0x720/https://s2.glbimg.com/yfpwDMMMjhfYD-LxqWzwjC1Z1Fg=/1280x720/center/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/J/x/yePpCxSeSfPt7hG1OJeA/desalma-haia.jpg",
-        "id": "0eefd8b5-d4c4-44a2-adbd-37d751e6f1c1",
-        "headline": "Originais",
-        "displayName": "Originais",
-        "navigation": {
-          "__typename": "MenuPageNavigation",
-          "UI_typename": "MenuPageNavigation",
-          "identifier": "originais-globoplay"
-        },
-        "posterUrl": "http://s2.glbimg.com/7xybv6VZ38y25-Vq4tPb9F9k79c=/0x196/https://s2.glbimg.com/iYjc4DWMlwAr-ExAoZaXsLtzrBk=/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/J/x/yePpCxSeSfPt7hG1OJeA/desalma-haia.jpg"
+        "categories": ["esportes"]
       },
       {
+        "id": "8310612",
+        "subtitle": "The Ultimate Fighter 30: Team Peña X Team Nunes - Ep. 5",
+        "headline": "Ultimate Fighter",
+        "title": "Combate",
+        "posterUrl": "http://s2.glbimg.com/xICarRhLRSvNBE3xa5xgk5FTqbU=/0x360/https://s2.glbimg.com/_38sPMZEW1lQOUsEFfcx3SSPtZ0=/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2021/o/q/Pa878rT6OFDvQAFta33w/8922313.jpg",
+        "backgroundUrl": "http://s2.glbimg.com/fNaKiz71KqzxWrV8kUFTIceNp8Y=/0x720/https://s2.glbimg.com/_38sPMZEW1lQOUsEFfcx3SSPtZ0=/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2021/o/q/Pa878rT6OFDvQAFta33w/8922313.jpg",
+        "selfRatedContent": true,
+        "contentRating": null,
+        "stringTime": "07:50 – 08:50",
+        "progress": 100,
+        "broadcast": {
+          "isLive": false,
+          "channel": {
+            "__typename": "BroadcastChannel",
+            "name": "Combate",
+            "logo": "https://s2.glbimg.com/3MbxGxE9E477C2liJC-z1e5eBys=/285x285/filters:colorize(100,100,100,eeeeee)/https://s2.glbimg.com/WGK6Ql3VWQNF0JGkHbVSYnh7qlw=/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2020/6/y/DzgbWKRTaMwJFuGyxg5A/combate.png",
+            "logoTrimmed": "https://s2.glbimg.com/bLAHMiremLS0NwOoEr2tMQLueHI=/fit-in/112x56/https://s2.glbimg.com/ax1eJOtJHmUMGghYC1UjiRmSPWo=/trim/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2020/6/y/DzgbWKRTaMwJFuGyxg5A/combate.png",
+            "logoSelected": "https://s2.glbimg.com/8e6sqVFXl1qWpU4zjziHOuJnjac=/285x285/filters:colorize(100,100,100,454545)/https://s2.glbimg.com/WGK6Ql3VWQNF0JGkHbVSYnh7qlw=/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2020/6/y/DzgbWKRTaMwJFuGyxg5A/combate.png"
+          },
+          "mediaId": "8310612",
+          "logo": "https://s2.glbimg.com/NLcXCVniuP-GLbEdXZdNeRhV5ug=/285x285/https://s2.glbimg.com/WGK6Ql3VWQNF0JGkHbVSYnh7qlw=/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2020/6/y/DzgbWKRTaMwJFuGyxg5A/combate.png",
+          "logoSelected": "https://s2.glbimg.com/8e6sqVFXl1qWpU4zjziHOuJnjac=/285x285/filters:colorize(100,100,100,454545)/https://s2.glbimg.com/WGK6Ql3VWQNF0JGkHbVSYnh7qlw=/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2020/6/y/DzgbWKRTaMwJFuGyxg5A/combate.png",
+          "media": {
+            "availableFor": "SUBSCRIBER",
+            "serviceId": "6698"
+          }
+        },
         "UI_number": 4,
-        "UI_customHeight": 262,
-        "backgroundUrl": "http://s2.glbimg.com/iA6OwFwMQ3bR23qQ7Ka_G4qHa-w=/0x720/https://s2.glbimg.com/PtelcBx08UKL5Bkt2bw1YTpL1V4=/1280x720/center/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/t/r/jNls3HTyAyHfkneI4H6A/masha-e-o-urso.jpg",
-        "id": "0cd53be5-a27d-47d0-bd07-3c463072974b",
-        "headline": "Infantil",
-        "displayName": "Infantil",
-        "navigation": {
-          "__typename": "MenuPageNavigation",
-          "UI_typename": "MenuPageNavigation",
-          "identifier": "infantil"
-        },
-        "posterUrl": "http://s2.glbimg.com/roI_nGJqoYULVDuAeUQQWNgr-mk=/0x196/https://s2.glbimg.com/iXhx5BJxaJ48ESl4OmjKqa_Oa5g=/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/t/r/jNls3HTyAyHfkneI4H6A/masha-e-o-urso.jpg"
-      },
-      {
-        "UI_number": 5,
-        "UI_customHeight": 262,
-        "backgroundUrl": "http://s2.glbimg.com/R8LnBIw2VEpGgSytVt2M_GYmUCY=/0x720/https://s2.glbimg.com/PjcNrtimkvuxIOhKXi-BB-3kdAU=/1280x720/center/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/I/x/NUB1UKQJ6kne53vBW6BQ/no-limite.jpg",
-        "id": "70ad11f8-b5bb-47f7-8dc2-55298b9bb57a",
-        "headline": "Realities",
-        "displayName": "Realities",
-        "navigation": {
-          "__typename": "MenuPageNavigation",
-          "UI_typename": "MenuPageNavigation",
-          "identifier": "reality-shows"
-        },
-        "posterUrl": "http://s2.glbimg.com/AFFFIWJvHZh91sP38sUI1Minn4U=/0x196/https://s2.glbimg.com/mIF6362K6yz7ZnCyXOzaIvHuFwc=/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/I/x/NUB1UKQJ6kne53vBW6BQ/no-limite.jpg"
-      },
-      {
-        "UI_number": 6,
-        "UI_customHeight": 262,
-        "backgroundUrl": "http://s2.glbimg.com/LjKy0nVJh15xQQotxhR60jRUvK4=/0x720/https://s2.glbimg.com/YP8lqBsRFSh30o4fYpAG6lW9_uc=/1280x720/center/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/i/b/WiDTT4Qfmcrat7uqW6lw/11.09-a-vida-sob-ataque.jpg",
-        "id": "18c0803c-3704-4dd6-9d49-558c63559d08",
-        "headline": "Documentários",
-        "displayName": "Documentários",
-        "navigation": {
-          "__typename": "MenuPageNavigation",
-          "UI_typename": "MenuPageNavigation",
-          "identifier": "documentarios"
-        },
-        "posterUrl": "http://s2.glbimg.com/mFBk0rytABU35AVjgwNWVCpiYH4=/0x196/https://s2.glbimg.com/epAAbNDQedp4Lc9tIpy4LUvcIhQ=/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/i/b/WiDTT4Qfmcrat7uqW6lw/11.09-a-vida-sob-ataque.jpg"
-      },
-      {
-        "UI_number": 7,
-        "UI_customHeight": 262,
-        "backgroundUrl": "http://s2.glbimg.com/pQFsrE_tdbndmdcXrjP6xCJblcc=/0x720/https://s2.glbimg.com/-GR-c2Ht8i80K2qVaKeUEefUTbs=/1280x720/center/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/c/M/r70NVKQ0uuc8vNxEniow/bem-amigos.jpg",
-        "id": "bc854080-7fcb-4a30-becc-f2352719668f",
-        "headline": "Esportes",
-        "displayName": "Esportes",
-        "navigation": {
-          "__typename": "MenuPageNavigation",
-          "UI_typename": "MenuPageNavigation",
-          "identifier": "esportes"
-        },
-        "posterUrl": "http://s2.glbimg.com/2g9hyQu8xV75FJjUracx7nch29U=/0x196/https://s2.glbimg.com/4-3IA8ulo_l-C7lZmtXO8g0V-DQ=/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/c/M/r70NVKQ0uuc8vNxEniow/bem-amigos.jpg"
-      },
-      {
-        "UI_number": 8,
-        "UI_customHeight": 262,
-        "backgroundUrl": "http://s2.glbimg.com/HAAZDncErkaB1hetOBeo8HBpACs=/0x720/https://s2.glbimg.com/ELHRTd-c5HfYRuOcLAkfSl1MS4E=/1280x720/center/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2021/g/r/9fLA2KSEGsq7fZMjM9IQ/categoria-variedades.jpg",
-        "id": "a6951f16-22b1-46c5-a741-c15acb13f7f4",
-        "headline": "Variedades",
-        "displayName": "Variedades",
-        "navigation": {
-          "__typename": "MenuPageNavigation",
-          "UI_typename": "MenuPageNavigation",
-          "identifier": "variedades"
-        },
-        "posterUrl": "http://s2.glbimg.com/L1SMgWoVeHpf0pc9lpE7UiC7eYY=/0x196/https://s2.glbimg.com/t6n1hDw3HlqqiPUNMp_MMnLDH6Q=/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2021/g/r/9fLA2KSEGsq7fZMjM9IQ/categoria-variedades.jpg"
-      },
-      {
-        "UI_number": 9,
-        "UI_customHeight": 262,
-        "backgroundUrl": "http://s2.glbimg.com/GXAwl7j08RZ0r5cQSdzg4N9nw4A=/0x720/https://s2.glbimg.com/sHC1EpG4Q2Vlq_E1BhjRPPeKwcI=/1280x720/center/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/Q/S/bEGGl9TTS3wJJ9IjY3NQ/escolinha-do-professor-raimundo.jpg",
-        "id": "c25ef35d-b5fa-48ab-9092-642f741fa246",
-        "headline": "Humor",
-        "displayName": "Humor",
-        "navigation": {
-          "__typename": "MenuPageNavigation",
-          "UI_typename": "MenuPageNavigation",
-          "identifier": "humor"
-        },
-        "posterUrl": "http://s2.glbimg.com/CdsK6WlbfGNwejUCHNPhb5JxCZ4=/0x196/https://s2.glbimg.com/bSFN8xx8aqGJgGZCtwyC0q1cSJ0=/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/Q/S/bEGGl9TTS3wJJ9IjY3NQ/escolinha-do-professor-raimundo.jpg"
-      },
-      {
-        "UI_number": 10,
-        "UI_customHeight": 262,
-        "backgroundUrl": "http://s2.glbimg.com/Cs4BZgfOvSr8tsr40cXWp3sglYI=/0x720/https://s2.glbimg.com/4VnyUIduSCHxTSn1LVXLpGyIWMs=/1280x720/center/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2021/Z/0/nMzFWfSYezfK4R6jpxIg/musica-adele.jpg",
-        "id": "02a9df77-c36c-42f6-94e2-0e4b05f23453",
-        "headline": "Música",
-        "displayName": "Música",
-        "navigation": {
-          "__typename": "MenuPageNavigation",
-          "UI_typename": "MenuPageNavigation",
-          "identifier": "especiais"
-        },
-        "posterUrl": "http://s2.glbimg.com/cPjsXg6L30sOjGCzZZqbQGEZzT4=/0x196/https://s2.glbimg.com/Bi1ZqzRRINk8m9NTsNLT9tcb9lo=/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2021/Z/0/nMzFWfSYezfK4R6jpxIg/musica-adele.jpg"
-      },
-      {
-        "UI_number": 11,
-        "UI_customHeight": 262,
-        "backgroundUrl": "http://s2.glbimg.com/78KRpp7EbZZ3JCrtg8qzrzxGvU0=/0x720/https://s2.glbimg.com/TDvFJkJycBb3C87T1AlVj_fjsZk=/1280x720/center/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/L/p/XIoC8ISTWCjGoegBUAPg/jornal-nacional-2022.jpg",
-        "id": "1fe9b094-9b77-404c-a989-9d6301fd3296",
-        "headline": "Jornalismo",
-        "displayName": "Jornalismo",
-        "navigation": {
-          "__typename": "MenuPageNavigation",
-          "UI_typename": "MenuPageNavigation",
-          "identifier": "jornalismo"
-        },
-        "posterUrl": "http://s2.glbimg.com/MyidgY1CQSCHfluoZhqmmksei7c=/0x196/https://s2.glbimg.com/hVE0daoifv5ZRKVO4G-HJVLP1yg=/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/L/p/XIoC8ISTWCjGoegBUAPg/jornal-nacional-2022.jpg"
-      },
-      {
-        "UI_number": 12,
-        "UI_customHeight": 262,
-        "backgroundUrl": "http://s2.glbimg.com/d399KQbzZuJckUUZEKV1otFCFSY=/0x720/https://s2.glbimg.com/pvbSFIek7m8V0XFH05jwKvFOlvg=/1280x720/center/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2020/k/n/VELhUFTL2QxSm63zMQcA/programas-locais-vale-esta.jpg",
-        "id": "2daf0eb4-f74b-49dc-ba01-642e7df5517a",
-        "headline": "Programas Locais",
-        "displayName": "Programas Locais",
-        "navigation": {
-          "__typename": "MenuSlugNavigation",
-          "UI_typename": "MenuSlugNavigation",
-          "slug": "/programas-locais/"
-        },
-        "posterUrl": "http://s2.glbimg.com/V3MLmQ7GvBmo9vL3eExQIIKvYt8=/0x196/https://s2.glbimg.com/ZJQoPSZSlNXt38aS49QfKsHitAs=/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2020/k/n/VELhUFTL2QxSm63zMQcA/programas-locais-vale-esta.jpg"
+        "categories": ["esportes"]
       }
     ],
     "index": 1,
-    "navigation": {
-      "__typename": "URLNavigation",
-      "UI_typename": "URLNavigation",
-      "url": "/categorias/"
-    }
+    "navigation": null
   },
   {
     "title": "Canais",
@@ -620,11 +584,12 @@
     }
   },
   {
-    "title": "Categorias",
-    "contentType": "CATEGORY",
+    "title": "Destaque",
+    "contentType": "OFFERHIGHLIGHT",
     "uiDefinitions": {
-      "height": 292,
-      "hasMediaCover": true
+      "height": 660,
+      "isVerticalCentered": true,
+      "hasMediaCover": false
     },
     "offerId": "2de900b3-a047-4571-b278-805136a0c249",
     "isVideo": false,
@@ -813,21 +778,20 @@
         "posterUrl": "http://s2.glbimg.com/V3MLmQ7GvBmo9vL3eExQIIKvYt8=/0x196/https://s2.glbimg.com/ZJQoPSZSlNXt38aS49QfKsHitAs=/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2020/k/n/VELhUFTL2QxSm63zMQcA/programas-locais-vale-esta.jpg"
       }
     ],
-    "index": 3,
+    "index": 1,
     "navigation": {
       "__typename": "URLNavigation",
       "UI_typename": "URLNavigation",
       "url": "/categorias/"
     }
-  },
-  {
+  },{
     "id": "81ade444-26b1-4096-9a84-4052178e29c3",
     "contentType": "TITLE",
     "uiDefinitions": {
       "height": 204,
       "hasMediaCover": true
     },
-    "resources": [
+    "cards": [
       {
         "__typename": "Title",
         "headline": "Power",

@@ -1,23 +1,22 @@
-import React from 'react'
-// import { sliceText } from 'legacy/manager/utils'
-import styles from './media-info-channels.module.scss'
+import React from "react";
+import styles from "./media-info-channels.module.scss";
 
 type Props = {
-  isVisible: boolean
+  isVisible: boolean;
   info: {
-    headline: string
-    description: string
-    logo: string
-  }
-}
+    headline: string;
+    description: string;
+    logo: string;
+  };
+};
 
-function MediaInfoChannels({ isVisible, info }: Props): React.ReactElement | null {
+const MediaInfoChannels: React.FC<Props> = ({ isVisible, info }) => {
   return isVisible ? (
     <div className={styles.channels}>
       <img className={styles.logo} src={info.logo} alt={info.headline} />
       <p className={styles.text}>{info.description}</p>
     </div>
-  ) : null
-}
+  ) : null;
+};
 
-export default MediaInfoChannels
+export default MediaInfoChannels;

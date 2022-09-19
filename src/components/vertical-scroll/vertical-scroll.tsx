@@ -3,15 +3,10 @@ import CategoryRail from "../rails/category-rail/category-rail";
 import { RailData } from "./Types";
 import ChannelRail from "../rails/channel-rail/channel-rail";
 import TitleRail from "../rails/title-rail/title-rail";
-import OfHighlightRail from "../rails/highlight-rail/highlight-rail";
 import useNavigation from "../cards/navigation/use-navigation";
-import style from "./style.module.scss";
+import style from "./vertical-scroll.module.scss";
 import MediaInfoData from "../media-info/media-info-data";
-import {
-  CARD_TITLE,
-  CARD_CHANNEL,
-  CARD_CATEGORY,
-} from "../../constants/constants";
+import BroadcastRail from "../rails/broadcast-rail/broadcast-rail";
 
 type Props = {
   isFocused: boolean;
@@ -23,7 +18,6 @@ type Props = {
 const VerticalScroll: React.FC<Props> = ({ rails, isFocused, onCardFocus }) => {
   const key = useNavigation();
   const [foco, setFocus] = useState(0);
-
   useEffect(() => {
     switch (key) {
       case "DOWN":
@@ -44,12 +38,31 @@ const VerticalScroll: React.FC<Props> = ({ rails, isFocused, onCardFocus }) => {
     const allRails = rails as RailData[];
     return allRails.map((i, index) => {
       switch (i.contentType) {
+        case "TITLE":
+          return (
+            <TitleRail
+              key={index}
+              data={i}
+              isFocused={i.index === foco}
+              onCardFocus={onCardFocus}
+              hide={i.index < foco}
+            />
+          );
         case "CATEGORY":
           return (
             <CategoryRail
               key={index}
               data={i}
-              translateY={foco * CARD_CATEGORY.DOWN}
+              isFocused={i.index === foco}
+              onCardFocus={onCardFocus}
+              hide={i.index < foco}
+            />
+          );
+        case "BROADCAST":
+          return (
+            <BroadcastRail
+              key={index}
+              data={i}
               isFocused={i.index === foco}
               onCardFocus={onCardFocus}
               hide={i.index < foco}
@@ -60,27 +73,14 @@ const VerticalScroll: React.FC<Props> = ({ rails, isFocused, onCardFocus }) => {
             <ChannelRail
               key={index}
               data={i}
-              translateY={foco * CARD_CHANNEL.DOWN}
               isFocused={i.index === foco}
               onCardFocus={onCardFocus}
               hide={i.index < foco}
             />
           );
-        // case "OFFERHIGHLIGHT":
-        //   return <OfHighlightRail key={index} data={i} isFocused={i.index === foco} onCardFocus={onCardFocus}/>;
-        case "TITLE":
-          return (
-            <TitleRail
-              key={index}
-              data={i}
-              translateY={foco * CARD_TITLE.DOWN}
-              isFocused={i.index === foco}
-              onCardFocus={onCardFocus}
-              hide={i.index < foco}
-            />
-          );
+        default:
+          return <></>;
       }
-      return <></>;
     });
   };
 

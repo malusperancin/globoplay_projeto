@@ -2,7 +2,7 @@ import ContentRating from "../../../content-rating/content-rating";
 import ResolutionLabel from "../resolution-label";
 import TitleCardData from "../../../cards/title-card/title-card-data";
 import getContentBrand from "../../../../utils/get-content-brand";
-import "./styles.scss";
+import "./media-info-titles.scss";
 
 type Props = {
   isVisible: boolean;

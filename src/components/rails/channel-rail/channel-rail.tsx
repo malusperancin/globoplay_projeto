@@ -1,5 +1,5 @@
 import ChannelRailData from "./channel-rail-data";
-import style from "./style.module.scss";
+import style from "./channel-rail.module.scss";
 import ChannelCard from "../../cards/channel-card/channel-card";
 import {
   calcTranslateScroll,
@@ -14,27 +14,21 @@ type Props = {
   data: ChannelRailData;
   isFocused: boolean;
   onCardFocus: (info: MediaInfoData) => void;
-  translateY: number;
 };
 
 const ChannelRail: React.FC<Props> = ({
   data,
   isFocused,
   onCardFocus,
-  translateY,
   hide,
 }) => {
-  const styles = {
-    transform: `translateY(${translateY}px)`,
-  };
-
   const foco = useHorizontalScroll(data.cards.length);
 
   const translate = calcTranslateScroll(
     isFocused,
     foco,
     CARD_CHANNEL.NUM_CARD_SCREEN,
-    CARD_CHANNEL.CARD_HEIGHT
+    CARD_CHANNEL.CARD_WIDTH
   );
 
   useEffect(() => {
@@ -46,7 +40,7 @@ const ChannelRail: React.FC<Props> = ({
   if (hide) return <></>;
 
   return (
-    <div style={styles}>
+    <div>
       <p className={style.title}> Canais </p>
       <div className={style.rail}>
         {data.cards.map((i, index) => {
