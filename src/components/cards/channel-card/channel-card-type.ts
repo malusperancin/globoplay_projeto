@@ -1,4 +1,5 @@
-type ChannelCardData = {
+type ChannelCardType = {
+  state: "title";
   id: string;
   backgroundUrl: string;
   description: string;
@@ -11,4 +12,4 @@ type ChannelCardData = {
   };
 };
 
-export default ChannelCardData;
+export default ChannelCardType;

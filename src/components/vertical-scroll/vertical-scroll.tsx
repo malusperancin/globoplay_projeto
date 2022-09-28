@@ -3,9 +3,9 @@ import CategoryRail from "../rails/category-rail/category-rail";
 import { RailData } from "./Types";
 import ChannelRail from "../rails/channel-rail/channel-rail";
 import TitleRail from "../rails/title-rail/title-rail";
-import useNavigation from "../cards/navigation/use-navigation";
+import useNavigation from "../../hooks/use-navigation";
 import style from "./vertical-scroll.module.scss";
-import MediaInfoData from "../media-info/media-info-data";
+import MediaInfoData from "../media-cover/components/media-info/media-info-type";
 import BroadcastRail from "../rails/broadcast-rail/broadcast-rail";
 
 type Props = {

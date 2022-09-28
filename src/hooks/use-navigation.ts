@@ -27,6 +27,7 @@ function useNavigation() {
   useEffect(() => {
     document.addEventListener("keydown", onKeyDown, true);
     setKey("");
+    return (): void => document.removeEventListener("keydown", onKeyDown, true);
   }, [onKeyDown, key]);
 
   return key;

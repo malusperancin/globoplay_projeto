@@ -1,4 +1,5 @@
-type CategoryCardData = {
+type CategoryCardType = {
+  state: "category";
   backgroundUrl: string;
   posterUrl: string;
   headline: string;
@@ -8,4 +9,4 @@ type CategoryCardData = {
   };
 };
 
-export default CategoryCardData;
+export default CategoryCardType;

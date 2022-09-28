@@ -1,9 +1,9 @@
 import { ReactElement } from "react";
-import TitleCardData from "./title-card-data";
+import TitleCardType from "./title-card-type";
 import style from "./title-card.module.scss";
 
 type Props = {
-  data: TitleCardData;
+  data: TitleCardType;
   isFocus: boolean;
   translate: number;
 };

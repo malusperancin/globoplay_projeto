@@ -1,9 +1,9 @@
-import ChannelCardData from "../../cards/channel-card/channel-card-data";
+import ChannelCardType from "../../cards/channel-card/channel-card-type";
 
 interface ChannelRailData {
   title: string;
   contentType: "BROADCAST_CHANNEL";
-  cards: ChannelCardData[];
+  cards: ChannelCardType[];
   index: number;
 }
 

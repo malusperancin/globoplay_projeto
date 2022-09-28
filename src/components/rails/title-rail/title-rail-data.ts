@@ -1,8 +1,8 @@
-import TitleCardData from "../../cards/title-card/title-card-data";
+import TitleCardType from "../../cards/title-card/title-card-type";
 interface TitleRailData {
   title: string;
   contentType: "TITLE";
-  cards: TitleCardData[];
+  cards: TitleCardType[];
   index: number;
 }
 

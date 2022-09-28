@@ -1,4 +1,4 @@
-import BroadcastCardData from "../../cards/broadcast-card/broadcast-card-data";
+import BroadcastCardType from "../../cards/broadcast-card/broadcast-card-type";
 
 interface BroadcastRailData {
   title: string;
@@ -6,7 +6,7 @@ interface BroadcastRailData {
   offerId: string;
   isVideo: boolean;
   playlistEnabled: boolean;
-  cards: BroadcastCardData[];
+  cards: BroadcastCardType[];
   index: number;
 }
 

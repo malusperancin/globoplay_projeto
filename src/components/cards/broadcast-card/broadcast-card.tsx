@@ -1,11 +1,11 @@
 import { ReactElement } from "react";
-import BroadcastCardData from "./broadcast-card-data";
+import BroadcastCardType from "./broadcast-card-type";
 import style from "./broadcast-card.module.scss";
-import liveIcon from "./assets/live-icon.png";
+import liveIcon from "./image/live-icon.png";
 import { sliceText } from "../../../utils/slice-text";
 
 type Props = {
-  data: BroadcastCardData;
+  data: BroadcastCardType;
   isFocus: boolean;
   translate: number;
 };
