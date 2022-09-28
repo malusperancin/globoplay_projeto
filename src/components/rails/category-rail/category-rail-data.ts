@@ -1,8 +1,8 @@
-import CategoryCardData from "../../cards/category-card/category-card-data";
+import CategoryCardType from "../../cards/category-card/category-card-type";
 
 export type CategoryRailData = {
   title: string;
   contentType: "CATEGORY";
-  cards: CategoryCardData[];
+  cards: CategoryCardType[];
   index: number;
 };

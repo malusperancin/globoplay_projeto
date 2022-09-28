@@ -1,9 +1,9 @@
 import React, { ReactElement } from "react";
-import ChannelCardData from "./channel-card-data";
+import ChannelCardType from "./channel-card-type";
 import style from "./channel-card.module.scss";
 
 type Props = {
-  data: ChannelCardData;
+  data: ChannelCardType;
   isFocus: boolean;
   translate: number;
 };

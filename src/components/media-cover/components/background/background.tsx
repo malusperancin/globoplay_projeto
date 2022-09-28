@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import styles from "./background.module.scss";
-import gradientVerticalSmallFHD from "./assets/gradient-vertical-small-fhd.png";
-import gradientHorizontalSmallFHD from "./assets/gradient-horizontal-small-fhd.png";
+import gradientVerticalSmallFHD from "./image/gradient-vertical-small-fhd.png";
+import gradientHorizontalSmallFHD from "./image/gradient-horizontal-small-fhd.png";
 
 type Props = {
   url: string;

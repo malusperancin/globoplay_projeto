@@ -20,7 +20,8 @@ interface Media {
   serviceId: string;
 }
 
-interface BroadcastCardData {
+interface BroadcastCardType {
+  state: "broadcast";
   id: string;
   subtitle: string;
   headline: string;
@@ -39,4 +40,4 @@ interface BroadcastCardData {
   };
 }
 
-export default BroadcastCardData;
+export default BroadcastCardType;

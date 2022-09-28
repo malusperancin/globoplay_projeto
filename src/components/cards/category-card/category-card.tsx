@@ -1,9 +1,9 @@
 import { ReactElement } from "react";
-import CategoryCardData from "./category-card-data";
+import CategoryCardType from "./category-card-type";
 import style from "./category-card.module.scss";
 
 type Props = {
-  data: CategoryCardData;
+  data: CategoryCardType;
   isFocus: boolean;
   translate: number;
 };

@@ -1,4 +1,5 @@
-interface TitleCardData {
+interface TitleCardType {
+  state: "title";
   titleId: string;
   headline: string;
   description: string;
@@ -28,4 +29,4 @@ interface TitleCardData {
   };
 }
 
-export default TitleCardData;
+export default TitleCardType;

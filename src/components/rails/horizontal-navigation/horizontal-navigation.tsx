@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import useNavigation from "../../cards/navigation/use-navigation";
+import useNavigation from "../../../hooks/use-navigation";
 
 export function useHorizontalScroll(lenght: number) {
   const [foco, setFocus] = useState(0);

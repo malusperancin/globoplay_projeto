@@ -5,7 +5,7 @@ import {
   calcTranslateScroll,
   useHorizontalScroll,
 } from "../horizontal-navigation/horizontal-navigation";
-import MediaInfoData from "../../media-info/media-info-data";
+import MediaInfoData from "../../media-cover/components/media-info/media-info-type";
 import { useEffect } from "react";
 import { CARD_TITLE } from "../../../constants/constants";
 

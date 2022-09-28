@@ -1,4 +1,4 @@
-type HighlightCardData = {
+type HighlightCardType = {
   UI_number: number;
   backgroundUrl: string;
   posterUrl: string;
@@ -29,7 +29,7 @@ export type HighlightRailData = {
   offerId: string;
   isVideo: boolean;
   playlistEnabled: boolean;
-  cards: HighlightCardData[];
+  cards: HighlightCardType[];
   index: number;
   navigation: Navigation;
 };

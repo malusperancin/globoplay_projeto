@@ -10,11 +10,14 @@
 
   .logoChannel {
     height: 96px;
-    margin-top: -12px;
+    bottom: 264px;
+    left: 117px;
+    position: absolute;
 
     @include HD {
       height: calcToHD(96px);
-      margin-top: calcToHD(-12px);
+      bottom: calcToHD(264px);
+      left: calcToHD(117px);
     }
   }
 }
@@ -69,10 +72,10 @@
   text-align: start;
   left: 20px;
   height: 60px;
-  padding: 0 16px;
+  padding: 5px 16px;
   font-size: 24px;
   margin: 10px;
-
+  margin-top: 0px;
   @include HD {
     left: calcToHD(20px);
     height: calcToHD(60px);
@@ -101,13 +104,9 @@
 .liveIcon {
   width: 36px;
   height: 36px;
-  margin-top: -4px;
-  margin-right: 6px;
 
   @include HD {
     width: calcToHD(36px);
     height: calcToHD(36px);
-    margin-top: calcToHD(-4px);
-    margin-right: calcToHD(6px);
   }
 }

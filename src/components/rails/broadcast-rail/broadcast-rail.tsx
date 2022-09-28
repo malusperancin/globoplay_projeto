@@ -1,7 +1,7 @@
 import { useEffect } from "react";
 import { CARD_BROADCAST } from "../../../constants/constants";
 import BroadcastCard from "../../cards/broadcast-card/broadcast-card";
-import MediaInfoData from "../../media-info/media-info-data";
+import MediaInfoData from "../../media-cover/components/media-info/media-info-type";
 import {
   calcTranslateScroll,
   useHorizontalScroll,
