@@ -19,7 +19,6 @@ const MediaCover: React.FC<Props> = ({ isVisible, data }) => {
   else url = data.card.cover.landscape;
 
   const renderMediaInfo = (): ReactNode => {
-    console.log(data.card);
     return <MediaInfo isVisible={isVisible} info={data} />;
   };
 

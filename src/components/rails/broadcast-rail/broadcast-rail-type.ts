@@ -1,6 +1,6 @@
 import BroadcastCardType from "../../cards/broadcast-card/broadcast-card-type";
 
-interface BroadcastRailData {
+interface BroadcastRailType {
   title: string;
   contentType: "BROADCAST";
   offerId: string;
@@ -10,4 +10,4 @@ interface BroadcastRailData {
   index: number;
 }
 
-export default BroadcastRailData;
+export default BroadcastRailType;

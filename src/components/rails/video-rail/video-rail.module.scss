@@ -7,7 +7,7 @@
   margin-bottom: 50px;
 
   @include HD {
-    margin: 13px;
+    margin: calcToHD(20px);
     margin-bottom: calcToHD(50px);
   }
 }

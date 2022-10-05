@@ -1,18 +1,19 @@
-import TitleRailData from "./title-rail-data";
-import style from "./title-rail.module.scss";
+import { useEffect } from "react";
+import TitleRailType from "./title-rail-type";
 import TitleCard from "../../cards/title-card/title-card";
+import MediaInfoType from "../../media-cover/components/media-info/media-info-type";
+import { CARD_TITLE } from "../../../constants/constants";
 import {
   calcTranslateScroll,
   useHorizontalScroll,
 } from "../horizontal-navigation/horizontal-navigation";
-import MediaInfoData from "../../media-cover/components/media-info/media-info-type";
-import { useEffect } from "react";
-import { CARD_TITLE } from "../../../constants/constants";
+
+import style from "./title-rail.module.scss";
 
 type Props = {
-  data: TitleRailData;
+  data: TitleRailType;
   isFocused: boolean;
-  onCardFocus: (info: MediaInfoData) => void;
+  onCardFocus: (info: MediaInfoType) => void;
   hide: boolean;
 };
 

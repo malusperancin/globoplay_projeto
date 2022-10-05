@@ -1,9 +1,9 @@
 @import "../../style/variables.scss";
 
 .rails {
-  margin-top: 170px;
+  margin-top: 269px;
 
   @include HD {
-    margin-top: calcToHD(170px);
+    margin-top: calcToHD(269px);
   }
 }

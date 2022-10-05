@@ -1,5 +1,4 @@
 type CategoryCardType = {
-  state: "category";
   backgroundUrl: string;
   posterUrl: string;
   headline: string;

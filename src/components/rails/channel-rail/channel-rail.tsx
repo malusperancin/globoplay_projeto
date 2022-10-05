@@ -1,19 +1,20 @@
-import ChannelRailData from "./channel-rail-data";
-import style from "./channel-rail.module.scss";
+import { useEffect } from "react";
+import ChannelRailType from "./channel-rail-type";
 import ChannelCard from "../../cards/channel-card/channel-card";
+import MediaInfoType from "../../media-cover/components/media-info/media-info-type";
+import { CARD_CHANNEL } from "../../../constants/constants";
 import {
   calcTranslateScroll,
   useHorizontalScroll,
 } from "../horizontal-navigation/horizontal-navigation";
-import MediaInfoData from "../../media-cover/components/media-info/media-info-type";
-import { useEffect } from "react";
-import { CARD_CHANNEL } from "../../../constants/constants";
+
+import style from "./channel-rail.module.scss";
 
 type Props = {
   hide: boolean;
-  data: ChannelRailData;
+  data: ChannelRailType;
   isFocused: boolean;
-  onCardFocus: (info: MediaInfoData) => void;
+  onCardFocus: (info: MediaInfoType) => void;
 };
 
 const ChannelRail: React.FC<Props> = ({

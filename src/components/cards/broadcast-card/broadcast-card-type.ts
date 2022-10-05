@@ -21,7 +21,6 @@ interface Media {
 }
 
 interface BroadcastCardType {
-  state: "broadcast";
   id: string;
   subtitle: string;
   headline: string;
