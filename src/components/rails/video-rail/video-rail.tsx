@@ -1,34 +1,29 @@
 import { useEffect } from "react";
-import { CARD_BROADCAST } from "../../../constants/constants";
-import BroadcastCard from "../../cards/broadcast-card/broadcast-card";
+import { CARD_VIDEO } from "../../../constants/constants";
+import VideoCard from "../../cards/video-card/video-card";
 import MediaInfoType from "../../media-cover/components/media-info/media-info-type";
-import BroadcastRailType from "./broadcast-rail-type";
+import VideoRailData from "./video-rail-type";
 import {
   calcTranslateScroll,
   useHorizontalScroll,
 } from "../horizontal-navigation/horizontal-navigation";
 
-import style from "./broadcast-rail.module.scss";
+import style from "./video-rail.module.scss";
 
 type Props = {
-  data: BroadcastRailType;
+  data: VideoRailData;
   isFocused: boolean;
   onCardFocus: (info: MediaInfoType) => void;
   hide: boolean;
 };
-const BroadcastRail: React.FC<Props> = ({
-  data,
-  isFocused,
-  onCardFocus,
-  hide,
-}) => {
+const VideoRail: React.FC<Props> = ({ data, isFocused, onCardFocus, hide }) => {
   const foco = useHorizontalScroll(data.cards.length);
 
   const translate = calcTranslateScroll(
     isFocused,
     foco,
-    CARD_BROADCAST.NUM_CARD_SCREEN,
-    CARD_BROADCAST.CARD_WIDTH
+    CARD_VIDEO.NUM_CARD_SCREEN,
+    CARD_VIDEO.CARD_WIDTH
   );
 
   useEffect(() => {
@@ -41,12 +36,12 @@ const BroadcastRail: React.FC<Props> = ({
 
   return (
     <div>
-      <p className={style.title}> Assista ao vivo </p>
+      <p className={style.title}> {data.title} </p>
       <div className={style.rail}>
         {data.cards.map((i, index) => {
           return (
-            <BroadcastCard
-              key={i.id}
+            <VideoCard
+              key={index}
               translate={translate}
               isFocus={isFocused ? index === foco : false}
               data={i}
@@ -58,4 +53,4 @@ const BroadcastRail: React.FC<Props> = ({
   );
 };
 
-export default BroadcastRail;
+export default VideoRail;

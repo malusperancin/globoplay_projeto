@@ -1,18 +1,19 @@
 import { useEffect } from "react";
 import { CARD_CATEGORY } from "../../../constants/constants";
 import CategoryCard from "../../cards/category-card/category-card";
-import MediaInfoData from "../../media-cover/components/media-info/media-info-type";
+import MediaInfoType from "../../media-cover/components/media-info/media-info-type";
+import { CategoryRailType } from "./category-rail-type";
 import {
   calcTranslateScroll,
   useHorizontalScroll,
 } from "../horizontal-navigation/horizontal-navigation";
-import { CategoryRailData } from "./category-rail-data";
+
 import style from "./category-rail.module.scss";
 
 type Props = {
-  data: CategoryRailData;
+  data: CategoryRailType;
   isFocused: boolean;
-  onCardFocus: (info: MediaInfoData) => void;
+  onCardFocus: (info: MediaInfoType) => void;
   hide: boolean;
 };
 const CategoryRail: React.FC<Props> = ({

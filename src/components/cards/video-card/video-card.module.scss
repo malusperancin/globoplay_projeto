@@ -1,0 +1,170 @@
+@import "../../../style/autoprefixer.scss";
+@import "../../../style/variables.scss";
+
+.button {
+  padding: 0;
+  border-width: 0;
+  text-align: center;
+  background-color: $color-ui-100;
+}
+
+.poster {
+  .imageFocus {
+    border-radius: 16px;
+    border: solid white 4px;
+    width: 292px;
+    height: 165px;
+
+    @include HD {
+      border-radius: calcToHD(16px);
+      border: solid white calcToHD(4px);
+      width: calcToHD(292px);
+      height: calcToHD(165px);
+    }
+  }
+
+  .image {
+    border-radius: 16px;
+    width: 292px;
+    height: 165px;
+
+    @include HD {
+      border-radius: calcToHD(16px);
+      width: calcToHD(292px);
+      height: calcToHD(165px);
+    }
+  }
+
+  .gradient {
+    position: absolute;
+    left: 25px;
+    bottom: 60px;
+    border-radius: 16px;
+    width: 292px;
+
+    @include HD {
+      left: calcToHD(25px);
+      bottom: calcToHD(60px);
+      border-radius: calcToHD(16px);
+      width: calcToHD(292px);
+    }
+  }
+
+  .gradientFocus {
+    position: absolute;
+    left: 25px;
+    bottom: 65px;
+    border-radius: 16px;
+    width: 292px;
+
+    @include HD {
+      left: calcToHD(25px);
+      bottom: calcToHD(65px);
+      border-radius: calcToHD(16px);
+      width: calcToHD(292px);
+    }
+  }
+
+  .progressBar {
+    bottom: 75px;
+    position: absolute;
+    border-radius: 12px;
+    height: 5px;
+    margin: 0 32px;
+    width: calc(100% - 64px);
+    background-color: #3e4e53;
+    // ta terminado, ja conversei com o pedro ontem
+    // e hj vou levar no papo tecnico pra mostrar
+    // pro resto do time
+    @include HD {
+      bottom: calcToHD(75px);
+      border-radius: calcToHD(12px);
+      height: calcToHD(5px);
+      margin: 0 calcToHD(32px);
+      width: calc(100% - calcToHD(64px));
+    }
+  }
+
+  .completed {
+    background-color: #eeeeee;
+    border-radius: 12px;
+    height: 5px;
+    display: block;
+
+    @include HD {
+      height: calcToHD(5px);
+      border-radius: calcToHD(12px);
+    }
+  }
+
+  .spanTime {
+    position: absolute;
+    background: #191919;
+    width: 74px;
+    height: 39px;
+    border-radius: 6px;
+    bottom: 90px;
+    right: 40px;
+
+    @include HD {
+      width: calcToHD(74px);
+      height: calcToHD(39px);
+      border-radius: calcToHD(6px);
+      bottom: calcToHD(90px);
+      right: calcToHD(40px);
+    }
+
+    .time {
+      margin-top: 8px;
+      font-weight: 400;
+      font-size: 18px;
+      line-height: 22.5px;
+      text-align: center;
+      color: #eeeeee;
+
+      @include HD {
+        margin-top: calcToHD(8px);
+        font-size: calcToHD(18px);
+        line-height: calcToHD(22.5px);
+      }
+    }
+  }
+}
+
+.info {
+  text-align: start;
+  height: 60px;
+  margin-left: 20px;
+  @include HD {
+    height: calcToHD(60px);
+    margin-left: calcToHD(20px);
+  }
+
+  .title {
+    color: #ccc;
+    width: 322px;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 36px;
+
+    @include HD {
+      width: calcToHD(322px);
+      font-size: calcToHD(24px);
+      line-height: calcToHD(36px);
+    }
+  }
+
+  .description {
+    color: #eeeeee;
+    font-weight: 700;
+    width: 322px;
+    font-size: 24px;
+    line-height: 36px;
+
+    @include HD {
+      width: calcToHD(322px);
+      font-size: calcToHD(24px);
+      line-height: calcToHD(36px);
+    }
+  }
+}

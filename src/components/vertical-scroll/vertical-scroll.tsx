@@ -1,12 +1,13 @@
 import React, { ReactNode, useEffect, useState } from "react";
 import CategoryRail from "../rails/category-rail/category-rail";
-import { RailData } from "./Types";
+import { RailType } from "./Types";
 import ChannelRail from "../rails/channel-rail/channel-rail";
 import TitleRail from "../rails/title-rail/title-rail";
 import useNavigation from "../../hooks/use-navigation";
 import style from "./vertical-scroll.module.scss";
 import MediaInfoData from "../media-cover/components/media-info/media-info-type";
 import BroadcastRail from "../rails/broadcast-rail/broadcast-rail";
+import VideoRail from "../rails/video-rail/video-rail";
 
 type Props = {
   isFocused: boolean;
@@ -26,7 +27,7 @@ const VerticalScroll: React.FC<Props> = ({ rails, isFocused, onCardFocus }) => {
         }
         break;
       case "UP":
-        if (isFocused && foco !== rails.length) {
+        if (isFocused && foco !== rails.length - 1) {
           setFocus(foco + 1);
         }
         break;
@@ -35,9 +36,19 @@ const VerticalScroll: React.FC<Props> = ({ rails, isFocused, onCardFocus }) => {
   }, [key]);
 
   const renderRails = (): ReactNode => {
-    const allRails = rails as RailData[];
+    const allRails = rails as RailType[];
     return allRails.map((i, index) => {
       switch (i.contentType) {
+        case "VIDEO":
+          return (
+            <VideoRail
+              key={index}
+              data={i}
+              isFocused={i.index === foco}
+              onCardFocus={onCardFocus}
+              hide={i.index < foco}
+            />
+          );
         case "TITLE":
           return (
             <TitleRail

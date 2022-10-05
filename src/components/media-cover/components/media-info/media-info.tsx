@@ -3,6 +3,7 @@ import ResolutionLabel from "../resolution-label";
 import getContentBrand from "../../../../utils/get-content-brand";
 import styles from "./media-info.module.scss";
 import MediaInfoType from "./media-info-type";
+import { sliceText } from "../../../../utils/slice-text";
 
 type Props = {
   isVisible: boolean;
@@ -18,7 +19,7 @@ const MediaInfoGeneral = ({ isVisible, info }: Props) => {
     return null;
   }
 
-  console.log(info.card);
+  console.log(info);
 
   switch (info.contentType) {
     case "BROADCAST": {
@@ -79,6 +80,33 @@ const MediaInfoGeneral = ({ isVisible, info }: Props) => {
                 ))}
             </div>
             <p>{info.card.description}</p>
+          </div>
+        </div>
+      );
+    case "VIDEO":
+      return (
+        <div className={styles.video}>
+          <div className={styles.about}>
+            <h1>{info.card.headline}</h1>
+            <div className={styles.info}>
+              {info.card.contentRating && (
+                <ContentRating
+                  contentRating={info.card.contentRating}
+                  selfRatedContent={info.card.selfRatedContent}
+                />
+              )}
+              <ResolutionLabel
+                resolutions={info?.card.technicalSpecs?.resolutions}
+              />
+
+              {!info.card.selfRatedContent &&
+                label?.map((item, index) => (
+                  <span key={index} className={styles.capitalizedStrings}>
+                    {item}
+                  </span>
+                ))}
+            </div>
+            <p>{sliceText(info.card.description, 180)}</p>
           </div>
         </div>
       );

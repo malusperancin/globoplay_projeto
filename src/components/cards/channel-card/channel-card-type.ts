@@ -1,5 +1,4 @@
 type ChannelCardType = {
-  state: "title";
   id: string;
   backgroundUrl: string;
   description: string;
