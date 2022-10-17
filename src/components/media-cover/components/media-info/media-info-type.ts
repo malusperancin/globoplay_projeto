@@ -1,12 +1,18 @@
 import BroadcastCardType from "../../../cards/broadcast-card/broadcast-card-type";
 import CategoryCardType from "../../../cards/category-card/category-card-type";
 import ChannelCardType from "../../../cards/channel-card/channel-card-type";
+import HighlightCardType from "../../../cards/highlight-card/highlight-card-type";
 import TitleCardType from "../../../cards/title-card/title-card-type";
 import VideoCardType from "../../../cards/video-card/video-card-type";
 
 export type MediaInfoCategoryType = {
   contentType: "CATEGORY";
   card: CategoryCardType;
+};
+
+export type MediaInfoHighlightType = {
+  contentType: "OFFERHIGHLIGHT";
+  card: HighlightCardType;
 };
 
 export type MediaInfoChannelType = {
@@ -34,6 +40,7 @@ type MediaInfoType =
   | MediaInfoChannelType
   | MediaInfoTitleType
   | MediaInfoBroadcastType
-  | MediaInfoVideoType;
+  | MediaInfoVideoType
+  | MediaInfoHighlightType;
 
 export default MediaInfoType;

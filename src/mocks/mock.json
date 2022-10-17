@@ -1,5 +1,75 @@
   [
     {
+      "id": "81ade444-26b1-4096-9a84-4052178e29c3",
+      "contentType": "OFFERHIGHLIGHT",
+      "index": 0,
+      "uiDefinitions": {
+        "height": 204,
+        "hasMediaCover": true
+      },
+      "cards": [
+        {
+          "hasVideo": false,
+          "backgroundUrl": "http://s2.glbimg.com/CTUVKaH8UAyDzA6yNDZWmVAADKc=/1280x720/filters:quality(40)/https://s2.glbimg.com/9lSn3h-fSHgG2sX9PJaSx1dp3dI=/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/A/B/w3HJv6R32ElJ3lDkAGHg/2022-2881-sob-pressao-t5-destaque-foco-direita.jpg",
+          "logoUrl": "http://s2.glbimg.com/LrVLlrMezNJ026waR0sgyQVQ13o=/0x110/https://s2.glbimg.com/uB9M8WyLrkLworWdYQFmF7MJ52s=/fit-in/0x364/filters:fill(transparent)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/N/3/KBN5XOSiAIl4MvuABTdg/2022-2881-sob-pressao-t5-logo-destaque.png",
+          "description": "Novos episódios disponíveis! Na 5ª temporada, a saúde mental e física da equipe médica preocupa",
+          "titleType": "SERIE",
+          "mediaId": null,
+          "titleId": "PhQ7Wtzn6C",
+          "type": "TITLE",
+          "broadcast": null,
+          "headline": "Sob Pressão",
+          "headlineImage": "http://s2.glbimg.com/LrVLlrMezNJ026waR0sgyQVQ13o=/0x110/https://s2.glbimg.com/uB9M8WyLrkLworWdYQFmF7MJ52s=/fit-in/0x364/filters:fill(transparent)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/N/3/KBN5XOSiAIl4MvuABTdg/2022-2881-sob-pressao-t5-logo-destaque.png",
+          "serviceId": 151,
+          "idSalePage": "globoplay-web",
+          "position": 1
+        },
+        {
+          "hasVideo": false,
+          "backgroundUrl": "http://s2.glbimg.com/SeTUoUbZPRiB_l4utb2g6MgncyU=/1280x720/filters:quality(40)/https://s2.glbimg.com/AB_YJy6lnjc5ceKwCZyX7ZWA5vE=/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/C/A/QbSdjsRhGmcnxb83PAKg/bg-foco-lateral.jpg",
+          "description": "Vem aí muito vôlei na Liga das Nações masculina. E a partir das 15h45 tem futebol com Nations League e Brasileirão",
+          "mediaId": null,
+          "type": "PAGE",
+          "broadcast": null,
+          "headline": "Esportes",
+          "pageIdentifier": "esportes",
+          "position": 2
+        },
+        {
+          "hasVideo": false,
+          "backgroundUrl": "http://s2.glbimg.com/U2oKZ4chCJUFIHxX9dEqiqBCqhY=/1280x720/filters:quality(40)/https://s2.glbimg.com/VJdjvG2r-wS9yeOLIbZjo75bSao=/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/3/9/IiEt0BSre7Z1AYAHj5eg/2022-balthazar-destaque-foco-direita.jpg",
+          "logoUrl": "http://s2.glbimg.com/eG0pv9Hv6ZF8NqTNM5wwwAAY_pc=/0x110/https://s2.glbimg.com/7HUkvIPqwhEl9GxtLp4xQLnTNQ0=/fit-in/0x364/filters:fill(transparent)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/H/x/TKh6WCT8iXHHMdTP29gQ/2022-balthazar-logo-destaque.png",
+          "description": "A quarta temporada acabou de chegar. É a sua chance de virar fã dessa série de investigação",
+          "titleType": "SERIE",
+          "mediaId": null,
+          "titleId": "kmt81pPsp1",
+          "type": "TITLE",
+          "broadcast": null,
+          "headline": "Balthazar",
+          "headlineImage": "http://s2.glbimg.com/eG0pv9Hv6ZF8NqTNM5wwwAAY_pc=/0x110/https://s2.glbimg.com/7HUkvIPqwhEl9GxtLp4xQLnTNQ0=/fit-in/0x364/filters:fill(transparent)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/H/x/TKh6WCT8iXHHMdTP29gQ/2022-balthazar-logo-destaque.png",
+          "serviceId": 151,
+          "idSalePage": "globoplay-web",
+          "position": 3
+        },
+        {
+          "hasVideo": false,
+          "backgroundUrl": "http://s2.glbimg.com/gLx9VwBFEfEV8Jl-2_R2mzsTl7c=/1280x720/filters:quality(40)/https://s2.glbimg.com/V411USxELFSWGNuLZK35KocdT9Y=/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/0/f/f24OTSTsWOVAuVmlMgyQ/2022-2807-hospital-new-amsterdam-destaque-foco-direita.jpg",
+          "logoUrl": "http://s2.glbimg.com/MlEMHIDp4kDL_tcbnay9Iv3xvyg=/0x110/https://s2.glbimg.com/_W0RS6aHoM2z3E_lX7ytU4sFs14=/fit-in/0x364/filters:fill(transparent)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/V/b/CIuCSTT6yvktLMgVdBxA/2022-2807-hospital-new-amsterdam-logo-destaque.png",
+          "description": "Nova temporada: acompanhe os desafios de um diretor idealista e sua equipe num grande hospital",
+          "titleType": "SERIE",
+          "mediaId": null,
+          "titleId": "NWBdBQSbZ6",
+          "type": "TITLE",
+          "broadcast": null,
+          "headline": "Hospital New Amsterdam",
+          "headlineImage": "http://s2.glbimg.com/MlEMHIDp4kDL_tcbnay9Iv3xvyg=/0x110/https://s2.glbimg.com/_W0RS6aHoM2z3E_lX7ytU4sFs14=/fit-in/0x364/filters:fill(transparent)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/V/b/CIuCSTT6yvktLMgVdBxA/2022-2807-hospital-new-amsterdam-logo-destaque.png",
+          "serviceId": 151,
+          "idSalePage": "globoplay-web",
+          "position": 4
+        }
+      ]
+    },
+    {
       "title": "Categorias",
       "contentType": "CATEGORY",
       "uiDefinitions": {
@@ -193,7 +263,7 @@
           "posterUrl": "http://s2.glbimg.com/V3MLmQ7GvBmo9vL3eExQIIKvYt8=/0x196/https://s2.glbimg.com/ZJQoPSZSlNXt38aS49QfKsHitAs=/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2020/k/n/VELhUFTL2QxSm63zMQcA/programas-locais-vale-esta.jpg"
         }
       ],
-      "index": 0,
+      "index": 1,
       "navigation": {
         "__typename": "URLNavigation",
         "UI_typename": "URLNavigation",
@@ -206,7 +276,7 @@
       "offerId": "8961d3be-5a40-4540-9a78-9ee98ea286aa",
       "isVideo": true,
       "UI_customHeight": 312,
-      "index": 1,
+      "index": 2,
       "cards": [
         {
           "id": "7339108",
@@ -385,7 +455,7 @@
       "offerId": "2de900b3-a047-4571-b278-805136a0c249",
       "isVideo": true,
       "playlistEnabled": false,
-      "index": 2,
+      "index": 3,
       "cards": [
         {
           "UI_number": 0,
@@ -831,7 +901,7 @@
           "pageIdentifier": "starzplay"
         }
       ],
-      "index": 3,
+      "index": 4,
       "navigation": {
         "__typename": "URLNavigation",
         "UI_typename": "URLNavigation",
@@ -841,7 +911,7 @@
     {
       "id": "81ade444-26b1-4096-9a84-4052178e29c3",
       "contentType": "TITLE",
-      "index": 4,
+      "index": 5,
       "uiDefinitions": {
         "height": 204,
         "hasMediaCover": true
@@ -875,10 +945,7 @@
             ],
             "__typename": "TechnicalSpecs"
           },
-          "cover": {
-            "landscape": "https://s2.glbimg.com/6VVAbApgWhpJTS70XlK__slOrKM=/0x720/filters:quality(40)/https://s2.glbimg.com/b8gcBYPiupceEtZfiBeDHvMelEw=/i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2021/g/Y/yf9zDtS1AGNlTHnnAdcQ/2021-1581-power-background.jpg",
-            "__typename": "Cover"
-          },
+          "backgroundUrl": "https://s2.glbimg.com/6VVAbApgWhpJTS70XlK__slOrKM=/0x720/filters:quality(40)/https://s2.glbimg.com/b8gcBYPiupceEtZfiBeDHvMelEw=/i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2021/g/Y/yf9zDtS1AGNlTHnnAdcQ/2021-1581-power-background.jpg",
           "poster": {
             "tv": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHCBQVFBcUFRUXGBcaFxoaGhsaGhsXGxcaGhsYGxobFxgbJCwkGx0pHhsXJjYmKS4wMzMzGiI5PjkyPSwyMzABCwsLEA4OHRISHTIhICkwODAzMDQ9Mj0yMzswOzA9Mj0yMjIyMjYyMjIyPTMyMDIyMjAyMj0wMj09MjIyMjIwMv/AABEIAREAuAMBIgACEQEDEQH/xAAcAAABBQEBAQAAAAAAAAAAAAAAAgMEBQYHAQj/xABHEAACAQIEAggCBwUFBQkAAAABAhEAAwQSITEFQQYHEyJRYXGBMpEUQnKhscHwIzNSstFigpKi8SQ0U8LhFRdUY3N0g7PS/8QAGgEBAAIDAQAAAAAAAAAAAAAAAAEEAgMFBv/EACIRAQEAAgIBBQEBAQAAAAAAAAABAgMEESEFEjFBUSKhE//aAAwDAQACEQMRAD8A7NRRRQFFFFAUUUUBRTGIxCW0Z3YKiglmYhVUDcknYVyPpf1ufFawC+RvuPvt2z/M3y50HU+K8VsYZDcv3UtL4uwE+Sjdj5DWsJxPrhwSSLNu7ePIwLae5fvD/DXEcdjbt5y92491z9Z2LH0E7DyGlR6DqZ66MRJjCWsvIF3JHqY1+QpX/fTf/wDCWt/432/w1yqig7TwzrnssYxGFuWx/EjC6PUghSPaa2PCenXDsSwW1iUzkaK82z6DOACfITXzLQRQfXwYESNR5Uuvmbol03xeAYBGNyzPesuZWCdTbP1G3208Qa790c6SYfG2xcsPO2ZDo9s+Dry9djyJoLuiiigKKKKAooooCiiigKKKKAooooCofEcbbsWnvXWCoilmY8gPxPlzqZXFOunpKzXVwFskKmV7v9pjDIvoohvVh4UGZ6ddOr3EGyLNvDA923OrwdHuRufBdh5nWsfRRQFFe15QFFFFAUUUUBUzhXE72GuLesXGtuuzLzHNWB0ZdtDpUOig+kOr3pkvEbJzAJftwLiA6EHZ0B1ynURyIjwJ2NfJ3A+L3cJft4iy0OhmOTr9ZG8VI0+/cV9O9H+MW8Xh7eIt/C6zB3VhoynzBke1BaUUUUBRRRQFFFFAUUUUBRRRQReIYtLNq5df4LaM7eigk/hXynxLGvfvXLz/AB3LjOfVjMe23tX0J1q44WuF3/G5ktjzzMJ/yhq4j0L4cL+NtI2qyWI+yJAoG8H0ZvOMxGUH51Gx/Bblreu/PwhFXQbVkekPDlg6Cg44RFeVd8VwEMYqoe3FA3RRRQFFFFAUUUUBXWeo3jeV7uCY6OO1t/aWFuAeoyn+6a5OBVt0ax5wuLsYgfUuKW80Pdcf4C1R2ymNr6qopKmRI50qpYiiiigKKKKAooooCiiig5l15XCMHYUbNiBP91HIrD9UdlWxwJ1y23I/XvW8677c4K038OIX70uD86xHVN/vogx3G9TzP5UHaMXoprEcffQ1suLXQqxWE40+YHnQYziFgNWfxeHirniLOOVUt2/yIP69qCtZda8K05c3rwigaopTrBpNAU6iV5bSam27Va88+lrRoud7NJap5bE1IS3T626r5bHY08KPovo3e7TCYdzu1m2T65FmrSqboimXA4YHlYt/yCrmrc+Hn9k6zsn69oooqWIooooCiiigKKKQzQJoMN1xYcvwx2H1LttvaSv/ADViOpzCzfu3CB3FCjyLHX7hWm6Q8XxWJweIt9ladHR8uUtIC6iCCQzAgHltFQ+pa1+wuv8AxXYHoET+v30Gn4qxuOR7foVGPBZWSJ8KrOM9Jrdi+yklpJ7qwSPi3E76bVBudYkLBtXAu2vdPh6Hlz8dKD3i3B1E6VjOI8OE7emlXmP6Z23mc6+GikTznwH31Q4rjtswqtygkgiNfxoM7jMKVaP1vTb28sE7Hn61NxGOUudNDp7aazUXieJDMVUQojT0H5SaCNcYHamqKKCdgxVkluqrAtrV1a2qnutlei9NxxzweIlO5eXjt77UCvVeII3Bn3FV7e3ZmMk8Po3AWclpLf8ACir8lA/KpNcH4d0vxa4i3ca/cYZxmVj3GUkZhkGg02IGld2U10cM5lPDx/L4uXHynusvf4XRRRWaoKKKKAooooCvCK9ooMPg8Ki28RYuMqJbcrbY7LJYrPlBWR51B6HILGFtooHfa6+m0PcbJHlkC1VdOOJtbv8AZNpbbtGnaSblyfuCj2FW3B3i3ho1H0azH+Af9aB7ifFsJhpvXkDOIA7qs50+FQNTVDjOleLxOFvXsPw212FtSWa6VZtAJItLrohn0nXSK1WM4PbukM6yRXlroyqnNafsz/ZldDBIlIPjz50Hz9xHGm7cZu7BYkZUFuRyOUEx8zSLOCuOrOqkhTBjxOsDxMAmBW46SdC2tXGyZTJnuAgCSebc/nvUDAdHiHDNqRH90yCCCNjt8qA4J0Je6ZL7RIUgg8/iFUXSPhj4e/ctspWDpPP5V2XothOzBUCAYNYvrgs/t0eN1FBzkU6qg01RUVljl19JuGtwZqxS6NqpVuEc697c1pz13Kujx+Zjpx6kaAtpTa3KrrGMY901Nt258a0XX7fl2NfK/wC3VwS+F2Wu37Vpfie4iDylgCfQDX2r6WUV849BCy8Uwn/qfijg/dX0hVnVjJHC5+7LZskv09oooraoiiiigKKKKAooooOc9Z/R5rts3U0KyR8tVJ5aiR9pvet6OX2+h4QsIZVe0w87b93/ACMvzrqd60rqVYAqdCDqDXOrqql/E4YLlKXLdxRyZLlvISPDW2J86DV4IC4uhqSUKCZqk4Vicun63rQs2dZBoMlxSw1y5t5k0/g+BgakfrxNaGxggBJA+X31Q4/pTYt3ls7ksFMciaC1s4VbesVzfrjsT2b+X6/XlXTL14P8JrnXWerG0sjRQfaiY48Km4fDK3P5ioaJJirbCYZRrWrZl1Ple4Om55+Z3Dr8OUoANI586pr1vKSN4rQXHCrVBfaWJrXoyytva56rq1YTH2TqneHrL1pkQRVFwlNZrU8OwFy+62ra5nY+wHNmPJRWnk23PqOn6Njjr49zz8fbTdWXR9XxRxbA5bIhPA3GUgn+6p/zDwrrtV3BOFphrKWU2A1PNmPxMfMmrGrevG44SV5rmb5u35ZydS/BFxiASAWIEgCAT5CSB8zTle0VsViFEDefM86KXRQFFFFAUUUgg6a+vnpQJvW8ysskSCJBgiREg8jXIek1g4DE4JWZ3V7L2Wd2zO2S4ShY84Dr6eVdjrlXXfhM2HsX1BBS8UYxBysrQdeWZRB/tUE9L31h5T71aYLipWJ2/XOuddFOPi4i23aLirGv1o2I8dN60tu/4Hn/AK/hQaLjfH+zsuQYbKY/rXJMAxe6b1wlbakkuds2/wB2tbzHYTtVygkzoPKfz2qaeG4Y4f6M6g28sHkSfGRz86CJwTrA4cGFtWZSBo1zRWPk21UPWj0it3FVLbqTGuXwquv8OwODz237K6HPcd1Be0AJP2v1pWV6QcUt3+9lHaDTOARnUbZh40TFZhiJq2tvVEpqcl/StGzDt0+FyZhLKXj8RyFV1LuvJmkLWeGPtxVORuu3ZauOFDSuq9VFodrfc8kRf8TH/wDIrmOAGgrsHVRh4sXnI+K4FHoqg/iTVbH+t3bu7rNfptn71HQKi3MRluKhKgMDGveJGsKsaiJkzpp40q3eBZlhu7AJI7pJEwp5wCJO2vjMJsYRELMB3mOrGWY84zHWByGwq680l0UUUQKKKKAooooPCaSs8/6UuqHpbwU4zDGyt+5YOZWD25JkHYqpBZdfEbA8qC1t5iCGABBhToZgCGjlrOnlWO6yMHcu8OvW+zuXXRLTi4qJ3mVpchQ2YABZIA2YRm1iZa4vjBxAYJsK74XsgPpJDd5ggJZmHd1aVjQyZ2q9v4qyrLhu2W3dZDkXMucgCJVGnNHmDtQfKuHvsjBlJBGoI39jW44J0g7SCxAcRm8/MfrSsl0gwotYvEWxsl64o0A7odgug0GkbVCtXCpBBgig6njulFuyikkyfqj4oEa76c/lWS4l00u3AVRQi+ZJP63+fKKzeJxLXGzN/pXtk21EurNM5ROVT6ka6HwoEXbrMczEk+Jpulu88gPID8zqfc0igKVmpNFEy9CiiiiFpg8VoK7l0CQW8DZLMT2mZ1tovecMxEtEkiI17qiRPjXz/h7ZY7kLIzECSBOpA5mOVfTnRn6Otm2uHZGTKAGV+0ZgoAXM8bgSMvLYaVrmGMy7XdnJ2Z6ZhZ4+VvZYlZZcpPKQSPUjSfSfU0pLgJIBBI3AIJHqOVVgu3BcuveNtcMEGQywMR+0N1W7sSNNNvU1OwN+26K1oqbZHdKxliY0jzmtkvapcbPJ+4kgjXUEaGDr4HkaEWABroI1Mn3J3pyoyu/aMpUC2FUq+aSzEtmBWNAAE1nXMfCjFJorwGig9ooooCorYVWJLSwOQ5WOZQUOZSqnQGYMjmo8KlUx2OpILCWBOs7ACIMgAxrEUEe/ctvc7Bs+bLn0zoCDmXRxAJ3lZkaGNjWMxfVtZ+mYfEWSyLbJZw9y5cLOvetFSxLEB5zDMJG1bvuk7SV2JB0JH1WI8PCsv0z6UpgbRdnJYq6ImTv3LhCsjI2i9mgJzGDuBMiCHBul19bmNxLqZBvXIMQDDQSByBIJ96pqB56nn5migKl4fFZRkZcyeB3BPNf6c6iUUDt4rMroKaor2NJ8wPx/pQeUUUUBSgtJpSzRMX3CrQyH0rRdDuP4nDMtpX/Y9oCVKqR3iJKkiQdKxOGe4vwg1JXtGOxFVMscplbK9Br3a9mrHG4W2ePh9LNhRcLrcDsrKsq2U2+Wi6A+oO9ScLYt2gLdsBFAhVEAROpCjXc6muV9Dunt6zb7DEr2mVlForlDMpkFWYkKCDlIJ0iZI3rpi4tbgAa0QzIWFu4Fb4d9ELDQsoJE7irGOUvmOLu1bNfjKWRaUVmuiGLxRtMMZbFu72hChFfLkIGXUyNw3PaJgmrpsSwui32TlSjMbgy5FIIGU65sxmduVZStNnV6SlUDailUVKBRRRQFFFNv4zAGp8Ig7+XP2oPL1xVUsxAVQSxOwAEknyivmHpn0hbHYu5fJOSctpT9W2vw6cifiPm3lWs6zesA4lmwmFeMONLjqf35G4B/4Y/zekTzWgKKKKAooooCnQO4dTOZdOWz6nz2j1Ne2MPmEzGsbTVpZ4QjW1ftCC1ssRvqI0jL5nmaCloq2xvCBbRn7QkKQPgImQD8U6b1U0BSkcivFWaeXDHnUWyfLZrwyyv8nLWNI5U/b4ofCheHrE5qeThanmar5Za/t1tOrmzqY3/T9vGT4enj5GINdU6v8Wr5ThsS0qpFzCXyHyrprh7kAqoMciDoGgwa5L9EC6UI7W2V0ZkdTKspKsp8QRqKxwyxxy8LPJ07tuvrPw+j+IdIcPh1DYh+xnbtIE+OUgkNGkhSSJ1FScBxO1fXPh7tq6gbKxRwwXSY7s97VdDGh+fE8J1hM6rb4jhrWMtqZDMih1MRIkZWMfZ9a6P0b4vw3EoqYF7dhxr2YUWn9CmhdfskirUvbz+eFwvVbWioeGN3MwcLl0ylZ13zTPt89zRUsEyim3uBQSxAABJJMAAbkk7CuS9NutUDNY4eQx1DXyJA5fslPxH+0dPAHeg3HSnpphMAIuvmuEStpIZyORI2VfNo964x0t6xsVjVa2Is2G0KISWceD3NJHkAB4zWPvXWdi7szMxJZmJZmPMljqTTdAUUUUBRRRQFFFFA4txgIBjn+jT9jEXu6iXLngqhyAAeQEwAaQiCNpMeuvmOVaTh6JBUqjQzD9w9w6orCY9fDSPSgz2JxF1l77MVJ5mZI219IqJWm4zhkFslUAJZDPYraiVOxIB1jaYrM0CkeDUgYiotFY3GVt17bhOouO27tSMPidKpRe0ilJiIrRlp7jq6fUvblL39La5cqNeeKitiqYuXSaYaeqy5Hqkzxsjx3k0kNBBGhBkEaEHxB5GvKKsydOJllbe63nRnrMxeHypf/wBptKQYcxcSOa3PrR4NPqKKwgoodNd0u6cYriL9nItWJ7tsNAMag3X+ufL4RppzrM/RlG9xdgYCudCAR9XTfnTNp4IMA+TCQfUUq4f5V/AeX68TRCWtmyGJLnLJGUK0zlMd4+fl+NDWLMkC4dyB3TvIMfLSffyqLc5/aH4Gltpr/wCYaB1sLbPw3eRIlGG28kA6UvC4W3BLXFB00786n0E/I1EA7o05N+WtOWERlYFgp7pBO2+s6UEUUUUUBRRRQSLVp2AI2kKDsATsM2wqdau/FOIui5KZBL98sgGp5aBVBPKOVRsPeKFQLVszkJ7QFl1GhMtlC96ddvKpycPuF1m5Yt6o+cvbhAQcnePKF0SYOnlQNXzcNoXO1Z8pAZWViEMkKCzDKxiTHnVTVndwrOpIdbjKxDAZQBLvqHnKQTqAP4h4a1hoCiiigKKKKAoorWdGej9q/hr1x0YuhTKVvW7YgvlIZX1U+baaiOdBlVidZjnET7TSrtuCIkggESADqPAE858/IbVosRwZQ4iyMggMLeJW9pnC5hkErp4mNZ2iqvjWDFs2yoyrctK4Egxy1I3Okz50FbRRRQSMAAbiyARrodjoan43AZTojAaLJDa9yf8AhjWRM/lrVdg2i4plRru2w9amXnKnMty3mK65bfI6kj9mBE/686BeJwItkq4KvOqmVI7sjcD196WMIHlkXuydnX4okbt4+1MHHvrF0jXkgHLyAqXaxUtrimUZ/wDhluW3xbbCfvoFXsCmQnJ2YBIDZmuTIECFBiddeUVBs8Oa4LmXTJBMq55sNwmnw84/GHLmNAYlb+fulSzWwJBy6FWnYgbDX7qjYjEAHKtxHVScpFsJMkzuoaOcE6aewRKKAaI5czsOZ9KAop+/hLlsBrlu4gOxdGUH3IqOWAoJOHuAKQQYJ5Afwt9bl6f0p184hmXWEyHMNFju7HUgZNeUa6mo9q/AkNBnQgwdtdjPhT924Fe3rEKhMQCCUQk6aa/M86CbiVuiyzZGX9pLsoBUmTE3AZ3aNNDpuRVNVnjXtzdBy6XQV1UELmecqjTUFdtBl86qs48aBVFJzjxFGceIoHbSAsATlBIBPhJ3MkfjS8MQHWVDCdQWVAwHIs0ge9MKyyJMCRJ3j2515nHiKCyxGIRrdpMqAqG7wK5oLn44UGd9zsRWr4Ljuxw2MSyAyKyQ3bJbYqLrw2UAzm2mdBGpGlYy9ZC5QXmVDGIYLm1AENroQeWpI5TWgsYC/kxwRnhDbL7Ws2ZmIJtoSuaSvdnSaC14njC4tuqr8NsMto4e4GlszZmtgG3DfgDs2me6SOSuGBDCMOsZkCBpYnMsfENd6dw2EIts121cICK8hnBXVcrgAgKMpkMwPxbGofGsWLgshSpCWlWFULlMkkNBOZp1J0mdqJVVFFFEFLvyMH2P/SlkjkPq/f8AL9eNNGnLY3MEgRsYidNdKAZhr7fcNaVm2J0lgw32k67+I+6nGuJP7vSF0ztr77+HypxMTbB/dg94H42EnXXf9eIoO2dTfHLd3BjCKrh8OCXLAZW7W5dZchBkwN5Aq+4j01wVnF/QrrMtwlBJUlJcAqCw2mRvpWF6jHU3MZlQJ3LIgEtJzXtda2nEugWEv436bdNxnlDkzAJNsALIAk7AxNBletboSji3iMLaVbz3VtOqjKr9ocqsQNAwaJPgTO1abgPRzA8Iw3a3GQOq/tcQ4GYk8l5qs6BF303OtJ4t0qsNxDB4FGDubrPcKkFUy2ruRCRpnL5THIDzFZ3r27XscKRPZdpcD+GcoBbn+72vzoNPwvp7wzF3Po6XZZ+6FuIyrcnkCwgk+B1NVmJ4DhuF4xeIW7bLZuDsLiIBltNde2EuAEjKkiCBtIgVwNSxPdzZpGXLvmnTLGsztFfSXTkkcIxHa/F9HGb7cLH+eKDzrI4mmH4diCyuwu23sjLHda4jKrNJELMTEnXajqywPZcMwymMzobp/wDkJdfkjIPao1+yeKcEABBe7h1I8BdQg/zqRUzjPGBhMRw/CLol12RtJhFTJbB8JuPa+UUGT6tWGFx2OwGRsxvO6sAMq27ZEZp1krcSIHOrbrF6YYfCXLFm4txmFy1iDkCkBEc6GWHeOUx6Ve8P4F2fEcVi40u2rKr9oZhc+5LVcI6yOJfSOJYlwZVH7JfS2Mpj+9mPvQfQTcZt/Qzjcrdn9HN/LAz5AnaRExmjziedQ+i3SqxjrTXrYKKtwoRcyq0hUaQATpDD3BpPR42/+yrJvZeyGDTtM4lez7IZ8w5rlma5N1p3eGMmH+gDDSGftOxVVMQuXNlAkTNB0bq241bxOGW3bDg4aLb5goDkgmVIkkd3y3qRiOl2CXGHAu7rdzqpzKcpZwCq5tRBzDeBJrI9RX7rFxH7y3/I0fnWlxvRzB28W2Nu3LjOzLcKAyiugQA5UEwCk6ty5xQYvrc6MWrTJirFvKXuZLttVgOWDMjqq6CSjA+JI5zVLgcGq2+Ihi6BBYIGZvrMPrFgWUAmJnQA6RV31q9J7eIFrDYW4bgW6LjuraIwDhVDbz32J1hcqjeY5/hseMlxLgLFmtlnLtnIXPK95tiDB00gUFrcwim0zM2Yrh0ZJGgCi2F+ExoTzBB5zVVxlFAskAgmyhMqVk5RrqTPqIpy/wAStHawg1IjvgBMxIA/aHYQPbenOLYm24w5KNlFkiAApJ7wUgkmRmA18BQUlFKH36eQooFMgjRp0GkEanca+H30pLgU6ajmN50I8o3NM0tk0BBmR8jJER+t6APP0H5ef9falQSYnUkc+e28nx/0p+3hcyF+0EjTJDMxAiNhA+fKmWtN/C3vQd26oeCW7WE+lBm7TEAh1LKUXsrl1FyAAHUbyTWb66OChXt4lHuM94srpnGQLbRdVWAZ8ZJrl74MwDlPemO7Os7ZtiY1+deYI2labiOy5TojKhzSIMsrCInSPeg8wmJe1cS5baHR1dGHJlIYaHzr6H6PdJcFxbDm1cFsuygXcO5EyI7yA6sswQw1Gmxr5/YW2RyqERsSynTMoAICDWDvPj6VERATBMbnz0E6eeketB9IcN6C8Nwb/SVtBWTUPcdmW3/aGYwCP4jqPGud9avTq3ilGDwzZ7QYNcuD4bjL8KIeag6luZAjTfnOKvs5hrj3FUnLmYkeEgEkCo9B3PqQ4mHwd2wx1s3SR9i4Mw/zC5WR61+ON/2oDbY/7MtrLBMZ1PbHbfVrc/ZrBoLcd4AEqwBMnUwFPxaAa7D2NS8VZtpa7qqW7ozAvMhnBkMYk5Z0EQw2MgB9LcQ4ylvB3MWCCgsm6vmMmZR76fOvmno/gVxWMsWbjMBeuhXZSM3fJLEEggH2NQFVNA2UA7sFzMIA+qSB9/jSboGwMqNiRGk+EmPmaD6iPBrf0P6Fnbs+w+j5pXPkKdmW0GXNHlvUHo70WsYG01q0xdWudoWu5GKtCg5cqqIhF3561wbh2CtfRe0dbetwCe+bkagAAAgLIkwCdB50vE4TDMrlHBciWBS5ltiRqe5IkayCYzbDag610H4fYweFW4rMWxIF18+UqrCQMgAELLRBk6iqHi/GThuIMiu1yxdCPeJGfsHBKSjAdxGAQsTpuQZArkfZgSO7vEwTsdxpMH0pwIoUENvOZRIIg6SSsajwJ/Kg6z026NWLeHfiSsDdt9kYAXs7uZ7azdQrDnKzaiAdJmDXMzfRlDnR0K91clsEA6ZQirB0+IA7gmOdaVWdB6cyPUxrXs0D+KRQ0DMP4gYMNJDAEbgRSmnMsLnJQQCpObSB3eZA000ldJ3MZmJMnf8AQoUxqNPTSgXeuF2LECSZMCBP6/E0UFgWkAKNNNxsAd/EyfeigRFE1Kw1tClzvXM4CZVUSrSTmDncR3Y8aTirKgjJnIyrmzgKVeJYAAmVHI8/CgTaxLrorFd9jl/PyqRbxVye9dcDUSLjGCACCAG72+08zUayDqREeE850ETJrxyeR0k8zvp40Dl/FOZU3HuIGkFidY2MEkrPhPOm8q66xpImTOg7ogbzO+nnTVLEAg6NsSDMHxBgz94PpQP4WzmRz3e6J1Oo1X6oMmdp86aV2IyZtCwMaRO0/f407gsQENwkfFbZQIkSWQgEGdND8t6bVkmWBA73wwTzgEGNNQJ30oPcVZ7NmTMGg6EEQfPTY+XLWmKm8VwRs3WtMwYr9ZWDK06gqwJBERr61CoLbhmIS2SxBykMBMjQqQcxUQw1IjT4jvNRrz28rjUsfgJMwpKEfV+IqGkzsRzqIXMRJgcp0HoKTQOSsfWzaeERznnNIPL9czXlFBOwN24BCF+YULmaDBJKqPvinsRjl7JFEl2Q52DBSSXfuvGrjLk+I7Dwiodh1UTLhwwK5YgCN82YENMaRy3pq5cJOpkDQekk/iSfegSpGuk6aeR8fOiaVA/LxPmYmkkUADXrrBj9b+PP/rS7aSQIJ02AmdfrQdBTdAvsWgHSDt3l1iRtMjY7/mKVisK9ohXABIDCGVgQRI1UkVIwCoHl1tsuQ90vGpEA6XEIadYLe1WFlVFplt9kjmJuC6i3HBJlT/tEQdJASdBQUSif9Y+80Uu8xLEsSTzJMknzMmaKBp9qSvKiigscDufT/mtU3jdx6t/NRRQR339h+FJNFFAGiiigsOkH+94n/wBxd/8Asaq80UUBRRRQBooooA0UUUBRRRQKTn70miigd8fsj8qmcA/fr9l/5HoooIuJ/eP9tvxNe0UUH//Z",
             "__typename": "Poster"
@@ -913,10 +980,7 @@
             ],
             "__typename": "TechnicalSpecs"
           },
-          "cover": {
-            "landscape": "https://s2.glbimg.com/fyFmGgZLx8DX5iPFhe1SLz0gK1o=/0x720/filters:quality(40)/https://s2.glbimg.com/22pzQgWQTyvG6QV0AlqI4eU8wtk=/i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2021/t/I/4z1UjjQZ251n9zwI5Nkw/2021-2481-doctor-who-s13-background-globoplay.jpg",
-            "__typename": "Cover"
-          },
+          "backgroundUrl": "https://s2.glbimg.com/fyFmGgZLx8DX5iPFhe1SLz0gK1o=/0x720/filters:quality(40)/https://s2.glbimg.com/22pzQgWQTyvG6QV0AlqI4eU8wtk=/i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2021/t/I/4z1UjjQZ251n9zwI5Nkw/2021-2481-doctor-who-s13-background-globoplay.jpg",
           "poster": {
             "tv": "https://s2.glbimg.com/pAASHkuEsLVvUM9lZb-hqNNd_AY=/146x216/filters:quality(40)/https://s2.glbimg.com/tcfK-AVqj73w561lJTVMHuRupt8=/i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2021/O/U/FwJ8RbT0qkxJiWv4iCJA/2021-2481-doctor-who-s13-poster-globoplay.jpg",
             "__typename": "Poster"
@@ -954,10 +1018,7 @@
             ],
             "__typename": "TechnicalSpecs"
           },
-          "cover": {
-            "landscape": "https://s2.glbimg.com/L-Lv9ZiEFQMb7aPpePwHi8IaCd8=/0x720/filters:quality(40)/https://s2.glbimg.com/FUKgGWeWRhruk3oHeKmbMsri0sM=/i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2018/G/l/RAH6oiTxSN925jqpxBOg/9491-justica-background.jpg",
-            "__typename": "Cover"
-          },
+          "backgroundUrl": "https://s2.glbimg.com/L-Lv9ZiEFQMb7aPpePwHi8IaCd8=/0x720/filters:quality(40)/https://s2.glbimg.com/FUKgGWeWRhruk3oHeKmbMsri0sM=/i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2018/G/l/RAH6oiTxSN925jqpxBOg/9491-justica-background.jpg",
           "poster": {
             "tv": "https://s2.glbimg.com/AOhyyVIJCU52IGNqYMvOz_ubKBQ=/146x216/filters:quality(40)/https://s2.glbimg.com/2sxePiVHIArfq9nga6RoHk2OSEs=/i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2021/x/b/GM7VAyToeVaBqeURGC1g/2021-2294-justica-poster.jpg",
             "__typename": "Poster"
@@ -991,10 +1052,7 @@
             ],
             "__typename": "TechnicalSpecs"
           },
-          "cover": {
-            "landscape": "https://s2.glbimg.com/_m3II5HprvBO6B0SgQz05VBG17U=/0x720/filters:quality(40)/https://s2.glbimg.com/vY2LYBCw3fvJYlrqfLmTWF60qsw=/i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2021/m/8/cg69AqTtWPEE224oKtgw/2021-1770-wynonna-earp-t4-background.jpg",
-            "__typename": "Cover"
-          },
+          "backgroundUrl": "https://s2.glbimg.com/_m3II5HprvBO6B0SgQz05VBG17U=/0x720/filters:quality(40)/https://s2.glbimg.com/vY2LYBCw3fvJYlrqfLmTWF60qsw=/i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2021/m/8/cg69AqTtWPEE224oKtgw/2021-1770-wynonna-earp-t4-background.jpg",
           "poster": {
             "tv": "https://s2.glbimg.com/kWAvCbmrjxWvqoHHM3HYR6DowHI=/146x216/filters:quality(40)/https://s2.glbimg.com/ZYlXSGWLtY9ZM5pR0q7_D5PViW8=/i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2021/X/F/61xU8ETHujA89vWOmylg/2021-1770-wynonna-earp-t4-poster-tarja.jpg",
             "__typename": "Poster"
@@ -1027,10 +1085,7 @@
             ],
             "__typename": "TechnicalSpecs"
           },
-          "cover": {
-            "landscape": "https://s2.glbimg.com/oERpPs1oTjAXNTzA0UwZ6RuwJ08=/0x720/filters:quality(40)/https://s2.glbimg.com/mrSw7inCXjaZjQqfaQ5thqGbyLU=/i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2021/2/W/AdiZJOQXOrG5sdDtCoXA/2021-1557-small-axe-background.jpg",
-            "__typename": "Cover"
-          },
+          "backgroundUrl": "https://s2.glbimg.com/oERpPs1oTjAXNTzA0UwZ6RuwJ08=/0x720/filters:quality(40)/https://s2.glbimg.com/mrSw7inCXjaZjQqfaQ5thqGbyLU=/i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2021/2/W/AdiZJOQXOrG5sdDtCoXA/2021-1557-small-axe-background.jpg",
           "poster": {
             "tv": "https://s2.glbimg.com/EH8hdBgtCeyHvz6c_9TRDzI8UL4=/146x216/filters:quality(40)/https://s2.glbimg.com/u9DilZSAwj5qP4efJFDwCW8Hzdk=/i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2021/X/a/0uFAZwQYW19UXu6lQHWw/2021-1557-small-axe-poster.jpg",
             "__typename": "Poster"
@@ -1063,10 +1118,7 @@
             ],
             "__typename": "TechnicalSpecs"
           },
-          "cover": {
-            "landscape": "https://s2.glbimg.com/sew3Nkt5hZuac1aWrl-rf5prQaI=/0x720/filters:quality(40)/https://s2.glbimg.com/WnOn3Yiv7-xKzY5U6__kRPLjm4s=/i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2020/w/O/bkxFtkRnqfw9nvamjQSA/2020-1014-christine-background.jpg",
-            "__typename": "Cover"
-          },
+          "backgroundUrl": "https://s2.glbimg.com/sew3Nkt5hZuac1aWrl-rf5prQaI=/0x720/filters:quality(40)/https://s2.glbimg.com/WnOn3Yiv7-xKzY5U6__kRPLjm4s=/i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2020/w/O/bkxFtkRnqfw9nvamjQSA/2020-1014-christine-background.jpg",
           "poster": {
             "tv": "https://s2.glbimg.com/Lpbboa-pWuLSRlkRekTB8m9KQ6Q=/146x216/filters:quality(40)/https://s2.glbimg.com/mNKBbKzbVclZ6vZiDxGlqAJLQTk=/i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/Y/Z/duZeupR3AwLEHIKsYg7g/2022-2859-as-novas-aventuras-de-christine-poster.jpg",
             "__typename": "Poster"
@@ -1100,10 +1152,7 @@
             ],
             "__typename": "TechnicalSpecs"
           },
-          "cover": {
-            "landscape": "https://s2.glbimg.com/zDyypnzDO1yjtI-zf36Qi58AqNQ=/0x720/filters:quality(40)/https://s2.glbimg.com/RfhoWycejdhd8IL1FBYqEvEF0yk=/i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/X/a/la2UUeQIOuWvbhjADUJQ/2022-2732-killing-eve-background.jpg",
-            "__typename": "Cover"
-          },
+          "backgroundUrl": "https://s2.glbimg.com/zDyypnzDO1yjtI-zf36Qi58AqNQ=/0x720/filters:quality(40)/https://s2.glbimg.com/RfhoWycejdhd8IL1FBYqEvEF0yk=/i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/X/a/la2UUeQIOuWvbhjADUJQ/2022-2732-killing-eve-background.jpg",
           "poster": {
             "tv": "https://s2.glbimg.com/lTKoC0XTtbZziKYRUpcP_4IYe9k=/146x216/filters:quality(40)/https://s2.glbimg.com/4CupeyjATQwkRUJ6HzN_eGNqHgs=/i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/A/r/ik24APRPKh1b9LydSHYg/2022-2732-killing-eve-poster-t4.jpg",
             "__typename": "Poster"
@@ -1137,10 +1186,7 @@
             ],
             "__typename": "TechnicalSpecs"
           },
-          "cover": {
-            "landscape": "https://s2.glbimg.com/IC-OkplsUKJkoVmtHAwzS9gNz5k=/0x720/filters:quality(40)/https://s2.glbimg.com/eQY5HNoVMLRkPvzuMNQMc-v8bLg=/i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/b/A/fSCu3TTfyy0D7gE7RVpA/2022-2760-the-handmais-tale-background.jpg",
-            "__typename": "Cover"
-          },
+          "backgroundUrl": "https://s2.glbimg.com/IC-OkplsUKJkoVmtHAwzS9gNz5k=/0x720/filters:quality(40)/https://s2.glbimg.com/eQY5HNoVMLRkPvzuMNQMc-v8bLg=/i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/b/A/fSCu3TTfyy0D7gE7RVpA/2022-2760-the-handmais-tale-background.jpg",
           "poster": {
             "tv": "https://s2.glbimg.com/6gwBarJ9x7qkGht53kQzzv3jjCU=/146x216/filters:quality(40)/https://s2.glbimg.com/Z4XY2KfEf6Y7TNwDKo9qc_DEweM=/i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/p/P/kTZzDETJGjB4HLoz65cg/2022-2760-the-handmais-tale-poster-t4.jpg",
             "__typename": "Poster"
@@ -1178,10 +1224,7 @@
             ],
             "__typename": "TechnicalSpecs"
           },
-          "cover": {
-            "landscape": "https://s2.glbimg.com/Q0VgUi3JhQFTjic-655T6xrNMuE=/0x720/filters:quality(40)/https://s2.glbimg.com/cx2F8T_OAiftQYVOgT8WytIDeWs=/i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2019/I/q/O4x7YiTHqCAgxqFiB5tg/2019-296-series-dexter-background.jpg",
-            "__typename": "Cover"
-          },
+          "backgroundUrl": "https://s2.glbimg.com/Q0VgUi3JhQFTjic-655T6xrNMuE=/0x720/filters:quality(40)/https://s2.glbimg.com/cx2F8T_OAiftQYVOgT8WytIDeWs=/i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2019/I/q/O4x7YiTHqCAgxqFiB5tg/2019-296-series-dexter-background.jpg",
           "poster": {
             "tv": "https://s2.glbimg.com/5MFdSOHe20H0xUlBYmhOz-hwWZ0=/146x216/filters:quality(40)/https://s2.glbimg.com/p3pC3FBT8LOPZIpQade0SRCt4Kg=/i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2019/E/U/a6J1gGRsWBEtuwQjt1uA/2019-296-series-dexter-poster.jpg",
             "__typename": "Poster"
@@ -1215,10 +1258,7 @@
             ],
             "__typename": "TechnicalSpecs"
           },
-          "cover": {
-            "landscape": "https://s2.glbimg.com/vC3ipMYcc0d82a30QUfqZuvmu68=/0x720/filters:quality(40)/https://s2.glbimg.com/YMIvodARP7NsK9_LmA48qc6hcGY=/i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2020/S/m/1gGBbPQjiUGu6Qf4HuIA/2020-1102-ahs-t9-background.jpg",
-            "__typename": "Cover"
-          },
+          "backgroundUrl": "https://s2.glbimg.com/vC3ipMYcc0d82a30QUfqZuvmu68=/0x720/filters:quality(40)/https://s2.glbimg.com/YMIvodARP7NsK9_LmA48qc6hcGY=/i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2020/S/m/1gGBbPQjiUGu6Qf4HuIA/2020-1102-ahs-t9-background.jpg",
           "poster": {
             "tv": "https://s2.glbimg.com/hl5enJIU2Un3pmtWted1mFRywB0=/146x216/filters:quality(40)/https://s2.glbimg.com/vghzwtysX-3DBT1Hk839g5jdWQk=/i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2020/W/a/uInuQnShCSX476xWA2Aw/2020-1102-ahs-t9-poster.jpg",
             "__typename": "Poster"
@@ -1254,10 +1294,7 @@
             ],
             "__typename": "TechnicalSpecs"
           },
-          "cover": {
-            "landscape": "https://s2.glbimg.com/wtIEwLoBUJ8NBwteDqa1raXJH_E=/0x720/filters:quality(40)/https://s2.glbimg.com/PCRuLGAStBkidyRs9HU-qOanrco=/i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2018/4/b/VuUVgSRAuOT1tTjbeNfA/10853-assedio-background.jpg",
-            "__typename": "Cover"
-          },
+          "backgroundUrl": "https://s2.glbimg.com/wtIEwLoBUJ8NBwteDqa1raXJH_E=/0x720/filters:quality(40)/https://s2.glbimg.com/PCRuLGAStBkidyRs9HU-qOanrco=/i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2018/4/b/VuUVgSRAuOT1tTjbeNfA/10853-assedio-background.jpg",
           "poster": {
             "tv": "https://s2.glbimg.com/xD1TK6Z4f5xPYTgtZnRcYFje8ZY=/146x216/filters:quality(40)/https://s2.glbimg.com/X_C16UQaslw7PQwk0bOhkhYa-IM=/i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2020/d/P/de7eXZT36Q0ActiEfRFw/2020-1123-assedio-poster.jpg",
             "__typename": "Poster"
@@ -1291,10 +1328,7 @@
             ],
             "__typename": "TechnicalSpecs"
           },
-          "cover": {
-            "landscape": "https://s2.glbimg.com/wF5OZNP89fxA_ZEeMplA8YsMcgc=/0x720/filters:quality(40)/https://s2.glbimg.com/0OPJEc_froqcZ6nOhBb85W0YlU0=/i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2019/0/U/mbKLkpRsqz4iUPK8D2hg/2019-461-midia-kit-series-cbs-junho-medium-background.jpg",
-            "__typename": "Cover"
-          },
+          "backgroundUrl": "https://s2.glbimg.com/wF5OZNP89fxA_ZEeMplA8YsMcgc=/0x720/filters:quality(40)/https://s2.glbimg.com/0OPJEc_froqcZ6nOhBb85W0YlU0=/i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2019/0/U/mbKLkpRsqz4iUPK8D2hg/2019-461-midia-kit-series-cbs-junho-medium-background.jpg",
           "poster": {
             "tv": "https://s2.glbimg.com/lbK5gFnr72hMYOdfShA_UxwozZo=/146x216/filters:quality(40)/https://s2.glbimg.com/a9yqy_bipVo_pw36PNBxpObHyDY=/i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2019/B/O/VYSln8S3utNakQVFIbYg/2019-461-midia-kit-series-cbs-junho-medium-poster.jpg",
             "__typename": "Poster"
@@ -1328,10 +1362,7 @@
             ],
             "__typename": "TechnicalSpecs"
           },
-          "cover": {
-            "landscape": "https://s2.glbimg.com/KkA8_q1LluIjoosI8J1msAM1Lyk=/0x720/filters:quality(40)/https://s2.glbimg.com/wy6ZIIuOqWSGhWCU6W6g2wkAn6k=/i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2021/D/R/dLKXEYQ7y1wVk23jSt5w/2021-1676-poldark-background.jpg",
-            "__typename": "Cover"
-          },
+          "backgroundUrl": "https://s2.glbimg.com/KkA8_q1LluIjoosI8J1msAM1Lyk=/0x720/filters:quality(40)/https://s2.glbimg.com/wy6ZIIuOqWSGhWCU6W6g2wkAn6k=/i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2021/D/R/dLKXEYQ7y1wVk23jSt5w/2021-1676-poldark-background.jpg",
           "poster": {
             "tv": "https://s2.glbimg.com/SlFoDZYb9KRLAjhNdqobSntfcwc=/146x216/filters:quality(40)/https://s2.glbimg.com/2tk-kEOUbEN4GkzC4nFlg0XIIWM=/i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2021/E/m/DyN38kQ56Ilt4Ucm4SFg/2021-1676-poldark-t5-poster.jpg",
             "__typename": "Poster"
@@ -1367,10 +1398,7 @@
             ],
             "__typename": "TechnicalSpecs"
           },
-          "cover": {
-            "landscape": "https://s2.glbimg.com/z1FjIcxub_IpdgrkAtrW0VDZjJo=/0x720/filters:quality(40)/https://s2.glbimg.com/8GzgVgyGfzCePpRHv98BJOQ2KdY=/i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2021/j/j/MjFXsETemJgr5pFUSpBw/2020-1441-mad-men-background.jpg",
-            "__typename": "Cover"
-          },
+          "backgroundUrl": "https://s2.glbimg.com/z1FjIcxub_IpdgrkAtrW0VDZjJo=/0x720/filters:quality(40)/https://s2.glbimg.com/8GzgVgyGfzCePpRHv98BJOQ2KdY=/i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2021/j/j/MjFXsETemJgr5pFUSpBw/2020-1441-mad-men-background.jpg",
           "poster": {
             "tv": "https://s2.glbimg.com/WXtQe3OTqBDxRCwBjozxmEwjQd8=/146x216/filters:quality(40)/https://s2.glbimg.com/D3ng9_dizXYzC45WLiTfFe2aFe8=/i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2021/h/Z/aSbkZgQDuO2fGAMcYi5Q/2020-1441-mad-men-poster.jpg",
             "__typename": "Poster"
@@ -1404,10 +1432,7 @@
             ],
             "__typename": "TechnicalSpecs"
           },
-          "cover": {
-            "landscape": "https://s2.glbimg.com/n-iimEUAljVmel1Bn3jGc40ZAvU=/0x720/filters:quality(40)/https://s2.glbimg.com/JqDb1-17eAiFAAJF5xTKpHcgg34=/i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2019/j/V/3AsaAARfehWAXAXoyLAA/2018-098-media-kit-house-background.jpg",
-            "__typename": "Cover"
-          },
+          "backgroundUrl": "https://s2.glbimg.com/n-iimEUAljVmel1Bn3jGc40ZAvU=/0x720/filters:quality(40)/https://s2.glbimg.com/JqDb1-17eAiFAAJF5xTKpHcgg34=/i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2019/j/V/3AsaAARfehWAXAXoyLAA/2018-098-media-kit-house-background.jpg",
           "poster": {
             "tv": "https://s2.glbimg.com/KYXFOhcF1BmecxfJE1suZjSRPsQ=/146x216/filters:quality(40)/https://s2.glbimg.com/0fUiUIVwuQJT-cSJk4tJoSXfhe0=/i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2019/u/F/HBPShNQcmFOS2GTVY53g/2018-098-media-kit-house-poster-b.jpg",
             "__typename": "Poster"
@@ -1441,10 +1466,7 @@
             ],
             "__typename": "TechnicalSpecs"
           },
-          "cover": {
-            "landscape": "https://s2.glbimg.com/RWWt_BGBRoqV39NkAxBd7PmwL_s=/0x720/filters:quality(40)/https://s2.glbimg.com/5jriTfr-CmWWHZpprx0NUzs_LV8=/i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2021/a/v/BuCGMgSfWAQhJuqaCrUA/2021-1748-ray-donovan-background.jpg",
-            "__typename": "Cover"
-          },
+          "backgroundUrl": "https://s2.glbimg.com/RWWt_BGBRoqV39NkAxBd7PmwL_s=/0x720/filters:quality(40)/https://s2.glbimg.com/5jriTfr-CmWWHZpprx0NUzs_LV8=/i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2021/a/v/BuCGMgSfWAQhJuqaCrUA/2021-1748-ray-donovan-background.jpg",
           "poster": {
             "tv": "https://s2.glbimg.com/X6E4FZOr0MfqNS2d26h6T6Dy-JA=/146x216/filters:quality(40)/https://s2.glbimg.com/vUBa-yWeC85AQSBIYEvrWctTFtU=/i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2021/r/S/nphvfWQB2bJfGB5ld5tg/2021-1748-ray-donovan-poster-t7.jpg",
             "__typename": "Poster"
@@ -1484,10 +1506,7 @@
             ],
             "__typename": "TechnicalSpecs"
           },
-          "cover": {
-            "landscape": "https://s2.glbimg.com/aujnlqzAfsOWBTHBJZuTQQNfum8=/0x720/filters:quality(40)/https://s2.glbimg.com/--szio-3uPzhR8kfKsSQL_jXRPk=/i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2021/v/V/DSRhy5TMKjwhcYh1xyhg/2019-5-1.jpg",
-            "__typename": "Cover"
-          },
+          "backgroundUrl": "https://s2.glbimg.com/aujnlqzAfsOWBTHBJZuTQQNfum8=/0x720/filters:quality(40)/https://s2.glbimg.com/--szio-3uPzhR8kfKsSQL_jXRPk=/i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2021/v/V/DSRhy5TMKjwhcYh1xyhg/2019-5-1.jpg",
           "poster": {
             "tv": "https://s2.glbimg.com/RbGqWwPb_FfTk1doHu431QNIPYc=/146x216/filters:quality(40)/https://s2.glbimg.com/ctMBVYGdLj-ej0TXWBC_zuB4JLs=/i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2021/p/T/IvJ4lkTC61bqWngIcsAQ/2019-5-3.jpg",
             "__typename": "Poster"
@@ -1522,10 +1541,7 @@
             ],
             "__typename": "TechnicalSpecs"
           },
-          "cover": {
-            "landscape": "https://s2.glbimg.com/1yGk8gSyXr1XyF6Ilp_JsKJvF2k=/0x720/filters:quality(40)/https://s2.glbimg.com/kAZhGMbaInomBjbVFQyAFmrZmIw=/i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2021/F/B/1lpXSDS9etz4nxdDyBeA/2021-2378-greys-anatomy-com-tarja-background-globoplay.jpg",
-            "__typename": "Cover"
-          },
+          "backgroundUrl": "https://s2.glbimg.com/1yGk8gSyXr1XyF6Ilp_JsKJvF2k=/0x720/filters:quality(40)/https://s2.glbimg.com/kAZhGMbaInomBjbVFQyAFmrZmIw=/i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2021/F/B/1lpXSDS9etz4nxdDyBeA/2021-2378-greys-anatomy-com-tarja-background-globoplay.jpg",
           "poster": {
             "tv": "https://s2.glbimg.com/rCgvI28VA_h_odO5hGGC4uAAeoM=/146x216/filters:quality(40)/https://s2.glbimg.com/I2-zKzt1xDlhHG8pfbNy6j-_hGs=/i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2021/r/p/1NGbY9QPSjcBs6zB4SqQ/2021-2378-greys-anatomy-com-tarja-poster-com-tarja-globoplay.jpg",
             "__typename": "Poster"
@@ -1561,10 +1577,7 @@
             ],
             "__typename": "TechnicalSpecs"
           },
-          "cover": {
-            "landscape": "https://s2.glbimg.com/5VvAk9ZMaYP6h9x2g0oKYoVTITM=/0x720/filters:quality(40)/https://s2.glbimg.com/JvSRaNABK_JCdFXvlQU8b5Tcbbg=/i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/v/m/FTbFX4R5Cz2M15ISJkkA/2022-2881-sob-pressao-t5-background.jpg",
-            "__typename": "Cover"
-          },
+          "backgroundUrl": "https://s2.glbimg.com/5VvAk9ZMaYP6h9x2g0oKYoVTITM=/0x720/filters:quality(40)/https://s2.glbimg.com/JvSRaNABK_JCdFXvlQU8b5Tcbbg=/i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/v/m/FTbFX4R5Cz2M15ISJkkA/2022-2881-sob-pressao-t5-background.jpg",
           "poster": {
             "tv": "https://s2.glbimg.com/27wKgwE3xY7H6UTRzrlDCUJoKJQ=/146x216/filters:quality(40)/https://s2.glbimg.com/CdDXlZbXfWneUXKqyiVh3Q361NA=/i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/E/T/l5b04bSR6XazSmFIVeCQ/2022-2881-sob-pressao-t5-poster.jpg",
             "__typename": "Poster"
@@ -1598,10 +1611,7 @@
             ],
             "__typename": "TechnicalSpecs"
           },
-          "cover": {
-            "landscape": "https://s2.glbimg.com/NHQkdRfsWJMs9ucW_ggdirQ9PaY=/0x720/filters:quality(40)/https://s2.glbimg.com/0fellfHuzA7Ii26pBuWm5HaG30g=/i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2021/s/t/C6xmObTJ6c8h9VLhohBg/2021-1682-how-i-met-your-mother-background.jpg",
-            "__typename": "Cover"
-          },
+          "backgroundUrl": "https://s2.glbimg.com/NHQkdRfsWJMs9ucW_ggdirQ9PaY=/0x720/filters:quality(40)/https://s2.glbimg.com/0fellfHuzA7Ii26pBuWm5HaG30g=/i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2021/s/t/C6xmObTJ6c8h9VLhohBg/2021-1682-how-i-met-your-mother-background.jpg",
           "poster": {
             "tv": "https://s2.glbimg.com/ucubmkTAeL_7bCJJlH1D8tYcF28=/146x216/filters:quality(40)/https://s2.glbimg.com/UZk4VXrRGqmlYMxIPAMiOeRFeuI=/i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/6/n/vpQRwXSgWq0UWPBTgwXQ/2022-2859-how-i-met-your-mother-poster.jpg",
             "__typename": "Poster"
@@ -1635,10 +1645,7 @@
             ],
             "__typename": "TechnicalSpecs"
           },
-          "cover": {
-            "landscape": "https://s2.glbimg.com/idUKLrms-m1zrRvKALeU06VMmes=/0x720/filters:quality(40)/https://s2.glbimg.com/bFJf1WDT2_2hEzj7lnPiOM4PJ7g=/i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2020/3/K/hzAYBBTAiLFTEuVlKs4w/2020-1228-save-me-2t-background.jpg",
-            "__typename": "Cover"
-          },
+          "backgroundUrl": "https://s2.glbimg.com/idUKLrms-m1zrRvKALeU06VMmes=/0x720/filters:quality(40)/https://s2.glbimg.com/bFJf1WDT2_2hEzj7lnPiOM4PJ7g=/i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2020/3/K/hzAYBBTAiLFTEuVlKs4w/2020-1228-save-me-2t-background.jpg",
           "poster": {
             "tv": "https://s2.glbimg.com/0x63JUBWqQ_dF9QeD6qj9wHJD6s=/146x216/filters:quality(40)/https://s2.glbimg.com/tbZ688_HScROwO3nzuLlCqPjYZg=/i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2020/h/7/7I18nHQXKwwYFvhriOcA/2020-1228-save-me-2t-poster.jpg",
             "__typename": "Poster"
@@ -1673,10 +1680,7 @@
             ],
             "__typename": "TechnicalSpecs"
           },
-          "cover": {
-            "landscape": "https://s2.glbimg.com/fyQf_CRlkpVU4gpN6qn_PJZekHU=/0x720/filters:quality(40)/https://s2.glbimg.com/-E90dBBlqIk7JVKymocTNlcIL7A=/i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2020/i/n/hEiJQzSRGA0olRvM0qVw/2020-954-justificado-background.jpg",
-            "__typename": "Cover"
-          },
+          "backgroundUrl": "https://s2.glbimg.com/fyQf_CRlkpVU4gpN6qn_PJZekHU=/0x720/filters:quality(40)/https://s2.glbimg.com/-E90dBBlqIk7JVKymocTNlcIL7A=/i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2020/i/n/hEiJQzSRGA0olRvM0qVw/2020-954-justificado-background.jpg",
           "poster": {
             "tv": "https://s2.glbimg.com/ZDMDnJAMDPP3mZVTXaX8RdRBKSE=/146x216/filters:quality(40)/https://s2.glbimg.com/q0RKyyYC6JAAQjJLdrDDW8FK0ps=/i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/c/F/gPjH6pRLm8BdoHkTq6eg/2022-2859-justificado-poster.jpg",
             "__typename": "Poster"
@@ -1709,10 +1713,7 @@
             ],
             "__typename": "TechnicalSpecs"
           },
-          "cover": {
-            "landscape": "https://s2.glbimg.com/94SmCi6avPBHSIBapq62URAcEwc=/0x720/filters:quality(40)/https://s2.glbimg.com/5Lrh9-zWcsKb-r-qwXUpFp7Jaro=/i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2019/B/M/vDBwUZQReBCU2SmPftWA/2019-564-e-one-halt-and-catch-fire-background.jpg",
-            "__typename": "Cover"
-          },
+          "backgroundUrl": "https://s2.glbimg.com/94SmCi6avPBHSIBapq62URAcEwc=/0x720/filters:quality(40)/https://s2.glbimg.com/5Lrh9-zWcsKb-r-qwXUpFp7Jaro=/i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2019/B/M/vDBwUZQReBCU2SmPftWA/2019-564-e-one-halt-and-catch-fire-background.jpg",
           "poster": {
             "tv": "https://s2.glbimg.com/RqiHFkekNdfXWSnZ2pxzCWFaOCY=/146x216/filters:quality(40)/https://s2.glbimg.com/XEqd-PUuh5tqKkJMr9mok0Lnj8c=/i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2019/V/B/5z5p83T1eZLCQEnKfC8g/2019-564-e-one-halt-and-catch-fire-poster.jpg",
             "__typename": "Poster"
@@ -1748,10 +1749,7 @@
             ],
             "__typename": "TechnicalSpecs"
           },
-          "cover": {
-            "landscape": "https://s2.glbimg.com/GeRHDS3nN1qAIENNjPalBqz-kvU=/0x720/filters:quality(40)/https://s2.glbimg.com/cVa9bzl2duNQ9vAi5IiI_jZHlJ8=/i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2018/l/h/BMcVqSSturwzUuoum1jA/2536-os-normais-background.jpg",
-            "__typename": "Cover"
-          },
+          "backgroundUrl": "https://s2.glbimg.com/GeRHDS3nN1qAIENNjPalBqz-kvU=/0x720/filters:quality(40)/https://s2.glbimg.com/cVa9bzl2duNQ9vAi5IiI_jZHlJ8=/i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2018/l/h/BMcVqSSturwzUuoum1jA/2536-os-normais-background.jpg",
           "poster": {
             "tv": "https://s2.glbimg.com/n77fcoGyrwYG64jTdpbxBnHkRck=/146x216/filters:quality(40)/https://s2.glbimg.com/m2NQbbTSOD1HPaJ8FElGmXQAs98=/i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2019/O/F/NA1AK0T6KDe9p2L8zTog/os-normais-poster-web.jpg",
             "__typename": "Poster"
@@ -1759,207 +1757,5 @@
         }
       ],
       "__typename": "OfferItemsCollection"
-    },
-    {
-      "title": "Destaque",
-      "contentType": "OFFERHIGHLIGHT",
-      "uiDefinitions": {
-        "height": 660,
-        "isVerticalCentered": true,
-        "hasMediaCover": false
-      },
-      "offerId": "2de900b3-a047-4571-b278-805136a0c249",
-      "isVideo": false,
-      "playlistEnabled": false,
-      "cards": [
-        {
-          "UI_number": 0,
-          "UI_customHeight": 262,
-          "backgroundUrl": "http://s2.glbimg.com/01WJv79Ce9Ou2WivZTJOYP1lq_M=/0x720/https://s2.glbimg.com/BeDWmdLyz9RG0k4cphyuNZbE9_8=/1280x720/center/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/L/3/InMgIMSXCSwTTWk7QEEg/cara-e-coragem-imagem-de-categoria.jpg",
-          "id": "bd71913d-9202-4e74-9916-308df7977613",
-          "headline": "Novelas",
-          "displayName": "Novelas",
-          "navigation": {
-            "__typename": "MenuPageNavigation",
-            "UI_typename": "MenuPageNavigation",
-            "identifier": "novelas"
-          },
-          "posterUrl": "http://s2.glbimg.com/K1HpyK0yrH3Bmwe2cddORebov_8=/0x196/https://s2.glbimg.com/KMqpXYv9dtRLQ6ZJD2QX_FpQju8=/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/L/3/InMgIMSXCSwTTWk7QEEg/cara-e-coragem-imagem-de-categoria.jpg"
-        },
-        {
-          "UI_number": 1,
-          "UI_customHeight": 262,
-          "backgroundUrl": "http://s2.glbimg.com/mGz8d8A6BKf5eQvrQQbjIQuiec4=/0x720/https://s2.glbimg.com/EvVETDy7YO-BHAQ1nWgt5dyB7Ss=/1280x720/center/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/S/N/NCJPoqTJAiKBSizVCoLQ/walker-t2.jpg",
-          "id": "4f02072b-8bf3-4e10-af2e-b247ecf9ba29",
-          "headline": "Séries",
-          "displayName": "Séries",
-          "navigation": {
-            "__typename": "MenuPageNavigation",
-            "UI_typename": "MenuPageNavigation",
-            "identifier": "series"
-          },
-          "posterUrl": "http://s2.glbimg.com/qd6i9btEGFY8MavMPcaydsRu3PM=/0x196/https://s2.glbimg.com/m6TSqSogTP6SRLwzsjCy1RB65po=/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/S/N/NCJPoqTJAiKBSizVCoLQ/walker-t2.jpg"
-        },
-        {
-          "UI_number": 2,
-          "UI_customHeight": 262,
-          "backgroundUrl": "http://s2.glbimg.com/EWAttq3-KKBESOESzJpC7P6NVR0=/0x720/https://s2.glbimg.com/TRHF9tAxbFH55qDXeitYIA5ZgXQ=/1280x720/center/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/C/e/0L3E8PTCAcjOgStB4a8g/la-la-land.jpg",
-          "id": "e4d7f717-c829-4225-ae62-fad133534c9a",
-          "headline": "Filmes",
-          "displayName": "Filmes",
-          "navigation": {
-            "__typename": "MenuPageNavigation",
-            "UI_typename": "MenuPageNavigation",
-            "identifier": "filmes"
-          },
-          "posterUrl": "http://s2.glbimg.com/VBtMPnmFFEke_3HpXd4NpHqLTNo=/0x196/https://s2.glbimg.com/f26G9ArujK2aEAt-7_l5ENKuyD4=/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/C/e/0L3E8PTCAcjOgStB4a8g/la-la-land.jpg"
-        },
-        {
-          "UI_number": 3,
-          "UI_customHeight": 262,
-          "backgroundUrl": "http://s2.glbimg.com/Qkvrzl0_dv-QpRdk9OpmDzuDbsQ=/0x720/https://s2.glbimg.com/yfpwDMMMjhfYD-LxqWzwjC1Z1Fg=/1280x720/center/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/J/x/yePpCxSeSfPt7hG1OJeA/desalma-haia.jpg",
-          "id": "0eefd8b5-d4c4-44a2-adbd-37d751e6f1c1",
-          "headline": "Originais",
-          "displayName": "Originais",
-          "navigation": {
-            "__typename": "MenuPageNavigation",
-            "UI_typename": "MenuPageNavigation",
-            "identifier": "originais-globoplay"
-          },
-          "posterUrl": "http://s2.glbimg.com/7xybv6VZ38y25-Vq4tPb9F9k79c=/0x196/https://s2.glbimg.com/iYjc4DWMlwAr-ExAoZaXsLtzrBk=/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/J/x/yePpCxSeSfPt7hG1OJeA/desalma-haia.jpg"
-        },
-        {
-          "UI_number": 4,
-          "UI_customHeight": 262,
-          "backgroundUrl": "http://s2.glbimg.com/iA6OwFwMQ3bR23qQ7Ka_G4qHa-w=/0x720/https://s2.glbimg.com/PtelcBx08UKL5Bkt2bw1YTpL1V4=/1280x720/center/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/t/r/jNls3HTyAyHfkneI4H6A/masha-e-o-urso.jpg",
-          "id": "0cd53be5-a27d-47d0-bd07-3c463072974b",
-          "headline": "Infantil",
-          "displayName": "Infantil",
-          "navigation": {
-            "__typename": "MenuPageNavigation",
-            "UI_typename": "MenuPageNavigation",
-            "identifier": "infantil"
-          },
-          "posterUrl": "http://s2.glbimg.com/roI_nGJqoYULVDuAeUQQWNgr-mk=/0x196/https://s2.glbimg.com/iXhx5BJxaJ48ESl4OmjKqa_Oa5g=/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/t/r/jNls3HTyAyHfkneI4H6A/masha-e-o-urso.jpg"
-        },
-        {
-          "UI_number": 5,
-          "UI_customHeight": 262,
-          "backgroundUrl": "http://s2.glbimg.com/R8LnBIw2VEpGgSytVt2M_GYmUCY=/0x720/https://s2.glbimg.com/PjcNrtimkvuxIOhKXi-BB-3kdAU=/1280x720/center/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/I/x/NUB1UKQJ6kne53vBW6BQ/no-limite.jpg",
-          "id": "70ad11f8-b5bb-47f7-8dc2-55298b9bb57a",
-          "headline": "Realities",
-          "displayName": "Realities",
-          "navigation": {
-            "__typename": "MenuPageNavigation",
-            "UI_typename": "MenuPageNavigation",
-            "identifier": "reality-shows"
-          },
-          "posterUrl": "http://s2.glbimg.com/AFFFIWJvHZh91sP38sUI1Minn4U=/0x196/https://s2.glbimg.com/mIF6362K6yz7ZnCyXOzaIvHuFwc=/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/I/x/NUB1UKQJ6kne53vBW6BQ/no-limite.jpg"
-        },
-        {
-          "UI_number": 6,
-          "UI_customHeight": 262,
-          "backgroundUrl": "http://s2.glbimg.com/LjKy0nVJh15xQQotxhR60jRUvK4=/0x720/https://s2.glbimg.com/YP8lqBsRFSh30o4fYpAG6lW9_uc=/1280x720/center/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/i/b/WiDTT4Qfmcrat7uqW6lw/11.09-a-vida-sob-ataque.jpg",
-          "id": "18c0803c-3704-4dd6-9d49-558c63559d08",
-          "headline": "Documentários",
-          "displayName": "Documentários",
-          "navigation": {
-            "__typename": "MenuPageNavigation",
-            "UI_typename": "MenuPageNavigation",
-            "identifier": "documentarios"
-          },
-          "posterUrl": "http://s2.glbimg.com/mFBk0rytABU35AVjgwNWVCpiYH4=/0x196/https://s2.glbimg.com/epAAbNDQedp4Lc9tIpy4LUvcIhQ=/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/i/b/WiDTT4Qfmcrat7uqW6lw/11.09-a-vida-sob-ataque.jpg"
-        },
-        {
-          "UI_number": 7,
-          "UI_customHeight": 262,
-          "backgroundUrl": "http://s2.glbimg.com/pQFsrE_tdbndmdcXrjP6xCJblcc=/0x720/https://s2.glbimg.com/-GR-c2Ht8i80K2qVaKeUEefUTbs=/1280x720/center/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/c/M/r70NVKQ0uuc8vNxEniow/bem-amigos.jpg",
-          "id": "bc854080-7fcb-4a30-becc-f2352719668f",
-          "headline": "Esportes",
-          "displayName": "Esportes",
-          "navigation": {
-            "__typename": "MenuPageNavigation",
-            "UI_typename": "MenuPageNavigation",
-            "identifier": "esportes"
-          },
-          "posterUrl": "http://s2.glbimg.com/2g9hyQu8xV75FJjUracx7nch29U=/0x196/https://s2.glbimg.com/4-3IA8ulo_l-C7lZmtXO8g0V-DQ=/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/c/M/r70NVKQ0uuc8vNxEniow/bem-amigos.jpg"
-        },
-        {
-          "UI_number": 8,
-          "UI_customHeight": 262,
-          "backgroundUrl": "http://s2.glbimg.com/HAAZDncErkaB1hetOBeo8HBpACs=/0x720/https://s2.glbimg.com/ELHRTd-c5HfYRuOcLAkfSl1MS4E=/1280x720/center/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2021/g/r/9fLA2KSEGsq7fZMjM9IQ/categoria-variedades.jpg",
-          "id": "a6951f16-22b1-46c5-a741-c15acb13f7f4",
-          "headline": "Variedades",
-          "displayName": "Variedades",
-          "navigation": {
-            "__typename": "MenuPageNavigation",
-            "UI_typename": "MenuPageNavigation",
-            "identifier": "variedades"
-          },
-          "posterUrl": "http://s2.glbimg.com/L1SMgWoVeHpf0pc9lpE7UiC7eYY=/0x196/https://s2.glbimg.com/t6n1hDw3HlqqiPUNMp_MMnLDH6Q=/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2021/g/r/9fLA2KSEGsq7fZMjM9IQ/categoria-variedades.jpg"
-        },
-        {
-          "UI_number": 9,
-          "UI_customHeight": 262,
-          "backgroundUrl": "http://s2.glbimg.com/GXAwl7j08RZ0r5cQSdzg4N9nw4A=/0x720/https://s2.glbimg.com/sHC1EpG4Q2Vlq_E1BhjRPPeKwcI=/1280x720/center/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/Q/S/bEGGl9TTS3wJJ9IjY3NQ/escolinha-do-professor-raimundo.jpg",
-          "id": "c25ef35d-b5fa-48ab-9092-642f741fa246",
-          "headline": "Humor",
-          "displayName": "Humor",
-          "navigation": {
-            "__typename": "MenuPageNavigation",
-            "UI_typename": "MenuPageNavigation",
-            "identifier": "humor"
-          },
-          "posterUrl": "http://s2.glbimg.com/CdsK6WlbfGNwejUCHNPhb5JxCZ4=/0x196/https://s2.glbimg.com/bSFN8xx8aqGJgGZCtwyC0q1cSJ0=/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/Q/S/bEGGl9TTS3wJJ9IjY3NQ/escolinha-do-professor-raimundo.jpg"
-        },
-        {
-          "UI_number": 10,
-          "UI_customHeight": 262,
-          "backgroundUrl": "http://s2.glbimg.com/Cs4BZgfOvSr8tsr40cXWp3sglYI=/0x720/https://s2.glbimg.com/4VnyUIduSCHxTSn1LVXLpGyIWMs=/1280x720/center/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2021/Z/0/nMzFWfSYezfK4R6jpxIg/musica-adele.jpg",
-          "id": "02a9df77-c36c-42f6-94e2-0e4b05f23453",
-          "headline": "Música",
-          "displayName": "Música",
-          "navigation": {
-            "__typename": "MenuPageNavigation",
-            "UI_typename": "MenuPageNavigation",
-            "identifier": "especiais"
-          },
-          "posterUrl": "http://s2.glbimg.com/cPjsXg6L30sOjGCzZZqbQGEZzT4=/0x196/https://s2.glbimg.com/Bi1ZqzRRINk8m9NTsNLT9tcb9lo=/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2021/Z/0/nMzFWfSYezfK4R6jpxIg/musica-adele.jpg"
-        },
-        {
-          "UI_number": 11,
-          "UI_customHeight": 262,
-          "backgroundUrl": "http://s2.glbimg.com/78KRpp7EbZZ3JCrtg8qzrzxGvU0=/0x720/https://s2.glbimg.com/TDvFJkJycBb3C87T1AlVj_fjsZk=/1280x720/center/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/L/p/XIoC8ISTWCjGoegBUAPg/jornal-nacional-2022.jpg",
-          "id": "1fe9b094-9b77-404c-a989-9d6301fd3296",
-          "headline": "Jornalismo",
-          "displayName": "Jornalismo",
-          "navigation": {
-            "__typename": "MenuPageNavigation",
-            "UI_typename": "MenuPageNavigation",
-            "identifier": "jornalismo"
-          },
-          "posterUrl": "http://s2.glbimg.com/MyidgY1CQSCHfluoZhqmmksei7c=/0x196/https://s2.glbimg.com/hVE0daoifv5ZRKVO4G-HJVLP1yg=/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/L/p/XIoC8ISTWCjGoegBUAPg/jornal-nacional-2022.jpg"
-        },
-        {
-          "UI_number": 12,
-          "UI_customHeight": 262,
-          "backgroundUrl": "http://s2.glbimg.com/d399KQbzZuJckUUZEKV1otFCFSY=/0x720/https://s2.glbimg.com/pvbSFIek7m8V0XFH05jwKvFOlvg=/1280x720/center/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2020/k/n/VELhUFTL2QxSm63zMQcA/programas-locais-vale-esta.jpg",
-          "id": "2daf0eb4-f74b-49dc-ba01-642e7df5517a",
-          "headline": "Programas Locais",
-          "displayName": "Programas Locais",
-          "navigation": {
-            "__typename": "MenuSlugNavigation",
-            "UI_typename": "MenuSlugNavigation",
-            "slug": "/programas-locais/"
-          },
-          "posterUrl": "http://s2.glbimg.com/V3MLmQ7GvBmo9vL3eExQIIKvYt8=/0x196/https://s2.glbimg.com/ZJQoPSZSlNXt38aS49QfKsHitAs=/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2020/k/n/VELhUFTL2QxSm63zMQcA/programas-locais-vale-esta.jpg"
-        }
-      ],
-      "index": 4,
-      "navigation": {
-        "__typename": "URLNavigation",
-        "UI_typename": "URLNavigation",
-        "url": "/categorias/"
-      }
     }
   ]
