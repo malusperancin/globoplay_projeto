@@ -6,7 +6,9 @@
   margin-left: 100px;
   top: 500px;
   position: absolute;
+
   @include HD {
-    margin: 13px;
+    margin-left: calcToHD(100px);
+    top: calcToHD(500px);
   }
 }

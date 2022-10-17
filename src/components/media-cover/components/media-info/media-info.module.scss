@@ -20,9 +20,18 @@ h1 {
   transform: translateY(75px);
   margin-bottom: 300px;
 
+  @include HD {
+    max-width: calcToHD(745px);
+    height: calcToHD(339px);
+    transform: translateY(calcToHD(75px));
+    margin-bottom: calcToHD(300px);
+  }
+
   .logo {
     @include HD {
+      width: calcToHD(307px);
       height: calcToHD(110px);
+      margin-bottom: 30px;
     }
   }
 
@@ -32,16 +41,10 @@ h1 {
     max-width: 600px;
 
     @include HD {
-      margin-top: calcToHD(50px);
+      margin-top: calcToHD(20px);
       font-size: calcToHD(40px);
       max-width: calcToHD(600px);
     }
-  }
-
-  @include HD {
-    max-width: calcToHD(745px);
-    height: calcToHD(339px);
-    transform: translateY(calcToHD(75px));
   }
 }
 
