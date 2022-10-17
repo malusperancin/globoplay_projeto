@@ -19,9 +19,15 @@ const MediaInfoGeneral = ({ isVisible, info }: Props) => {
     return null;
   }
 
-  console.log(info);
-
   switch (info.contentType) {
+    case "OFFERHIGHLIGHT": {
+      return (
+        <div className={styles.offerHighlight}>
+          <img className={styles.logo} src={info.card.headlineImage} alt="" />
+          <p className={styles.title}>{info.card.description}</p>
+        </div>
+      );
+    }
     case "BROADCAST": {
       const channelName = info.card.broadcast?.channel?.name || "";
       return (

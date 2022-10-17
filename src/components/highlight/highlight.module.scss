@@ -1,0 +1,12 @@
+@import "../../style/variables.scss";
+
+.highlight {
+  background-color: rgb(0, 0, 0);
+  width: max-content;
+  margin-left: 100px;
+  top: 500px;
+  position: absolute;
+  @include HD {
+    margin: 13px;
+  }
+}

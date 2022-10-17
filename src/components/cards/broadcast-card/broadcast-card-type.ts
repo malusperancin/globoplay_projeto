@@ -34,9 +34,6 @@ interface BroadcastCardType {
   broadcast: Broadcast;
   UI_number: number;
   categories: string[];
-  cover: {
-    landscape: string;
-  };
 }
 
 export default BroadcastCardType;

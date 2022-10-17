@@ -14,9 +14,6 @@ interface TitleCardType {
     resolutions: string[];
   };
   genresNames: string[];
-  cover: {
-    landscape: string;
-  };
   format: string;
   releaseYear: number;
   contentBrand: {

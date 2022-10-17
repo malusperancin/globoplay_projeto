@@ -25,8 +25,5 @@ interface VideoCardType {
   titleId: string;
   watchedPercent: number;
   watchedProgress: number;
-  cover: {
-    landscape: string;
-  };
 }
 export default VideoCardType;

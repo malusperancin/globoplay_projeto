@@ -8,6 +8,7 @@ import style from "./vertical-scroll.module.scss";
 import MediaInfoData from "../media-cover/components/media-info/media-info-type";
 import BroadcastRail from "../rails/broadcast-rail/broadcast-rail";
 import VideoRail from "../rails/video-rail/video-rail";
+import Highlight from "../highlight/highlight";
 
 type Props = {
   isFocused: boolean;
@@ -39,6 +40,15 @@ const VerticalScroll: React.FC<Props> = ({ rails, isFocused, onCardFocus }) => {
     const allRails = rails as RailType[];
     return allRails.map((i, index) => {
       switch (i.contentType) {
+        case "OFFERHIGHLIGHT":
+          return (
+            <Highlight
+              data={i}
+              isFocused={i.index === foco}
+              onCardFocus={onCardFocus}
+              hide={i.index < foco}
+            />
+          );
         case "VIDEO":
           return (
             <VideoRail

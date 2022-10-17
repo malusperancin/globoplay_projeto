@@ -14,6 +14,37 @@ h1 {
   }
 }
 
+.offerHighlight {
+  max-width: 745px;
+  height: 339px;
+  transform: translateY(75px);
+  margin-bottom: 300px;
+
+  .logo {
+    @include HD {
+      height: calcToHD(110px);
+    }
+  }
+
+  .title {
+    margin-top: 50px;
+    font-size: 40px;
+    max-width: 600px;
+
+    @include HD {
+      margin-top: calcToHD(50px);
+      font-size: calcToHD(40px);
+      max-width: calcToHD(600px);
+    }
+  }
+
+  @include HD {
+    max-width: calcToHD(745px);
+    height: calcToHD(339px);
+    transform: translateY(calcToHD(75px));
+  }
+}
+
 .broadcast {
   max-width: 745px;
   height: 339px;
