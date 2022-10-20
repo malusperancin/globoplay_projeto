@@ -5,7 +5,6 @@ interface BroadcastRailType {
   contentType: "BROADCAST";
   offerId: string;
   isVideo: boolean;
-  playlistEnabled: boolean;
   cards: BroadcastCardType[];
   index: number;
 }

@@ -50,6 +50,8 @@ const BroadcastRail: React.FC<Props> = ({
               translate={translate}
               isFocus={isFocused ? index === foco : false}
               data={i}
+              index={index}
+              data-testid={`broadcast-item-${index}`}
             />
           );
         })}

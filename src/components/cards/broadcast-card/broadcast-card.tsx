@@ -8,9 +8,15 @@ type Props = {
   data: BroadcastCardType;
   isFocus: boolean;
   translate: number;
+  index: number;
 };
 
-const BroadcastCard = ({ data, isFocus, translate }: Props): ReactElement => {
+const BroadcastCard = ({
+  data,
+  isFocus,
+  translate,
+  index,
+}: Props): ReactElement => {
   const styles = {
     transform: `translate(${translate}px)`,
   };
@@ -20,6 +26,7 @@ const BroadcastCard = ({ data, isFocus, translate }: Props): ReactElement => {
       style={styles}
       className={isFocus ? style.buttonFocus : style.button}
       type="button"
+      data-testid={`broadcast-card-${index}`}
     >
       <div className={style.logoContainer}>
         <img
@@ -35,7 +42,9 @@ const BroadcastCard = ({ data, isFocus, translate }: Props): ReactElement => {
       <img src={data.posterUrl} className={style.poster} alt="" />
       <div className={style.info}>
         <div className={style.firstLine}>
-          <img className={style.liveIcon} src={liveIcon} alt="ao vivo" />
+          {data.broadcast.isLive && (
+            <img className={style.liveIcon} src={liveIcon} alt="ao vivo" />
+          )}
           <p className={style.hour}> {data.stringTime} </p>
         </div>
         <p className={isFocus ? style.titleSelect : style.title}>
