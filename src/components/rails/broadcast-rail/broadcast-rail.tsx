@@ -40,7 +40,7 @@ const BroadcastRail: React.FC<Props> = ({
   if (hide) return <></>;
 
   return (
-    <div>
+    <div data-testid={`broadcast-rail`}>
       <p className={style.title}> Assista ao vivo </p>
       <div className={style.rail}>
         {data.cards.map((i, index) => {
@@ -50,8 +50,6 @@ const BroadcastRail: React.FC<Props> = ({
               translate={translate}
               isFocus={isFocused ? index === foco : false}
               data={i}
-              index={index}
-              data-testid={`broadcast-item-${index}`}
             />
           );
         })}

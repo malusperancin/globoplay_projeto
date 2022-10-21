@@ -14,13 +14,15 @@ const CategoryCard = ({ data, isFocus, translate }: Props): ReactElement => {
   };
 
   return (
-    <button
-      style={styles}
-      className={isFocus ? style.buttonFocus : style.button}
-      type="button"
-    >
-      <img className={style.image} src={data.posterUrl} alt=""></img>
-    </button>
+    <div data-testid={`category-card`} className={style.container}>
+      <button
+        style={styles}
+        className={isFocus ? style.buttonFocus : style.button}
+        type="button"
+      >
+        <img className={style.image} src={data.posterUrl} alt=""></img>
+      </button>
+    </div>
   );
 };
 

@@ -1,0 +1,56 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`BroadcastCard should render without throwing an error 1`] = `
+<div>
+  <div
+    class="container"
+    data-testid="broadcast-card"
+  >
+    <button
+      class="buttonFocus"
+      style="transform: translate(100px);"
+      type="button"
+    >
+      <div
+        class="logoContainer"
+      >
+        <img
+          alt=""
+          class="logoChannel"
+          src="teste"
+        />
+      </div>
+      <img
+        alt=""
+        class="poster"
+        src="teste"
+      />
+      <div
+        class="info"
+      >
+        <div
+          class="firstLine"
+        >
+          <img
+            alt="ao vivo"
+            class="liveIcon"
+            src="live-icon.png"
+          />
+          <p
+            class="hour"
+          >
+             
+            teste
+             
+          </p>
+        </div>
+        <p
+          class="titleSelect"
+        >
+          teste
+        </p>
+      </div>
+    </button>
+  </div>
+</div>
+`;

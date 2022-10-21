@@ -2,12 +2,12 @@
 /* eslint-disable testing-library/no-node-access */
 import React from "react";
 import { render } from "@testing-library/react";
-import BroadcastRail from "../broadcast-rail";
-import BroadcastRailType from "../broadcast-rail-type";
-import BroadcastCardType from "../../../cards/broadcast-card/broadcast-card-type";
+import CategoryRail from "../category-rail";
+import { CategoryRailType } from "../category-rail-type";
+import CategoryCardType from "../../../cards/category-card/category-card-type";
 
-describe("BroadcastRail", () => {
-  const cards: BroadcastCardType[] = Array(10).map((_, index) => ({
+describe("CategoryRail", () => {
+  const cards: CategoryCardType[] = Array(10).map((_, index) => ({
     id: "teste",
     subtitle: "teste",
     headline: "teste",
@@ -18,10 +18,10 @@ describe("BroadcastRail", () => {
     contentRating: "teste",
     stringTime: "teste",
     progress: 0,
-    broadcast: {
+    category: {
       isLive: true,
       channel: {
-        __typename: "BroadcastChannel",
+        __typename: "CategoryChannel",
         name: "teste",
         logo: "teste",
         logoTrimmed: "teste",
@@ -39,17 +39,15 @@ describe("BroadcastRail", () => {
     categories: [],
   }));
 
-  const list: BroadcastRailType = {
+  const list: CategoryRailType = {
     title: "teste",
-    contentType: "BROADCAST",
-    offerId: "teste",
-    isVideo: true,
+    contentType: "CATEGORY",
     index: 0,
     cards,
   };
 
-  const broadcastComponent = (
-    <BroadcastRail
+  const categoryComponent = (
+    <CategoryRail
       data={list}
       isFocused={true}
       onCardFocus={jest.fn()}
@@ -57,8 +55,8 @@ describe("BroadcastRail", () => {
     />
   );
 
-  const broadcastHideComponent = (
-    <BroadcastRail
+  const categoryHideComponent = (
+    <CategoryRail
       data={list}
       isFocused={true}
       onCardFocus={jest.fn()}
@@ -67,14 +65,19 @@ describe("BroadcastRail", () => {
   );
 
   it("should render without throwing an error", () => {
-    const { container } = render(broadcastComponent);
+    const { container } = render(categoryComponent);
 
     expect(container).toMatchSnapshot();
     expect(container).toBeTruthy();
   });
 
   it("should hide component", () => {
-    const { container } = render(broadcastHideComponent);
+    const { container } = render(categoryHideComponent);
+    expect(container).toBeEmptyDOMElement();
+  });
+
+  it("should match snapshot", () => {
+    const { container } = render(categoryHideComponent);
     expect(container).toBeEmptyDOMElement();
   });
 });
