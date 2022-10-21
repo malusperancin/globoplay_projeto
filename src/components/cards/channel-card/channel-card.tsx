@@ -14,17 +14,19 @@ const ChannelCard = ({ data, isFocus, translate }: Props): ReactElement => {
   };
 
   return (
-    <button
-      style={styles}
-      className={isFocus ? style.buttonFocus : style.button}
-      type="button"
-    >
-      <img
-        className={style.image}
-        src={!isFocus ? data.logo : data.logoSelected}
-        alt=""
-      ></img>
-    </button>
+    <div data-testid={`channel-card`} className={style.container}>
+      <button
+        style={styles}
+        className={isFocus ? style.buttonFocus : style.button}
+        type="button"
+      >
+        <img
+          className={style.image}
+          src={!isFocus ? data.logo : data.logoSelected}
+          alt=""
+        ></img>
+      </button>
+    </div>
   );
 };
 

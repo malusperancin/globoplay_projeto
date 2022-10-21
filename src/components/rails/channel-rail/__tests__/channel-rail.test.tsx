@@ -2,27 +2,29 @@
 /* eslint-disable testing-library/no-node-access */
 import React from "react";
 import { render } from "@testing-library/react";
-import CategoryRail from "../category-rail";
-import { CategoryRailType } from "../category-rail-type";
-import CategoryCardType from "../../../cards/category-card/category-card-type";
+import ChannelRail from "../channel-rail";
+import ChannelRailType from "../channel-rail-type";
+import ChannelCardType from "../../../cards/channel-card/channel-card-type";
 
-describe("CategoryRail", () => {
-  const cards: CategoryCardType[] = Array(10).map((_, index) => ({
+describe("ChannelRail", () => {
+  const cards: ChannelCardType[] = Array(10).map((_, index) => ({
     id: "teste",
+    description: "teste",
     headline: "teste",
-    posterUrl: "teste",
+    logoSelected: "teste",
+    logo: "teste",
     backgroundUrl: "teste",
   }));
 
-  const list: CategoryRailType = {
+  const list: ChannelRailType = {
     title: "teste",
-    contentType: "CATEGORY",
+    contentType: "BROADCAST_CHANNEL",
     index: 0,
     cards,
   };
 
-  const categoryComponent = (
-    <CategoryRail
+  const channelComponent = (
+    <ChannelRail
       data={list}
       isFocused={true}
       onCardFocus={jest.fn()}
@@ -30,8 +32,8 @@ describe("CategoryRail", () => {
     />
   );
 
-  const categoryHideComponent = (
-    <CategoryRail
+  const channelHideComponent = (
+    <ChannelRail
       data={list}
       isFocused={true}
       onCardFocus={jest.fn()}
@@ -40,19 +42,19 @@ describe("CategoryRail", () => {
   );
 
   it("should render without throwing an error", () => {
-    const { container } = render(categoryComponent);
+    const { container } = render(channelComponent);
 
     expect(container).toMatchSnapshot();
     expect(container).toBeTruthy();
   });
 
   it("should hide component", () => {
-    const { container } = render(categoryHideComponent);
+    const { container } = render(channelHideComponent);
     expect(container).toBeEmptyDOMElement();
   });
 
   it("should match snapshot", () => {
-    const { container } = render(categoryHideComponent);
+    const { container } = render(channelHideComponent);
     expect(container).toBeEmptyDOMElement();
   });
 });

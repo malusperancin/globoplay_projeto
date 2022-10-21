@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ChannelCard should render without throwing an error 1`] = `
+<div>
+  <div
+    class="container"
+    data-testid="channel-card"
+  >
+    <button
+      class="buttonFocus"
+      style="transform: translate(100px);"
+      type="button"
+    >
+      <img
+        alt=""
+        class="image"
+        src="teste"
+      />
+    </button>
+  </div>
+</div>
+`;

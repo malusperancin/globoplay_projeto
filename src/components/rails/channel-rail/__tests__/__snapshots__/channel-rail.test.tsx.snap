@@ -1,0 +1,16 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ChannelRail should render without throwing an error 1`] = `
+<div>
+  <div>
+    <p
+      class="title"
+    >
+       Canais 
+    </p>
+    <div
+      class="rail"
+    />
+  </div>
+</div>
+`;
