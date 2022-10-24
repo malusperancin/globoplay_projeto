@@ -1,32 +1,36 @@
 @import "../../../style/autoprefixer.scss";
 @import "../../../style/variables.scss";
 
-.buttonFocus {
-  background-color: #eee;
-  border-radius: 8px;
-  height: 16px;
-  width: 72px;
-  margin: 4px;
+.container {
+  display: inline;
 
-  @include HD {
-    border-radius: calcToHD(8px);
-    height: calcToHD(16px);
-    width: calcToHD(72px);
-    margin: calcToHD(4px);
+  .buttonFocus {
+    background-color: #eee;
+    border-radius: 8px;
+    height: 16px;
+    width: 72px;
+    margin: 4px;
+
+    @include HD {
+      border-radius: calcToHD(8px);
+      height: calcToHD(16px);
+      width: calcToHD(72px);
+      margin: calcToHD(4px);
+    }
   }
-}
 
-.button {
-  background-color: #333;
-  border-radius: 4px;
-  height: 8px;
-  width: 72px;
-  margin: 4px;
+  .button {
+    background-color: #333;
+    border-radius: 4px;
+    height: 8px;
+    width: 72px;
+    margin: 4px;
 
-  @include HD {
-    border-radius: calcToHD(4px);
-    height: calcToHD(8px);
-    width: calcToHD(72px);
-    margin: calcToHD(4px);
+    @include HD {
+      border-radius: calcToHD(4px);
+      height: calcToHD(8px);
+      width: calcToHD(72px);
+      margin: calcToHD(4px);
+    }
   }
 }

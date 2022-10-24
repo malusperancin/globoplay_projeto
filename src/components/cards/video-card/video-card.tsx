@@ -15,33 +15,35 @@ const VideoCard = ({ data, isFocus, translate }: Props): ReactElement => {
   };
 
   return (
-    <button style={styles} className={style.button} type="button">
-      <div className={style.poster}>
-        <img
-          alt=""
-          className={isFocus ? style.gradientFocus : style.gradient}
-          src={imgGradient}
-        />
-        <div className={style.progressBar}>
-          <span
-            className={style.completed}
-            style={{ width: `${data.watchedPercent}%` }}
+    <div data-testid={`video-card`} className={style.container}>
+      <button style={styles} className={style.button} type="button">
+        <div className={style.poster}>
+          <img
+            alt=""
+            className={isFocus ? style.gradientFocus : style.gradient}
+            src={imgGradient}
+          />
+          <div className={style.progressBar}>
+            <span
+              className={style.completed}
+              style={{ width: `${data.watchedPercent}%` }}
+            />
+          </div>
+          <span className={style.spanTime}>
+            <p className={style.time}> {data.formattedDuration} </p>
+          </span>
+          <img
+            src={data.logoUrl}
+            className={isFocus ? style.imageFocus : style.image}
+            alt=""
           />
         </div>
-        <span className={style.spanTime}>
-          <p className={style.time}> {data.formattedDuration} </p>
-        </span>
-        <img
-          src={data.logoUrl}
-          className={isFocus ? style.imageFocus : style.image}
-          alt=""
-        />
-      </div>
-      <div className={style.info}>
-        <p className={style.title}> {data.title} </p>
-        <p className={style.description}> {data.headline} </p>
-      </div>
-    </button>
+        <div className={style.info}>
+          <p className={style.title}> {data.title} </p>
+          <p className={style.description}> {data.headline} </p>
+        </div>
+      </button>
+    </div>
   );
 };
 

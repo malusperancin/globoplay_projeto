@@ -1,5 +1,4 @@
 interface TitleCardType {
-  state: "title";
   titleId: string;
   headline: string;
   description: string;

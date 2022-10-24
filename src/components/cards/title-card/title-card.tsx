@@ -14,13 +14,15 @@ const TitleCard = ({ data, isFocus, translate }: Props): ReactElement => {
   };
 
   return (
-    <button
-      style={styles}
-      className={isFocus ? style.buttonFocus : style.button}
-      type="button"
-    >
-      <img className={style.image} src={data.poster.tv} alt=""></img>
-    </button>
+    <div data-testid={`title-card`} className={style.container}>
+      <button
+        style={styles}
+        className={isFocus ? style.buttonFocus : style.button}
+        type="button"
+      >
+        <img className={style.image} src={data.poster.tv} alt=""></img>
+      </button>
+    </div>
   );
 };
 

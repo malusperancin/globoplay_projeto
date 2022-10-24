@@ -10,10 +10,12 @@ type Props = {
 const HighlightCard = ({ data, isFocus }: Props): ReactElement => {
   console.log(data);
   return (
-    <button
-      type="button"
-      className={isFocus ? style.buttonFocus : style.button}
-    ></button>
+    <div data-testid={`highlight-card`} className={style.container}>
+      <button
+        type="button"
+        className={isFocus ? style.buttonFocus : style.button}
+      ></button>
+    </div>
   );
 };
 

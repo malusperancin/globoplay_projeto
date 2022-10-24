@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`VideoRail should render without throwing an error 1`] = `
+<div>
+  <div>
+    <p
+      class="title"
+    >
+       
+      teste
+       
+    </p>
+    <div
+      class="rail"
+    />
+  </div>
+</div>
+`;

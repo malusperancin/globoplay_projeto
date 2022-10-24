@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`HighlightCard should render without throwing an error 1`] = `
+<div>
+  <div
+    class="container"
+    data-testid="highlight-card"
+  >
+    <button
+      class="buttonFocus"
+      type="button"
+    />
+  </div>
+</div>
+`;
