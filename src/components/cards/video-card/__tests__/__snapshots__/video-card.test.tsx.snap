@@ -1,0 +1,68 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`VideoCard should render without throwing an error 1`] = `
+<div>
+  <div
+    class="container"
+    data-testid="video-card"
+  >
+    <button
+      class="button"
+      style="transform: translate(100px);"
+      type="button"
+    >
+      <div
+        class="poster"
+      >
+        <img
+          alt=""
+          class="gradientFocus"
+          src="gradient.png"
+        />
+        <div
+          class="progressBar"
+        >
+          <span
+            class="completed"
+            style="width: 20%;"
+          />
+        </div>
+        <span
+          class="spanTime"
+        >
+          <p
+            class="time"
+          >
+             
+            teste
+             
+          </p>
+        </span>
+        <img
+          alt=""
+          class="imageFocus"
+          src="teste"
+        />
+      </div>
+      <div
+        class="info"
+      >
+        <p
+          class="title"
+        >
+           
+          teste
+           
+        </p>
+        <p
+          class="description"
+        >
+           
+          teste
+           
+        </p>
+      </div>
+    </button>
+  </div>
+</div>
+`;

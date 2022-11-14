@@ -40,7 +40,7 @@ const TitleRail: React.FC<Props> = ({ data, isFocused, onCardFocus, hide }) => {
 
   return (
     <div>
-      <p className={style.title}> Titulo </p>
+      <p className={style.title}> {data.title} </p>
       <div className={style.rail}>
         {data.cards.map((i, index) => {
           return (

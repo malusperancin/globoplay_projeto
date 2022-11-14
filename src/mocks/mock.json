@@ -916,6 +916,7 @@
         "height": 204,
         "hasMediaCover": true
       },
+      "title":"Novidades",
       "cards": [
         {
           "__typename": "Title",

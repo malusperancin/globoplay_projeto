@@ -25,7 +25,6 @@ const Highlight: React.FC<Props> = ({ data, isFocused, onCardFocus, hide }) => {
     }
   }, [isFocused, foco, data, onCardFocus]);
 
-  console.log(data);
   if (hide) return <></>;
 
   return (

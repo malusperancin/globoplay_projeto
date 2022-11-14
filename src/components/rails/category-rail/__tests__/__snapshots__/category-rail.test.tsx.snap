@@ -1,0 +1,16 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CategoryRail should render without throwing an error 1`] = `
+<div>
+  <div>
+    <p
+      class="title"
+    >
+       Categorias 
+    </p>
+    <div
+      class="rail"
+    />
+  </div>
+</div>
+`;

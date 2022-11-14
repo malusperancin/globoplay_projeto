@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Media Info should render without throwing an error 1`] = `
+<div>
+  <div
+    class="offerHighlight"
+    data-testid="media-info-highlight"
+  >
+    <img
+      alt=""
+      class="logo"
+      src="http://s2.glbimg.com/LrVLlrMezNJ026waR0sgyQVQ13o=/0x110/https://s2.glbimg.com/uB9M8WyLrkLworWdYQFmF7MJ52s=/fit-in/0x364/filters:fill(transparent)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/N/3/KBN5XOSiAIl4MvuABTdg/2022-2881-sob-pressao-t5-logo-destaque.png"
+    />
+    <p
+      class="title"
+    >
+      Novos episódios disponíveis! Na 5ª temporada, a saúde mental e física da equipe médica preocupa
+    </p>
+  </div>
+</div>
+`;

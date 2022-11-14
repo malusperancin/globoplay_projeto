@@ -18,6 +18,7 @@ const MediaCover: React.FC<Props> = ({ isVisible, data }) => {
   if (data.card.backgroundUrl) url = data.card.backgroundUrl;
 
   const renderMediaInfo = (): ReactNode => {
+    console.log(data);
     return <MediaInfo isVisible={isVisible} info={data} />;
   };
 

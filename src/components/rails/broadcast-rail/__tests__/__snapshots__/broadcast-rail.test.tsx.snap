@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`BroadcastRail should render without throwing an error 1`] = `
+<div>
+  <div
+    data-testid="broadcast-rail"
+  >
+    <p
+      class="title"
+    >
+       Assista ao vivo 
+    </p>
+    <div
+      class="rail"
+    />
+  </div>
+</div>
+`;

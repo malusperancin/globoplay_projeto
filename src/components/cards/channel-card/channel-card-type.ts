@@ -5,7 +5,6 @@ type ChannelCardType = {
   logo: string;
   logoSelected: string;
   headline: string;
-  contentType: string;
 };
 
 export default ChannelCardType;

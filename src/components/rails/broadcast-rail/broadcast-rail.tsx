@@ -40,7 +40,7 @@ const BroadcastRail: React.FC<Props> = ({
   if (hide) return <></>;
 
   return (
-    <div>
+    <div data-testid={`broadcast-rail`}>
       <p className={style.title}> Assista ao vivo </p>
       <div className={style.rail}>
         {data.cards.map((i, index) => {
