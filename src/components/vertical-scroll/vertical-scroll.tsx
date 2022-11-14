@@ -43,6 +43,7 @@ const VerticalScroll: React.FC<Props> = ({ rails, isFocused, onCardFocus }) => {
         case "OFFERHIGHLIGHT":
           return (
             <Highlight
+              key={index}
               data={i}
               isFocused={i.index === foco}
               onCardFocus={onCardFocus}

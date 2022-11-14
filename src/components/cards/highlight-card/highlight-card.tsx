@@ -8,7 +8,6 @@ type Props = {
 };
 
 const HighlightCard = ({ data, isFocus }: Props): ReactElement => {
-  console.log(data);
   return (
     <div data-testid={`highlight-card`} className={style.container}>
       <button

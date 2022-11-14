@@ -22,7 +22,10 @@ const MediaInfoGeneral = ({ isVisible, info }: Props) => {
   switch (info.contentType) {
     case "OFFERHIGHLIGHT": {
       return (
-        <div className={styles.offerHighlight}>
+        <div
+          className={styles.offerHighlight}
+          data-testid="media-info-highlight"
+        >
           <img className={styles.logo} src={info.card.headlineImage} alt="" />
           <p className={styles.title}>{info.card.description}</p>
         </div>
