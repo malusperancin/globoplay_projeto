@@ -4,6 +4,7 @@ import getContentBrand from "../../../../utils/get-content-brand";
 import styles from "./media-info.module.scss";
 import MediaInfoType from "./media-info-type";
 import { sliceText } from "../../../../utils/slice-text";
+import { memo } from "react";
 
 type Props = {
   isVisible: boolean;
@@ -124,4 +125,4 @@ const MediaInfoGeneral = ({ isVisible, info }: Props) => {
   }
 };
 
-export default MediaInfoGeneral;
+export default memo(MediaInfoGeneral);

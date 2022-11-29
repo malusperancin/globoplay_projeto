@@ -1,4 +1,4 @@
-import React, { ReactNode, useEffect, useState } from "react";
+import React, { memo, ReactNode, useEffect, useState } from "react";
 import CategoryRail from "../rails/category-rail/category-rail";
 import { RailType } from "./Types";
 import ChannelRail from "../rails/channel-rail/channel-rail";
@@ -109,4 +109,4 @@ const VerticalScroll: React.FC<Props> = ({ rails, isFocused, onCardFocus }) => {
   return <div className={style.rails}>{renderRails()}</div>;
 };
 
-export default VerticalScroll;
+export default memo(VerticalScroll);

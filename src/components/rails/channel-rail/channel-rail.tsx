@@ -1,4 +1,4 @@
-import { useEffect } from "react";
+import { memo, useEffect } from "react";
 import ChannelRailType from "./channel-rail-type";
 import ChannelCard from "../../cards/channel-card/channel-card";
 import MediaInfoType from "../../media-cover/components/media-info/media-info-type";
@@ -59,4 +59,4 @@ const ChannelRail: React.FC<Props> = ({
   );
 };
 
-export default ChannelRail;
+export default memo(ChannelRail);

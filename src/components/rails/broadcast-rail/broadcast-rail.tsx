@@ -1,4 +1,4 @@
-import { useEffect } from "react";
+import { memo, useEffect } from "react";
 import { CARD_BROADCAST } from "../../../constants/constants";
 import BroadcastCard from "../../cards/broadcast-card/broadcast-card";
 import MediaInfoType from "../../media-cover/components/media-info/media-info-type";
@@ -58,4 +58,4 @@ const BroadcastRail: React.FC<Props> = ({
   );
 };
 
-export default BroadcastRail;
+export default memo(BroadcastRail);

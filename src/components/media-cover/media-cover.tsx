@@ -1,5 +1,6 @@
 import { ReactNode } from "react";
 import Background from "./components/background/background";
+import Gradient from "./components/gradient/gradient";
 import MediaInfo from "./components/media-info/media-info";
 import MediaInfoType from "./components/media-info/media-info-type";
 
@@ -18,13 +19,13 @@ const MediaCover: React.FC<Props> = ({ isVisible, data }) => {
   if (data.card.backgroundUrl) url = data.card.backgroundUrl;
 
   const renderMediaInfo = (): ReactNode => {
-    console.log(data);
     return <MediaInfo isVisible={isVisible} info={data} />;
   };
 
   return (
     <div>
       <Background url={url} />
+      <Gradient />
       <div className={style.mediaInfo}>{renderMediaInfo()}</div>
     </div>
   );

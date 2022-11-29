@@ -1,4 +1,4 @@
-import { useEffect } from "react";
+import { memo, useEffect } from "react";
 import TitleRailType from "./title-rail-type";
 import TitleCard from "../../cards/title-card/title-card";
 import MediaInfoType from "../../media-cover/components/media-info/media-info-type";
@@ -57,4 +57,4 @@ const TitleRail: React.FC<Props> = ({ data, isFocused, onCardFocus, hide }) => {
   );
 };
 
-export default TitleRail;
+export default memo(TitleRail);

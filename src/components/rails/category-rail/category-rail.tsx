@@ -1,4 +1,4 @@
-import { useEffect } from "react";
+import { memo, useEffect } from "react";
 import { CARD_CATEGORY } from "../../../constants/constants";
 import CategoryCard from "../../cards/category-card/category-card";
 import MediaInfoType from "../../media-cover/components/media-info/media-info-type";
@@ -58,4 +58,4 @@ const CategoryRail: React.FC<Props> = ({
   );
 };
 
-export default CategoryRail;
+export default memo(CategoryRail);

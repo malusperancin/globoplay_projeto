@@ -9,26 +9,3 @@
   height: 65%;
   opacity: 1;
 }
-
-.horizontalGradient {
-  position: absolute;
-  height: 250px;
-  width: 70vw;
-  bottom: 34%;
-  right: 0%;
-  @include HD {
-    height: 150px;
-  }
-}
-
-.verticalGradient {
-  position: absolute;
-  top: 0px;
-  left: 34%;
-  height: 100%;
-  width: 570px;
-
-  @include HD {
-    width: 400px;
-  }
-}

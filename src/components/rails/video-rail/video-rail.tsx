@@ -1,4 +1,4 @@
-import { useEffect } from "react";
+import { memo, useEffect } from "react";
 import { CARD_VIDEO } from "../../../constants/constants";
 import VideoCard from "../../cards/video-card/video-card";
 import MediaInfoType from "../../media-cover/components/media-info/media-info-type";
@@ -53,4 +53,4 @@ const VideoRail: React.FC<Props> = ({ data, isFocused, onCardFocus, hide }) => {
   );
 };
 
-export default VideoRail;
+export default memo(VideoRail);
